@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 # Dataset: unbalancedrisk.csv 
 # Link: https://www.kaggle.com/emoneyanalytics/unbalancedrisk
-# Commented code: 
+# Commented code: https://www.kaggle.com/cludiofalco/dealing-with-unbalanced-data?scriptVersionId=45061910
 ```
 ```Python
 
