@@ -71,10 +71,10 @@ df = df.sample(frac=1)
 
 #Defining the size of the range we want from the data [0 and 1]
 df_0 = df.loc[df['obj1']==0][:834]
-df_01 = df.loc[df['obj1']==1]
+df_1 = df.loc[df['obj1']==1]
 
 # Concatenating the subsets
-df2 = pd.concat([df_0,df_01])
+df2 = pd.concat([df_0,df_1])
 
 # Shuffling the data
 new_df = df2.sample(frac=1, random_state = 50)
