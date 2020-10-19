@@ -5,7 +5,7 @@
 <p align="justify">Tor all null data records, we will assume the current date</p>
 <p align="justify">The <b>DateTime.LocalNow () as datetime</b> function will return the current date</p>
 
-```r
+```Python
 
 M language 
 if [DT_RET] = null
