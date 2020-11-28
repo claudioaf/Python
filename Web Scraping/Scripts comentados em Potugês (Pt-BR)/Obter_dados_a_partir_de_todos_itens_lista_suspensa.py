@@ -19,9 +19,6 @@ from selenium.webdriver.firefox.options import Options # Caso queira rodar no Fi
 #from selenium.webdriver.chrome.options import Options # Caso queira rodar no Google Crhome
 from selenium.webdriver.support.ui import Select
 
-#from selenium.webdriver.support.ui import WebDriverWait
-#from selenium.webdriver.support import expected_conditions as EC
-
 #############################################################
 # 1 - Capturando o conteudo da URL
 #############################################################
@@ -32,7 +29,7 @@ url = "https://www.nba.com/stats/players/traditional/?sort=PTS&dir=-1&Season=201
 option = Options()
 option.headless = False #True não irá mostrar a página abrindo, False irá mostrar a página abrindo
 driver = webdriver.Firefox(options=option) # Caso queira rodar no firefox
-#driver = webdriver.Chrome(options=option)
+#driver = webdriver.Chrome(options=option) # Caso queira rodar no Chrome
 
 
 # Maximar a página
