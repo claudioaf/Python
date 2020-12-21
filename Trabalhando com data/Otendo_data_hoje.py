@@ -48,6 +48,6 @@ print('O fuso horário selecionado é: '+str(fuso))
 
 # 5 - Imprimindo resultado baseado no fusohorario definido
 
-data_hora_fuso_brasilia = data_hoje_hora.astimezone(fuso)
-data_hora_fuso_brasilia_formatada = data_hora_fuso_brasilia.strftime('%d/%m/%Y %H:%M')
-print('A data e hora atual baseao no fuso definido são: '+str(data_hora_fuso_brasilia_formatada))
+data_hora_fuso_londres = data_hoje_hora.astimezone(fuso)
+data_hora_fuso_londres_formatada = data_hora_fuso_londres.strftime('%d/%m/%Y %H:%M')
+print('A data e hora atual baseao no fuso definido são: '+str(data_hora_fuso_londres_formatada))
