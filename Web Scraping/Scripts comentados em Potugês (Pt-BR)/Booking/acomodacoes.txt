@@ -1,0 +1,121 @@
+João Pessoa,Hostel Orla de Tambaú,2 camas em beliche,6 km do centro,R$ 92,25/01/2021 20:59
+João Pessoa,Manaíra Buena Playa,1 cama de casal,5 km do centro,R$ 95,25/01/2021 20:59
+João Pessoa,Pousada Refúgio,1 cama de casal,50 m do centro,R$ 100,25/01/2021 20:59
+João Pessoa,Apartamento completo ao lado Manaíra Shopping,3 camas (1 sofá-cama, 1 king-size, 1 tipo futon),4,8 km do centro,R$ 109,25/01/2021 20:59
+João Pessoa,Sensacional Flat Frente Mar no Manaíra Palace!,2 camas (1 sofá-cama, 1 king-size),6 km do centro,R$ 114,25/01/2021 20:59
+João Pessoa,Hotel Pousada dos Anjos,1 cama de casal,6 km do centro,R$ 116,25/01/2021 20:59
+João Pessoa,Manaira Hostel,2 camas em beliche,5 km do centro,R$ 120,25/01/2021 20:59
+João Pessoa,Sua casa fora de casa,1 cama de casal grande,5 km do centro,R$ 120,25/01/2021 20:59
+João Pessoa,Escuna Praia Hotel,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 130,25/01/2021 20:59
+João Pessoa,Pousada Tô Em Casa!,Camas: 1 de casal ou 2 de solteiro,5 km do centro,R$ 135,25/01/2021 20:59
+João Pessoa,Victory Flat - AB,3 camas (2 de solteiro, 1 de casal),6 km do centro,R$ 135,25/01/2021 20:59
+João Pessoa,Ótimo Flat no Manaíra Palace Residence,1 cama de casal,6 km do centro,R$ 139,25/01/2021 20:59
+João Pessoa,One Hotel,2 camas de solteiro,6 km do centro,R$ 140,25/01/2021 20:59
+João Pessoa,Hotel Ouro Preto,1 cama de casal,1,1 km do centro,R$ 140,25/01/2021 20:59
+João Pessoa,Blue Sunset Flats - apt 322,2 camas (1 de solteiro, 1 de casal),8 km do centro,R$ 140,25/01/2021 20:59
+João Pessoa,Anjos Praia Hotel,1 cama de casal,6 km do centro,R$ 141,25/01/2021 20:59
+João Pessoa,Guarany Hotel Express,2 camas de solteiro,250 m do centro,R$ 141,25/01/2021 20:59
+João Pessoa,Sensacional Flat no Blue Sunset,1 cama de casal extragrande,8 km do centro,R$ 144,25/01/2021 20:59
+João Pessoa,Lindo Studio no Gold Flat - Cabo Branco,1 cama de casal,6 km do centro,R$ 144,25/01/2021 20:59
+João Pessoa,GOLDFLAT - Penareia tur br,1 cama de casal,6 km do centro,R$ 145,25/01/2021 20:59
+João Pessoa,Atlântico Tambaú Home Service,1 cama de casal grande,6 km do centro,R$ 145,25/01/2021 20:59
+João Pessoa,Studio Fantástico no Gold Flat,2 camas (1 sofá-cama, 1 king-size),6 km do centro,R$ 148,25/01/2021 20:59
+João Pessoa,Flat Ambassador 222,2 camas (1 de solteiro, 1 king-size),6 km do centro,R$ 150,25/01/2021 20:59
+João Pessoa,Pousada JARDIM TROPICAL,7 camas (6 beliches, 1 king-size),7 km do centro,R$ 153,25/01/2021 20:59
+João Pessoa,NUMAR Hotel,1 cama de casal,6 km do centro,R$ 155,25/01/2021 20:59
+João Pessoa,Dimensional Home Service,2 camas (1 de casal, 1 tipo futon),5 km do centro,R$ 155,25/01/2021 20:59
+João Pessoa,Pousada Tambaú,1 cama de casal grande,6 km do centro,R$ 158,25/01/2021 20:59
+João Pessoa,Verde Mar Pousada,1 cama de casal,6 km do centro,R$ 159,25/01/2021 20:59
+João Pessoa,Altiplano Hotel,1 cama de casal,8 km do centro,R$ 160,25/01/2021 20:59
+João Pessoa,Israel Flat,2 camas (1 de casal, 1 sofá-cama),6 km do centro,R$ 160,25/01/2021 20:59
+João Pessoa,Pousada Fenix,1 cama de casal,100 m do centro,R$ 160,25/01/2021 20:59
+João Pessoa,Imperial Flats Tambau - Beira Mar,3 camas (2 sofás-cama, 1 king-size),6 km do centro,R$ 165,25/01/2021 20:59
+João Pessoa,Mariba's Pousada,1 cama de casal,7 km do centro,R$ 165,25/01/2021 20:59
+João Pessoa,Flat com vista para o mar, a 100 metros do Lovina,2 camas (1 de casal, 1 sofá-cama),11 km do centro,R$ 166,25/01/2021 20:59
+João Pessoa,Pousada Solar Altiplano,7 camas (6 de solteiro, 1 de casal),5 km do centro,R$ 168,25/01/2021 20:59
+João Pessoa,Pousada Xamã Tour,1 cama de casal,6 km do centro,R$ 170,25/01/2021 20:59
+João Pessoa,Pousada Nascer do Sol,2 camas (1 de solteiro, 1 de casal),6 km do centro,R$ 170,25/01/2021 20:59
+João Pessoa,Pousada Jasmine,2 camas de solteiro,6 km do centro,R$ 170,25/01/2021 20:59
+João Pessoa,Cidade Verde Flat Hotel,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 170,25/01/2021 20:59
+João Pessoa,Ouro,5 camas (3 de solteiro, 1 de casal, 1 sofá-cama),6 km do centro,R$ 170,25/01/2021 20:59
+João Pessoa,Ilha Do Caribe,4 camas (2 de solteiro, 1 de casal, 1 sofá-cama),5 km do centro,R$ 170,25/01/2021 20:59
+João Pessoa,Apartamento completo em frente ao EU AMO JAMPA!,3 camas (1 de solteiro, 1 sofá-cama, 1 king-size),6 km do centro,R$ 171,25/01/2021 20:59
+João Pessoa,O Portuga Pousada,5 camas (1 de casal, 4 beliches),6 km do centro,R$ 172,25/01/2021 20:59
+João Pessoa,Apartamentos super confortáveis no Gold Flat,3 camas (2 de solteiro, 1 king-size),6 km do centro,R$ 174,25/01/2021 20:59
+João Pessoa,Victory Flats Tambau,3 camas (2 de solteiro, 1 de casal),6 km do centro,R$ 175,25/01/2021 20:59
+João Pessoa,Israel Flat Tambaú 126 - PRAIA,1 cama de casal,6 km do centro,R$ 176,25/01/2021 20:59
+João Pessoa,Lindo Flat Lateral Mar no Na Praia,1 cama de casal grande,6 km do centro,R$ 177,25/01/2021 20:59
+João Pessoa,Pousada Familly -Praia de Tambaú -PB,1 cama de casal,6 km do centro,R$ 179,25/01/2021 20:59
+João Pessoa,Hotel Brisa do Mar Tambaú,3 camas (2 de solteiro, 1 de casal),6 km do centro,R$ 180,25/01/2021 20:59
+João Pessoa,CABO BRANCO - GREEN,1 cama de casal,8 km do centro,R$ 180,25/01/2021 20:59
+João Pessoa,Lavie,1 cama de casal,8 km do centro,R$ 180,25/01/2021 20:59
+João Pessoa,Flat à beira mar,1 cama de casal,6 km do centro,R$ 186,25/01/2021 20:59
+João Pessoa,Ótimo Flat Lateral Mar no Na Praia,1 cama de casal grande,6 km do centro,R$ 188,25/01/2021 20:59
+João Pessoa,Lindo Flat Lateral Mar no Na Praia Bessa,1 cama de casal grande,6 km do centro,R$ 188,25/01/2021 20:59
+João Pessoa,Thematic Pousada,1 cama de casal,5 km do centro,R$ 189,25/01/2021 20:59
+João Pessoa,Neriah Pousada,2 camas (1 de casal, 1 beliche),6 km do centro,R$ 189,25/01/2021 20:59
+João Pessoa,Apartamento Beira-Mar Cabo Branco,2 camas (1 de solteiro, 1 king-size),8 km do centro,R$ 199,25/01/2021 20:59
+João Pessoa,Guest Manaíra Apart Hotel,1 cama de casal grande,5 km do centro,R$ 200,25/01/2021 20:59
+João Pessoa,Hotel Costa do Atlântico,1 cama de casal,6 km do centro,R$ 200,25/01/2021 20:59
+João Pessoa,Hotel Pousada Atlântica,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 200,25/01/2021 20:59
+João Pessoa,Flat Beira-mar Blue Sunset,2 camas (1 de solteiro, 1 de casal),8 km do centro,R$ 200,25/01/2021 20:59
+João Pessoa,Kitnets Izidro - TAMBAÚ,1 cama de casal,6 km do centro,R$ 200,25/01/2021 20:59
+João Pessoa,Flat no Intercity em Manaíra,2 camas de solteiro,6 km do centro,R$ 200,25/01/2021 20:59
+João Pessoa,Flat Lateral Mar no Na Praia,3 camas (1 de solteiro, 1 king-size, 1 tipo futon),6 km do centro,R$ 205,25/01/2021 20:59
+João Pessoa,Casa Aeroclube,3 camas (2 de solteiro, 1 de casal),5 km do centro,R$ 207,25/01/2021 20:59
+João Pessoa,Tambau Beach Hotel,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 208,25/01/2021 20:59
+João Pessoa,Flat Israel Unidade 310,3 camas (2 de solteiro, 1 sofá-cama),6 km do centro,R$ 210,25/01/2021 20:59
+João Pessoa,Littoral Express,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 212,25/01/2021 20:59
+João Pessoa,Hotel Tamarsol,Camas: 1 de casal ou 2 de solteiro,5 km do centro,R$ 215,25/01/2021 20:59
+João Pessoa,Oriental Praia Hotel,5 camas (4 de solteiro, 1 de casal),7 km do centro,R$ 216,25/01/2021 20:59
+João Pessoa,Flat Israel Unidade 308,1 cama de casal,6 km do centro,R$ 220,25/01/2021 20:59
+João Pessoa,Hotel Pousada Tamandaré - PB,Diversos tipos de cama,6 km do centro,R$ 221,25/01/2021 20:59
+João Pessoa,Bessa Golden Flats,1 cama de casal grande,7 km do centro,R$ 225,25/01/2021 20:59
+João Pessoa,Apartamento Praia De Manaíra,3 camas (1 de solteiro, 1 de casal, 1 sofá-cama),5 km do centro,R$ 225,25/01/2021 20:59
+João Pessoa,Flat Mar do Cabo Branco Residence,2 camas (1 de solteiro, 1 de casal),6 km do centro,R$ 227,25/01/2021 20:59
+João Pessoa,Xilo Design Hotel,1 cama de casal,6 km do centro,R$ 229,25/01/2021 20:59
+João Pessoa,Hotel Filipeia Bessa,2 camas de solteiro,7 km do centro,R$ 230,25/01/2021 20:59
+João Pessoa,Pousada Costera,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 232,25/01/2021 20:59
+João Pessoa,Pousada Boi Bumbá Praia,1 cama de casal,6 km do centro,R$ 234,25/01/2021 20:59
+João Pessoa,Pousada Boi Bumba Tambau,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 234,25/01/2021 20:59
+João Pessoa,Pousada Tropical Bessa,2 camas (1 de solteiro, 1 king-size),7 km do centro,R$ 235,25/01/2021 20:59
+João Pessoa,Pousada Lírios do Tambaú,3 camas de solteiro,5 km do centro,R$ 240,25/01/2021 20:59
+João Pessoa,Manos Royal Hotel,3 camas de solteiro,6 km do centro,R$ 250,25/01/2021 20:59
+João Pessoa,Hotel do Mar Cabo Branco,1 cama de casal,8 km do centro,R$ 250,25/01/2021 20:59
+João Pessoa,Atlantis Aquamarine,3 camas (2 de solteiro, 1 king-size),6 km do centro,R$ 250,25/01/2021 20:59
+João Pessoa,João Pessoa Hplus Beach,2 camas de solteiro,6 km do centro,R$ 262,25/01/2021 20:59
+João Pessoa,Best Western Hotel Caiçara,2 camas de solteiro,6 km do centro,R$ 263,25/01/2021 20:59
+João Pessoa,Aram Beach & Convention,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 265,25/01/2021 20:59
+João Pessoa,Annamar Hotel,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 270,25/01/2021 20:59
+João Pessoa,Praia de Jacumã,5 camas (2 de solteiro, 1 de casal, 2 beliches),1,4 km do centro,R$ 270,25/01/2021 20:59
+João Pessoa,Littoral Gold Flat,1 cama de casal grande,6 km do centro,R$ 280,25/01/2021 20:59
+João Pessoa,Ambassador Flat,5 camas (4 de solteiro, 1 de casal),6 km do centro,R$ 280,25/01/2021 20:59
+João Pessoa,Slaviero Essential João Pessoa Solmar,Diversos tipos de cama,7 km do centro,R$ 289,25/01/2021 20:59
+João Pessoa,Netuanah Praia Hotel,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 292,25/01/2021 20:59
+João Pessoa,Ibis João Pessoa,2 camas de solteiro,8 km do centro,R$ 293,25/01/2021 20:59
+João Pessoa,Bessa Beach Hotel,Camas: 1 de casal ou 2 de solteiro,7 km do centro,R$ 295,25/01/2021 20:59
+João Pessoa,Infinity at the Sea by Welkom,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 296,25/01/2021 20:59
+João Pessoa,Essencial Manaíra,6 camas (4 de solteiro, 1 sofá-cama, 1 king-size),5 km do centro,R$ 300,25/01/2021 20:59
+João Pessoa,Israel Flat Tambaú,2 camas (1 de casal, 1 sofá-cama),6 km do centro,R$ 300,25/01/2021 20:59
+João Pessoa,Excelente apto em Tambaú,8 camas (4 de solteiro, 2 de casal, 2 sofás-cama),6 km do centro,R$ 300,25/01/2021 20:59
+João Pessoa,Nord Easy Connect,1 cama de casal,6 km do centro,R$ 309,25/01/2021 20:59
+João Pessoa,Littoral Tambaú Flat,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 310,25/01/2021 20:59
+João Pessoa,Littoral Hotel,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 320,25/01/2021 20:59
+João Pessoa,Apartamento em prédio Beira Mar,4 camas (2 de solteiro, 2 de casal extragrandes),7 km do centro,R$ 330,25/01/2021 20:59
+João Pessoa,Hotel Corais de Tambau,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 333,25/01/2021 20:59
+João Pessoa,Hotel Manaíra,2 camas de solteiro,5 km do centro,R$ 336,25/01/2021 20:59
+João Pessoa,Val Atlantic Hotel,Camas: 1 de casal ou 2 de solteiro,8 km do centro,R$ 359,25/01/2021 20:59
+João Pessoa,Hotel Cabo Branco Atlântico,1 cama de casal,8 km do centro,R$ 388,25/01/2021 20:59
+João Pessoa,Hardman Praia Hotel,Diversos tipos de cama,6 km do centro,R$ 395,25/01/2021 20:59
+João Pessoa,Tambaú Beach apartment,3 camas (2 de solteiro, 1 king-size),6 km do centro,R$ 414,25/01/2021 20:59
+João Pessoa,RES. IMPERIAL SUITES - FLAT LUXUOSO,2 camas (1 de casal, 1 tipo futon),8 km do centro,R$ 414,25/01/2021 20:59
+João Pessoa,Laguna Praia Hotel,Camas: 1 de casal ou 2 de solteiro,6 km do centro,R$ 450,25/01/2021 20:59
+João Pessoa,Unique Beach - Pé Na Areia,6 camas (4 de solteiro, 1 de casal, 1 sofá-cama),6 km do centro,R$ 480,25/01/2021 20:59
+João Pessoa,Verdegreen Hotel,1 cama de casal,6 km do centro,R$ 491,25/01/2021 20:59
+João Pessoa,Quality Suítes João Pessoa,2 camas (1 sofá-cama, 1 king-size),6 km do centro,R$ 505,25/01/2021 20:59
+João Pessoa,APARTAMENTO 303 - RES EMILENE,5 camas (2 de solteiro, 1 de casal, 1 beliche, 1 sofá-cama),6 km do centro,R$ 512,25/01/2021 20:59
+João Pessoa,Nord Luxxor Cabo Branco,1 cama de casal,6 km do centro,R$ 517,25/01/2021 20:59
+João Pessoa,Oceana Atlântico Hotel,1 cama de casal,7 km do centro,R$ 598,25/01/2021 20:59
+João Pessoa,Home Flat 4 estrelas,2 camas de casal grandes,6 km do centro,R$ 675,25/01/2021 20:59
+João Pessoa,Minha Casa Sua,3 camas de casal,5 km do centro,R$ 699,25/01/2021 20:59
+João Pessoa,LS Hotel,2 camas de solteiro,6 km do centro,R$ 728,25/01/2021 20:59
