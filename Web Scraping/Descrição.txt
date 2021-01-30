@@ -1,0 +1,7 @@
+O objetivo deste programa é utilizar python para coletar dados
+das acomodações disponíveis no do site do booking.com.
+
+O Arquivo acomodacoes.txt mostra um exemplo do resultado obtido nessa 
+primeira versão do programa, utilizando como exemplo acomodações da 
+cidade de João Pessoa. 
+
