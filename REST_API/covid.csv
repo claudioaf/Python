@@ -1,0 +1,6001 @@
+city,date,confirmed,deaths
+,2021-05-18,80590,1625
+,2021-05-18,185615,4523
+,2021-05-18,379830,12879
+,2021-05-18,109479,1628
+,2021-05-18,961157,20054
+,2021-05-18,749955,19346
+,2021-05-18,394223,8366
+,2021-05-18,462618,10328
+,2021-05-18,585587,16280
+,2021-05-18,280064,7758
+,2021-05-18,1472801,37617
+Acorizal,2021-05-18,466,18
+Água Boa,2021-05-18,2238,53
+Alta Floresta,2021-05-18,7417,110
+Alto Araguaia,2021-05-18,1050,22
+Alto Boa Vista,2021-05-18,664,12
+Alto Garças,2021-05-18,721,25
+Alto Paraguai,2021-05-18,773,26
+Alto Taquari,2021-05-18,1347,26
+Apiacás,2021-05-18,1474,14
+Araguaiana,2021-05-18,176,4
+Araguainha,2021-05-18,22,0
+Araputanga,2021-05-18,1699,46
+Arenápolis,2021-05-18,1330,22
+Aripuanã,2021-05-18,2249,40
+Barão de Melgaço,2021-05-18,327,13
+Barra do Bugres,2021-05-18,2393,56
+Barra do Garças,2021-05-18,6571,230
+Bom Jesus do Araguaia,2021-05-18,890,14
+Brasnorte,2021-05-18,1782,30
+Cáceres,2021-05-18,8153,305
+Campinápolis,2021-05-18,965,25
+Campo Novo do Parecis,2021-05-18,5506,66
+Campos de Júlio,2021-05-18,937,9
+Campo Verde,2021-05-18,4990,102
+Canabrava do Norte,2021-05-18,303,3
+Canarana,2021-05-18,2475,42
+Carlinda,2021-05-18,1488,28
+Castanheira,2021-05-18,472,20
+Chapada dos Guimarães,2021-05-18,1494,73
+Cláudia,2021-05-18,1322,28
+Cocalinho,2021-05-18,451,9
+Colíder,2021-05-18,4648,102
+Colniza,2021-05-18,1532,59
+Comodoro,2021-05-18,1432,22
+Confresa,2021-05-18,2725,69
+Conquista D'Oeste,2021-05-18,400,10
+Cotriguaçu,2021-05-18,896,32
+Cuiabá,2021-05-18,81946,2790
+Curvelândia,2021-05-18,245,7
+Denise,2021-05-18,459,13
+Diamantino,2021-05-18,2306,53
+Dom Aquino,2021-05-18,497,17
+Feliz Natal,2021-05-18,1538,28
+Figueirópolis D'Oeste,2021-05-18,289,6
+Gaúcha do Norte,2021-05-18,676,18
+General Carneiro,2021-05-18,569,16
+Glória D'Oeste,2021-05-18,276,12
+Guarantã do Norte,2021-05-18,3380,89
+Guiratinga,2021-05-18,245,22
+Importados/Indefinidos,2021-05-18,2268,172
+Indiavaí,2021-05-18,196,9
+Ipiranga do Norte,2021-05-18,994,12
+Itanhangá,2021-05-18,250,4
+Itaúba,2021-05-18,729,23
+Itiquira,2021-05-18,379,11
+Jaciara,2021-05-18,2891,98
+Jangada,2021-05-18,498,17
+Jauru,2021-05-18,611,29
+Juara,2021-05-18,3797,70
+Juína,2021-05-18,2976,99
+Juruena,2021-05-18,1240,34
+Juscimeira,2021-05-18,1082,32
+Lambari D'Oeste,2021-05-18,549,14
+Lucas do Rio Verde,2021-05-18,11879,143
+Luciara,2021-05-18,114,3
+Marcelândia,2021-05-18,1216,31
+Matupá,2021-05-18,1886,43
+Mirassol d'Oeste,2021-05-18,3000,98
+Nobres,2021-05-18,1394,47
+Nortelândia,2021-05-18,637,22
+Nossa Senhora do Livramento,2021-05-18,968,36
+Nova Bandeirantes,2021-05-18,529,15
+Nova Brasilândia,2021-05-18,293,8
+Nova Canaã do Norte,2021-05-18,1019,23
+Nova Guarita,2021-05-18,616,13
+Nova Lacerda,2021-05-18,828,7
+Nova Marilândia,2021-05-18,272,5
+Nova Maringá,2021-05-18,555,9
+Nova Monte Verde,2021-05-18,1285,17
+Nova Mutum,2021-05-18,6683,102
+Nova Nazaré,2021-05-18,242,6
+Nova Olímpia,2021-05-18,1194,49
+Nova Santa Helena,2021-05-18,481,11
+Nova Ubiratã,2021-05-18,519,15
+Nova Xavantina,2021-05-18,2437,44
+Novo Horizonte do Norte,2021-05-18,328,9
+Novo Mundo,2021-05-18,633,16
+Novo Santo Antônio,2021-05-18,270,3
+Novo São Joaquim,2021-05-18,343,12
+Paranaíta,2021-05-18,2332,30
+Paranatinga,2021-05-18,2688,63
+Pedra Preta,2021-05-18,1606,56
+Peixoto de Azevedo,2021-05-18,3435,116
+Planalto da Serra,2021-05-18,176,7
+Poconé,2021-05-18,2463,65
+Pontal do Araguaia,2021-05-18,697,14
+Ponte Branca,2021-05-18,106,5
+Pontes e Lacerda,2021-05-18,4882,207
+Porto Alegre do Norte,2021-05-18,566,10
+Porto dos Gaúchos,2021-05-18,563,6
+Porto Esperidião,2021-05-18,1060,42
+Porto Estrela,2021-05-18,298,10
+Poxoréu,2021-05-18,1253,40
+Primavera do Leste,2021-05-18,10349,245
+Querência,2021-05-18,2451,45
+Reserva do Cabaçal,2021-05-18,211,5
+Ribeirão Cascalheira,2021-05-18,1023,33
+Ribeirãozinho,2021-05-18,151,10
+Rio Branco,2021-05-18,508,10
+Rondolândia,2021-05-18,256,4
+Rondonópolis,2021-05-18,28177,766
+Rosário Oeste,2021-05-18,1066,37
+Salto do Céu,2021-05-18,230,6
+Santa Carmem,2021-05-18,637,12
+Santa Cruz do Xingu,2021-05-18,307,0
+Santa Rita do Trivelato,2021-05-18,142,3
+Santa Terezinha,2021-05-18,230,7
+Santo Afonso,2021-05-18,213,11
+Santo Antônio do Leste,2021-05-18,189,6
+Santo Antônio do Leverger,2021-05-18,916,45
+São Félix do Araguaia,2021-05-18,1450,28
+São José do Povo,2021-05-18,164,7
+São José do Rio Claro,2021-05-18,1598,22
+São José dos Quatro Marcos,2021-05-18,2101,63
+São José do Xingu,2021-05-18,221,9
+São Pedro da Cipa,2021-05-18,476,20
+Sapezal,2021-05-18,3388,41
+Serra Nova Dourada,2021-05-18,184,4
+Sinop,2021-05-18,20140,367
+Sorriso,2021-05-18,13194,176
+Tabaporã,2021-05-18,1365,21
+Tangará da Serra,2021-05-18,12724,258
+Tapurah,2021-05-18,1994,22
+Terra Nova do Norte,2021-05-18,918,33
+Tesouro,2021-05-18,211,9
+Torixoréu,2021-05-18,340,12
+União do Sul,2021-05-18,462,12
+Vale de São Domingos,2021-05-18,269,10
+Várzea Grande,2021-05-18,26812,1135
+Vera,2021-05-18,1042,23
+Vila Bela da Santíssima Trindade,2021-05-18,2466,51
+Vila Rica,2021-05-18,1285,23
+,2021-05-18,386270,10509
+,2021-05-18,503349,14080
+,2021-05-18,311355,7275
+,2021-05-18,446093,15048
+,2021-05-18,260812,5677
+,2021-05-18,1032172,24857
+,2021-05-18,823456,48313
+,2021-05-18,222676,5527
+,2021-05-18,1038044,26901
+,2021-05-18,933324,14584
+,2021-05-18,219607,4774
+,2021-05-18,3112624,105105
+,2021-05-17,80561,1620
+Água Branca,2021-05-17,307,14
+Anadia,2021-05-17,1120,25
+Arapiraca,2021-05-17,23088,365
+Atalaia,2021-05-17,1076,43
+Barra de Santo Antônio,2021-05-17,334,19
+Barra de São Miguel,2021-05-17,441,7
+Batalha,2021-05-17,948,15
+Belém,2021-05-17,105,3
+Belo Monte,2021-05-17,269,7
+Boca da Mata,2021-05-17,1649,41
+Branquinha,2021-05-17,469,9
+Cacimbinhas,2021-05-17,612,7
+Cajueiro,2021-05-17,515,20
+Campestre,2021-05-17,241,6
+Campo Alegre,2021-05-17,2528,63
+Campo Grande,2021-05-17,427,8
+Canapi,2021-05-17,250,7
+Capela,2021-05-17,766,11
+Carneiros,2021-05-17,199,6
+Chã Preta,2021-05-17,252,7
+Coité do Nóia,2021-05-17,360,14
+Colônia Leopoldina,2021-05-17,319,15
+Coqueiro Seco,2021-05-17,421,6
+Coruripe,2021-05-17,3451,42
+Craíbas,2021-05-17,1051,18
+Delmiro Gouveia,2021-05-17,2868,81
+Dois Riachos,2021-05-17,526,5
+Estrela de Alagoas,2021-05-17,324,10
+Feira Grande,2021-05-17,667,11
+Feliz Deserto,2021-05-17,125,4
+Flexeiras,2021-05-17,607,17
+Girau do Ponciano,2021-05-17,1684,34
+Ibateguara,2021-05-17,539,13
+Igaci,2021-05-17,691,9
+Igreja Nova,2021-05-17,930,12
+Importados/Indefinidos,2021-05-17,0,0
+Inhapi,2021-05-17,346,7
+Jacaré dos Homens,2021-05-17,221,2
+Jacuípe,2021-05-17,145,4
+Japaratinga,2021-05-17,378,12
+Jaramataia,2021-05-17,94,1
+Jequiá da Praia,2021-05-17,532,9
+Joaquim Gomes,2021-05-17,706,20
+Jundiá,2021-05-17,144,3
+Junqueiro,2021-05-17,937,35
+Lagoa da Canoa,2021-05-17,858,17
+Limoeiro de Anadia,2021-05-17,954,22
+Maceió,2021-05-17,72685,2064
+Major Isidoro,2021-05-17,621,19
+Maragogi,2021-05-17,1336,35
+Maravilha,2021-05-17,243,9
+Marechal Deodoro,2021-05-17,5448,87
+Maribondo,2021-05-17,429,18
+Mar Vermelho,2021-05-17,122,2
+Mata Grande,2021-05-17,382,12
+Matriz de Camaragibe,2021-05-17,1342,34
+Messias,2021-05-17,955,26
+Minador do Negrão,2021-05-17,132,5
+Monteirópolis,2021-05-17,189,2
+Murici,2021-05-17,955,45
+Novo Lino,2021-05-17,167,11
+Olho d'Água das Flores,2021-05-17,1372,29
+Olho d'Água do Casado,2021-05-17,98,5
+Olho d'Água Grande,2021-05-17,177,9
+Olivença,2021-05-17,426,9
+Ouro Branco,2021-05-17,286,6
+Palestina,2021-05-17,400,3
+Palmeira dos Índios,2021-05-17,3803,92
+Pão de Açúcar,2021-05-17,1069,22
+Pariconha,2021-05-17,497,1
+Paripueira,2021-05-17,292,18
+Passo de Camaragibe,2021-05-17,554,13
+Paulo Jacinto,2021-05-17,265,10
+Penedo,2021-05-17,3219,36
+Piaçabuçu,2021-05-17,685,19
+Pilar,2021-05-17,2823,35
+Pindoba,2021-05-17,87,1
+Piranhas,2021-05-17,831,15
+Poço das Trincheiras,2021-05-17,390,6
+Porto Calvo,2021-05-17,1077,31
+Porto de Pedras,2021-05-17,330,9
+Porto Real do Colégio,2021-05-17,558,13
+Quebrangulo,2021-05-17,740,11
+Rio Largo,2021-05-17,3003,124
+Roteiro,2021-05-17,311,11
+Santa Luzia do Norte,2021-05-17,427,8
+Santana do Ipanema,2021-05-17,4045,67
+Santana do Mundaú,2021-05-17,675,13
+São Brás,2021-05-17,313,3
+São José da Laje,2021-05-17,1018,23
+São José da Tapera,2021-05-17,1184,31
+São Luís do Quitunde,2021-05-17,1098,24
+São Miguel dos Campos,2021-05-17,3235,73
+São Miguel dos Milagres,2021-05-17,221,10
+São Sebastião,2021-05-17,1458,25
+Satuba,2021-05-17,955,30
+Senador Rui Palmeira,2021-05-17,288,10
+Tanque d'Arca,2021-05-17,306,4
+Taquarana,2021-05-17,551,11
+Teotônio Vilela,2021-05-17,1755,56
+Traipu,2021-05-17,427,14
+União dos Palmares,2021-05-17,1869,73
+Viçosa,2021-05-17,1472,30
+,2021-05-17,185070,4508
+,2021-05-17,379167,12855
+,2021-05-17,109272,1622
+Abaíra,2021-05-17,252,10
+Abaré,2021-05-17,780,8
+Acajutiba,2021-05-17,480,14
+Adustina,2021-05-17,665,11
+Água Fria,2021-05-17,150,10
+Aiquara,2021-05-17,444,11
+Alagoinhas,2021-05-17,11163,220
+Alcobaça,2021-05-17,1283,22
+Almadina,2021-05-17,587,9
+Amargosa,2021-05-17,2343,47
+Amélia Rodrigues,2021-05-17,1849,37
+América Dourada,2021-05-17,754,7
+Anagé,2021-05-17,794,16
+Andaraí,2021-05-17,659,6
+Andorinha,2021-05-17,725,12
+Angical,2021-05-17,503,10
+Anguera,2021-05-17,351,1
+Antas,2021-05-17,1070,7
+Antônio Cardoso,2021-05-17,343,7
+Antônio Gonçalves,2021-05-17,678,8
+Aporá,2021-05-17,462,18
+Apuarema,2021-05-17,643,9
+Araçás,2021-05-17,555,7
+Aracatu,2021-05-17,731,14
+Araci,2021-05-17,3228,42
+Aramari,2021-05-17,523,11
+Arataca,2021-05-17,528,14
+Aratuípe,2021-05-17,324,9
+Aurelino Leal,2021-05-17,843,25
+Baianópolis,2021-05-17,579,7
+Baixa Grande,2021-05-17,625,7
+Banzaê,2021-05-17,848,7
+Barra,2021-05-17,1793,31
+Barra da Estiva,2021-05-17,1654,16
+Barra do Choça,2021-05-17,1827,27
+Barra do Mendes,2021-05-17,656,11
+Barra do Rocha,2021-05-17,382,5
+Barreiras,2021-05-17,14318,229
+Barro Alto,2021-05-17,750,8
+Barrocas,2021-05-17,696,19
+Barro Preto,2021-05-17,561,10
+Belmonte,2021-05-17,928,18
+Belo Campo,2021-05-17,705,9
+Biritinga,2021-05-17,330,6
+Boa Nova,2021-05-17,766,11
+Boa Vista do Tupim,2021-05-17,200,4
+Bom Jesus da Lapa,2021-05-17,3842,55
+Bom Jesus da Serra,2021-05-17,415,8
+Boninal,2021-05-17,570,7
+Bonito,2021-05-17,682,10
+Boquira,2021-05-17,473,10
+Botuporã,2021-05-17,188,3
+Brejões,2021-05-17,566,9
+Brejolândia,2021-05-17,129,8
+Brotas de Macaúbas,2021-05-17,72,1
+Brumado,2021-05-17,8327,169
+Buerarema,2021-05-17,1244,37
+Buritirama,2021-05-17,805,19
+Caatiba,2021-05-17,748,9
+Cabaceiras do Paraguaçu,2021-05-17,470,4
+Cachoeira,2021-05-17,1314,19
+Caculé,2021-05-17,1352,11
+Caém,2021-05-17,426,7
+Caetanos,2021-05-17,593,9
+Caetité,2021-05-17,2066,21
+Cafarnaum,2021-05-17,778,16
+Cairu,2021-05-17,1067,12
+Caldeirão Grande,2021-05-17,540,6
+Camacan,2021-05-17,2505,67
+Camaçari,2021-05-17,21057,534
+Camamu,2021-05-17,2014,43
+Campo Alegre de Lourdes,2021-05-17,632,23
+Campo Formoso,2021-05-17,4224,53
+Canápolis,2021-05-17,317,4
+Canarana,2021-05-17,1347,25
+Canavieiras,2021-05-17,1088,58
+Candeal,2021-05-17,483,2
+Candeias,2021-05-17,6463,140
+Candiba,2021-05-17,551,12
+Cândido Sales,2021-05-17,1649,45
+Cansanção,2021-05-17,763,32
+Canudos,2021-05-17,512,11
+Capela do Alto Alegre,2021-05-17,766,14
+Capim Grosso,2021-05-17,3294,20
+Caraíbas,2021-05-17,254,2
+Caravelas,2021-05-17,1222,11
+Cardeal da Silva,2021-05-17,271,3
+Carinhanha,2021-05-17,885,17
+Casa Nova,2021-05-17,1933,48
+Castro Alves,2021-05-17,1508,27
+Catolândia,2021-05-17,171,1
+Catu,2021-05-17,5050,76
+Caturama,2021-05-17,197,6
+Central,2021-05-17,357,14
+Chorrochó,2021-05-17,179,11
+Cícero Dantas,2021-05-17,1480,25
+Cipó,2021-05-17,614,6
+Coaraci,2021-05-17,1720,42
+Cocos,2021-05-17,607,11
+Conceição da Feira,2021-05-17,1283,22
+Conceição do Almeida,2021-05-17,2037,19
+Conceição do Coité,2021-05-17,7330,39
+Conceição do Jacuípe,2021-05-17,2417,24
+Conde,2021-05-17,765,11
+Condeúba,2021-05-17,864,17
+Contendas do Sincorá,2021-05-17,210,5
+Coração de Maria,2021-05-17,1324,11
+Cordeiros,2021-05-17,629,5
+Coribe,2021-05-17,890,13
+Coronel João Sá,2021-05-17,841,14
+Correntina,2021-05-17,2070,28
+Cotegipe,2021-05-17,451,14
+Cravolândia,2021-05-17,344,2
+Crisópolis,2021-05-17,329,9
+Cristópolis,2021-05-17,678,5
+Cruz das Almas,2021-05-17,4027,46
+Curaçá,2021-05-17,978,24
+Dário Meira,2021-05-17,799,12
+Dias d'Ávila,2021-05-17,5048,134
+Dom Basílio,2021-05-17,837,14
+Dom Macedo Costa,2021-05-17,350,6
+Elísio Medrado,2021-05-17,441,6
+Encruzilhada,2021-05-17,584,15
+Entre Rios,2021-05-17,1295,29
+Érico Cardoso,2021-05-17,232,2
+Esplanada,2021-05-17,1568,29
+Euclides da Cunha,2021-05-17,2521,44
+Eunápolis,2021-05-17,9642,156
+Fátima,2021-05-17,877,11
+Feira da Mata,2021-05-17,199,4
+Feira de Santana,2021-05-17,41468,754
+Filadélfia,2021-05-17,956,24
+Firmino Alves,2021-05-17,307,9
+Floresta Azul,2021-05-17,759,18
+Formosa do Rio Preto,2021-05-17,855,18
+Gandu,2021-05-17,2502,47
+Gavião,2021-05-17,309,1
+Gentio do Ouro,2021-05-17,322,5
+Glória,2021-05-17,608,17
+Gongogi,2021-05-17,461,8
+Governador Mangabeira,2021-05-17,810,12
+Guajeru,2021-05-17,300,4
+Guanambi,2021-05-17,7088,77
+Guaratinga,2021-05-17,1303,41
+Heliópolis,2021-05-17,614,6
+Iaçu,2021-05-17,1453,27
+Ibiassucê,2021-05-17,406,1
+Ibicaraí,2021-05-17,1908,53
+Ibicoara,2021-05-17,629,10
+Ibicuí,2021-05-17,1034,15
+Ibipeba,2021-05-17,950,9
+Ibipitanga,2021-05-17,897,15
+Ibiquera,2021-05-17,110,6
+Ibirapitanga,2021-05-17,1516,33
+Ibirapuã,2021-05-17,951,14
+Ibirataia,2021-05-17,2115,35
+Ibitiara,2021-05-17,597,7
+Ibititá,2021-05-17,1365,21
+Ibotirama,2021-05-17,918,25
+Ichu,2021-05-17,363,3
+Igaporã,2021-05-17,436,22
+Igrapiúna,2021-05-17,694,14
+Iguaí,2021-05-17,944,28
+Ilhéus,2021-05-17,18510,447
+Importados/Indefinidos,2021-05-17,11026,193
+Inhambupe,2021-05-17,1572,27
+Ipecaetá,2021-05-17,275,10
+Ipiaú,2021-05-17,3024,70
+Ipirá,2021-05-17,1936,34
+Ipupiara,2021-05-17,199,3
+Irajuba,2021-05-17,285,1
+Iramaia,2021-05-17,186,8
+Iraquara,2021-05-17,1476,13
+Irará,2021-05-17,1223,18
+Irecê,2021-05-17,8184,112
+Itabela,2021-05-17,1453,55
+Itaberaba,2021-05-17,5916,109
+Itabuna,2021-05-17,29942,566
+Itacaré,2021-05-17,1138,23
+Itaeté,2021-05-17,279,5
+Itagi,2021-05-17,739,17
+Itagibá,2021-05-17,1060,18
+Itagimirim,2021-05-17,590,12
+Itaguaçu da Bahia,2021-05-17,525,4
+Itaju do Colônia,2021-05-17,363,6
+Itajuípe,2021-05-17,2270,50
+Itamaraju,2021-05-17,6016,107
+Itamari,2021-05-17,432,7
+Itambé,2021-05-17,1608,18
+Itanagra,2021-05-17,210,4
+Itanhém,2021-05-17,1203,26
+Itaparica,2021-05-17,863,22
+Itapé,2021-05-17,699,24
+Itapebi,2021-05-17,440,18
+Itapetinga,2021-05-17,4871,110
+Itapicuru,2021-05-17,1235,17
+Itapitanga,2021-05-17,878,16
+Itaquara,2021-05-17,545,5
+Itarantim,2021-05-17,667,17
+Itatim,2021-05-17,604,21
+Itiruçu,2021-05-17,832,12
+Itiúba,2021-05-17,1380,29
+Itororó,2021-05-17,3043,30
+Ituaçu,2021-05-17,1221,18
+Ituberá,2021-05-17,1452,44
+Iuiu,2021-05-17,422,4
+Jaborandi,2021-05-17,547,7
+Jacaraci,2021-05-17,426,8
+Jacobina,2021-05-17,5726,69
+Jaguaquara,2021-05-17,5624,50
+Jaguarari,2021-05-17,1828,38
+Jaguaripe,2021-05-17,852,14
+Jandaíra,2021-05-17,563,11
+Jequié,2021-05-17,15147,310
+Jeremoabo,2021-05-17,1602,37
+Jiquiriçá,2021-05-17,647,15
+Jitaúna,2021-05-17,771,21
+João Dourado,2021-05-17,1427,36
+Juazeiro,2021-05-17,14492,297
+Jucuruçu,2021-05-17,840,9
+Jussara,2021-05-17,534,7
+Jussari,2021-05-17,589,8
+Jussiape,2021-05-17,273,7
+Lafaiete Coutinho,2021-05-17,382,5
+Lagoa Real,2021-05-17,489,7
+Laje,2021-05-17,1216,18
+Lajedão,2021-05-17,369,5
+Lajedinho,2021-05-17,269,1
+Lajedo do Tabocal,2021-05-17,536,9
+Lamarão,2021-05-17,202,4
+Lapão,2021-05-17,1886,27
+Lauro de Freitas,2021-05-17,18817,409
+Lençóis,2021-05-17,859,14
+Licínio de Almeida,2021-05-17,223,8
+Livramento de Nossa Senhora,2021-05-17,2272,48
+Luís Eduardo Magalhães,2021-05-17,6970,81
+Macajuba,2021-05-17,367,4
+Macarani,2021-05-17,861,22
+Macaúbas,2021-05-17,1928,16
+Macururé,2021-05-17,188,5
+Madre de Deus,2021-05-17,2259,33
+Maetinga,2021-05-17,204,5
+Maiquinique,2021-05-17,724,9
+Mairi,2021-05-17,1026,11
+Malhada,2021-05-17,345,18
+Malhada de Pedras,2021-05-17,243,9
+Manoel Vitorino,2021-05-17,950,22
+Mansidão,2021-05-17,154,3
+Maracás,2021-05-17,2708,53
+Maragogipe,2021-05-17,1765,36
+Maraú,2021-05-17,1371,14
+Marcionílio Souza,2021-05-17,387,7
+Mascote,2021-05-17,741,18
+Mata de São João,2021-05-17,3629,51
+Matina,2021-05-17,255,3
+Medeiros Neto,2021-05-17,2163,44
+Miguel Calmon,2021-05-17,1979,18
+Milagres,2021-05-17,364,3
+Mirangaba,2021-05-17,464,8
+Mirante,2021-05-17,372,6
+Monte Santo,2021-05-17,945,30
+Morpará,2021-05-17,186,7
+Morro do Chapéu,2021-05-17,2032,20
+Mortugaba,2021-05-17,449,8
+Mucugê,2021-05-17,437,7
+Mucuri,2021-05-17,2784,49
+Mulungu do Morro,2021-05-17,569,11
+Mundo Novo,2021-05-17,614,7
+Muniz Ferreira,2021-05-17,806,3
+Muquém do São Francisco,2021-05-17,495,7
+Muritiba,2021-05-17,1904,20
+Mutuípe,2021-05-17,1580,19
+Nazaré,2021-05-17,1993,34
+Nilo Peçanha,2021-05-17,549,14
+Nordestina,2021-05-17,574,23
+Nova Canaã,2021-05-17,526,17
+Nova Fátima,2021-05-17,445,5
+Nova Ibiá,2021-05-17,556,18
+Nova Itarana,2021-05-17,713,7
+Nova Redenção,2021-05-17,175,3
+Nova Soure,2021-05-17,599,21
+Nova Viçosa,2021-05-17,1986,38
+Novo Horizonte,2021-05-17,224,4
+Novo Triunfo,2021-05-17,405,2
+Olindina,2021-05-17,1096,11
+Oliveira dos Brejinhos,2021-05-17,592,9
+Ouriçangas,2021-05-17,366,5
+Ourolândia,2021-05-17,1503,13
+Palmas de Monte Alto,2021-05-17,525,12
+Palmeiras,2021-05-17,207,6
+Paramirim,2021-05-17,464,17
+Paratinga,2021-05-17,985,14
+Paripiranga,2021-05-17,786,19
+Pau Brasil,2021-05-17,778,20
+Paulo Afonso,2021-05-17,5709,147
+Pé de Serra,2021-05-17,1359,6
+Pedrão,2021-05-17,273,3
+Pedro Alexandre,2021-05-17,310,7
+Piatã,2021-05-17,1124,20
+Pilão Arcado,2021-05-17,607,13
+Pindaí,2021-05-17,593,5
+Pindobaçu,2021-05-17,1443,29
+Pintadas,2021-05-17,917,7
+Piraí do Norte,2021-05-17,703,9
+Piripá,2021-05-17,941,6
+Piritiba,2021-05-17,605,14
+Planaltino,2021-05-17,527,8
+Planalto,2021-05-17,1344,26
+Poções,2021-05-17,2720,54
+Pojuca,2021-05-17,2831,37
+Ponto Novo,2021-05-17,577,4
+Porto Seguro,2021-05-17,8172,173
+Potiraguá,2021-05-17,460,9
+Prado,2021-05-17,1439,29
+Presidente Dutra,2021-05-17,1137,11
+Presidente Jânio Quadros,2021-05-17,622,9
+Presidente Tancredo Neves,2021-05-17,1531,34
+Queimadas,2021-05-17,1244,31
+Quijingue,2021-05-17,313,12
+Quixabeira,2021-05-17,674,5
+Rafael Jambeiro,2021-05-17,805,18
+Remanso,2021-05-17,1473,53
+Retirolândia,2021-05-17,1279,10
+Riachão das Neves,2021-05-17,912,32
+Riachão do Jacuípe,2021-05-17,3424,41
+Riacho de Santana,2021-05-17,1345,31
+Ribeira do Amparo,2021-05-17,701,7
+Ribeira do Pombal,2021-05-17,3267,47
+Ribeirão do Largo,2021-05-17,373,6
+Rio de Contas,2021-05-17,440,4
+Rio do Antônio,2021-05-17,476,9
+Rio do Pires,2021-05-17,115,7
+Rio Real,2021-05-17,1831,35
+Rodelas,2021-05-17,191,3
+Ruy Barbosa,2021-05-17,1978,25
+Salinas da Margarida,2021-05-17,1305,13
+Salvador,2021-05-17,199810,6333
+Santa Bárbara,2021-05-17,927,18
+Santa Brígida,2021-05-17,760,17
+Santa Cruz Cabrália,2021-05-17,2048,23
+Santa Cruz da Vitória,2021-05-17,501,7
+Santa Inês,2021-05-17,505,10
+Santaluz,2021-05-17,2236,35
+Santa Luzia,2021-05-17,974,21
+Santa Maria da Vitória,2021-05-17,1693,31
+Santana,2021-05-17,262,13
+Santanópolis,2021-05-17,475,7
+Santa Rita de Cássia,2021-05-17,1765,21
+Santa Teresinha,2021-05-17,411,6
+Santo Amaro,2021-05-17,2335,68
+Santo Antônio de Jesus,2021-05-17,10014,129
+Santo Estêvão,2021-05-17,2641,40
+São Desidério,2021-05-17,1940,30
+São Domingos,2021-05-17,866,9
+São Felipe,2021-05-17,2299,17
+São Félix,2021-05-17,854,7
+São Félix do Coribe,2021-05-17,678,12
+São Francisco do Conde,2021-05-17,2827,49
+São Gabriel,2021-05-17,1521,10
+São Gonçalo dos Campos,2021-05-17,1926,26
+São José da Vitória,2021-05-17,682,8
+São José do Jacuípe,2021-05-17,381,2
+São Miguel das Matas,2021-05-17,625,7
+São Sebastião do Passé,2021-05-17,3078,83
+Sapeaçu,2021-05-17,1337,14
+Sátiro Dias,2021-05-17,502,7
+Saubara,2021-05-17,443,16
+Saúde,2021-05-17,398,3
+Seabra,2021-05-17,4343,46
+Sebastião Laranjeiras,2021-05-17,336,7
+Senhor do Bonfim,2021-05-17,4013,68
+Sento Sé,2021-05-17,854,27
+Serra do Ramalho,2021-05-17,442,17
+Serra Dourada,2021-05-17,420,9
+Serra Preta,2021-05-17,765,19
+Serrinha,2021-05-17,6152,79
+Serrolândia,2021-05-17,984,10
+Simões Filho,2021-05-17,7329,188
+Sítio do Mato,2021-05-17,166,5
+Sítio do Quinto,2021-05-17,442,7
+Sobradinho,2021-05-17,1314,40
+Souto Soares,2021-05-17,914,20
+Tabocas do Brejo Velho,2021-05-17,213,6
+Tanhaçu,2021-05-17,1138,14
+Tanque Novo,2021-05-17,645,8
+Tanquinho,2021-05-17,692,11
+Taperoá,2021-05-17,1048,30
+Tapiramutá,2021-05-17,473,4
+Teixeira de Freitas,2021-05-17,14457,234
+Teodoro Sampaio,2021-05-17,248,8
+Teofilândia,2021-05-17,870,15
+Teolândia,2021-05-17,898,7
+Terra Nova,2021-05-17,674,21
+Tremedal,2021-05-17,483,10
+Tucano,2021-05-17,2268,41
+Uauá,2021-05-17,2094,39
+Ubaíra,2021-05-17,753,13
+Ubaitaba,2021-05-17,969,34
+Ubatã,2021-05-17,1624,32
+Uibaí,2021-05-17,791,11
+Umburanas,2021-05-17,649,5
+Una,2021-05-17,855,31
+Urandi,2021-05-17,764,6
+Uruçuca,2021-05-17,1699,57
+Utinga,2021-05-17,1096,11
+Valença,2021-05-17,6138,112
+Valente,2021-05-17,2209,20
+Várzea da Roça,2021-05-17,977,7
+Várzea do Poço,2021-05-17,448,4
+Várzea Nova,2021-05-17,603,9
+Varzedo,2021-05-17,501,5
+Vera Cruz,2021-05-17,1199,49
+Vereda,2021-05-17,418,17
+Vitória da Conquista,2021-05-17,28678,473
+Wagner,2021-05-17,535,6
+Wanderley,2021-05-17,717,10
+Wenceslau Guimarães,2021-05-17,1479,20
+Xique-Xique,2021-05-17,2305,45
+,2021-05-17,957267,19972
+Abaiara,2021-05-17,456,11
+Acarape,2021-05-17,2604,24
+Acaraú,2021-05-17,4508,93
+Acopiara,2021-05-17,2834,117
+Aiuaba,2021-05-17,441,9
+Alcântaras,2021-05-17,1353,17
+Altaneira,2021-05-17,406,13
+Alto Santo,2021-05-17,1146,21
+Amontada,2021-05-17,2439,43
+Antonina do Norte,2021-05-17,561,19
+Apuiarés,2021-05-17,941,21
+Aquiraz,2021-05-17,5665,77
+Aracati,2021-05-17,5910,124
+Aracoiaba,2021-05-17,3055,27
+Ararendá,2021-05-17,777,16
+Araripe,2021-05-17,872,13
+Aratuba,2021-05-17,1152,8
+Arneiroz,2021-05-17,504,13
+Assaré,2021-05-17,1551,31
+Aurora,2021-05-17,1369,30
+Baixio,2021-05-17,395,10
+Banabuiú,2021-05-17,1362,12
+Barbalha,2021-05-17,4668,93
+Barreira,2021-05-17,1185,32
+Barro,2021-05-17,979,18
+Barroquinha,2021-05-17,938,24
+Baturité,2021-05-17,3120,67
+Beberibe,2021-05-17,3812,94
+Bela Cruz,2021-05-17,3080,60
+Boa Viagem,2021-05-17,3122,88
+Brejo Santo,2021-05-17,7310,130
+Camocim,2021-05-17,5306,142
+Campos Sales,2021-05-17,1740,29
+Canindé,2021-05-17,4628,160
+Capistrano,2021-05-17,1845,31
+Caridade,2021-05-17,1318,37
+Cariré,2021-05-17,2132,38
+Caririaçu,2021-05-17,1148,34
+Cariús,2021-05-17,1867,20
+Carnaubal,2021-05-17,1294,11
+Cascavel,2021-05-17,5009,131
+Catarina,2021-05-17,647,15
+Catunda,2021-05-17,963,11
+Caucaia,2021-05-17,18646,759
+Cedro,2021-05-17,2841,35
+Chaval,2021-05-17,1251,26
+Choró,2021-05-17,805,10
+Chorozinho,2021-05-17,1688,26
+Coreaú,2021-05-17,2327,44
+Crateús,2021-05-17,9572,168
+Crato,2021-05-17,13887,185
+Croatá,2021-05-17,701,9
+Cruz,2021-05-17,2899,49
+Deputado Irapuan Pinheiro,2021-05-17,652,11
+Ereré,2021-05-17,681,10
+Eusébio,2021-05-17,8416,107
+Farias Brito,2021-05-17,2112,42
+Forquilha,2021-05-17,1294,69
+Fortaleza,2021-05-17,222546,8078
+Fortim,2021-05-17,1767,24
+Frecheirinha,2021-05-17,2846,26
+General Sampaio,2021-05-17,499,17
+Graça,2021-05-17,991,19
+Granja,2021-05-17,2654,74
+Granjeiro,2021-05-17,369,2
+Groaíras,2021-05-17,1444,27
+Guaiúba,2021-05-17,1249,52
+Guaraciaba do Norte,2021-05-17,1926,37
+Guaramiranga,2021-05-17,701,4
+Hidrolândia,2021-05-17,2195,17
+Horizonte,2021-05-17,6754,112
+Ibaretama,2021-05-17,827,16
+Ibiapina,2021-05-17,1301,27
+Ibicuitinga,2021-05-17,1323,14
+Icapuí,2021-05-17,1965,23
+Icó,2021-05-17,5331,82
+Iguatu,2021-05-17,7953,173
+Importados/Indefinidos,2021-05-17,8850,0
+Independência,2021-05-17,1384,28
+Ipaporanga,2021-05-17,1082,8
+Ipaumirim,2021-05-17,702,12
+Ipu,2021-05-17,3955,48
+Ipueiras,2021-05-17,2102,39
+Iracema,2021-05-17,1870,25
+Irauçuba,2021-05-17,769,35
+Itaiçaba,2021-05-17,1079,16
+Itaitinga,2021-05-17,3979,57
+Itapajé,2021-05-17,2545,113
+Itapipoca,2021-05-17,8831,238
+Itapiúna,2021-05-17,1727,27
+Itarema,2021-05-17,2965,40
+Itatira,2021-05-17,1799,37
+Jaguaretama,2021-05-17,1637,36
+Jaguaribara,2021-05-17,829,18
+Jaguaribe,2021-05-17,3665,63
+Jaguaruana,2021-05-17,2611,56
+Jardim,2021-05-17,1242,40
+Jati,2021-05-17,570,8
+Jijoca de Jericoacoara,2021-05-17,2362,23
+Juazeiro do Norte,2021-05-17,22990,461
+Jucás,2021-05-17,1248,33
+Lavras da Mangabeira,2021-05-17,2133,40
+Limoeiro do Norte,2021-05-17,5402,90
+Madalena,2021-05-17,1134,31
+Maracanaú,2021-05-17,19371,643
+Maranguape,2021-05-17,10851,225
+Marco,2021-05-17,1590,34
+Martinópole,2021-05-17,1138,21
+Massapê,2021-05-17,1959,78
+Mauriti,2021-05-17,2882,73
+Meruoca,2021-05-17,1557,30
+Milagres,2021-05-17,2382,55
+Milhã,2021-05-17,834,22
+Miraíma,2021-05-17,1003,13
+Missão Velha,2021-05-17,1743,24
+Mombaça,2021-05-17,3284,96
+Monsenhor Tabosa,2021-05-17,1484,27
+Morada Nova,2021-05-17,7304,138
+Moraújo,2021-05-17,1628,23
+Morrinhos,2021-05-17,1241,22
+Mucambo,2021-05-17,1527,19
+Mulungu,2021-05-17,701,16
+Nova Olinda,2021-05-17,872,14
+Nova Russas,2021-05-17,2203,52
+Novo Oriente,2021-05-17,1186,21
+Ocara,2021-05-17,1635,31
+Orós,2021-05-17,2617,65
+Pacajus,2021-05-17,5255,96
+Pacatuba,2021-05-17,5610,174
+Pacoti,2021-05-17,1123,23
+Pacujá,2021-05-17,546,10
+Palhano,2021-05-17,1138,22
+Palmácia,2021-05-17,794,17
+Paracuru,2021-05-17,3736,93
+Paraipaba,2021-05-17,2140,64
+Parambu,2021-05-17,1159,49
+Paramoti,2021-05-17,786,11
+Pedra Branca,2021-05-17,680,50
+Penaforte,2021-05-17,574,8
+Pentecoste,2021-05-17,3167,73
+Pereiro,2021-05-17,1527,15
+Pindoretama,2021-05-17,1733,36
+Piquet Carneiro,2021-05-17,1449,24
+Pires Ferreira,2021-05-17,800,6
+Poranga,2021-05-17,501,7
+Porteiras,2021-05-17,1248,25
+Potengi,2021-05-17,466,3
+Potiretama,2021-05-17,497,6
+Quiterianópolis,2021-05-17,1174,27
+Quixadá,2021-05-17,7688,137
+Quixelô,2021-05-17,1742,27
+Quixeramobim,2021-05-17,6441,179
+Quixeré,2021-05-17,3107,37
+Redenção,2021-05-17,4113,75
+Reriutaba,2021-05-17,1915,28
+Russas,2021-05-17,8886,157
+Saboeiro,2021-05-17,699,10
+Salitre,2021-05-17,980,14
+Santana do Acaraú,2021-05-17,2129,69
+Santana do Cariri,2021-05-17,985,26
+Santa Quitéria,2021-05-17,4596,48
+São Benedito,2021-05-17,2990,55
+São Gonçalo do Amarante,2021-05-17,6345,169
+São João do Jaguaribe,2021-05-17,584,9
+São Luís do Curu,2021-05-17,1102,29
+Senador Pompeu,2021-05-17,1627,37
+Senador Sá,2021-05-17,1041,11
+Sobral,2021-05-17,23682,627
+Solonópole,2021-05-17,1215,21
+Tabuleiro do Norte,2021-05-17,4367,54
+Tamboril,2021-05-17,1662,51
+Tarrafas,2021-05-17,338,9
+Tauá,2021-05-17,6984,130
+Tejuçuoca,2021-05-17,1335,24
+Tianguá,2021-05-17,7836,154
+Trairi,2021-05-17,1769,78
+Tururu,2021-05-17,1150,32
+Ubajara,2021-05-17,1678,38
+Umari,2021-05-17,368,6
+Umirim,2021-05-17,790,35
+Uruburetama,2021-05-17,1756,54
+Uruoca,2021-05-17,1209,31
+Varjota,2021-05-17,1925,24
+Várzea Alegre,2021-05-17,2539,55
+Viçosa do Ceará,2021-05-17,3642,115
+,2021-05-17,746597,19246
+Brasília,2021-05-17,346249,7642
+Importados/Indefinidos,2021-05-17,47382,703
+,2021-05-17,393631,8345
+Afonso Cláudio,2021-05-17,3146,55
+Água Doce do Norte,2021-05-17,738,35
+Águia Branca,2021-05-17,1822,58
+Alegre,2021-05-17,1983,48
+Alfredo Chaves,2021-05-17,2118,30
+Alto Rio Novo,2021-05-17,657,21
+Anchieta,2021-05-17,4307,74
+Apiacá,2021-05-17,686,28
+Aracruz,2021-05-17,14011,198
+Atilio Vivacqua,2021-05-17,1345,25
+Baixo Guandu,2021-05-17,3130,69
+Barra de São Francisco,2021-05-17,4395,181
+Boa Esperança,2021-05-17,1223,36
+Bom Jesus do Norte,2021-05-17,881,21
+Brejetuba,2021-05-17,1479,13
+Cachoeiro de Itapemirim,2021-05-17,23364,492
+Cariacica,2021-05-17,36078,1185
+Castelo,2021-05-17,5386,103
+Colatina,2021-05-17,18216,319
+Conceição da Barra,2021-05-17,1321,47
+Conceição do Castelo,2021-05-17,1236,20
+Divino de São Lourenço,2021-05-17,362,7
+Domingos Martins,2021-05-17,3287,59
+Dores do Rio Preto,2021-05-17,584,10
+Ecoporanga,2021-05-17,2715,56
+Fundão,2021-05-17,2258,56
+Governador Lindenberg,2021-05-17,1488,19
+Guaçuí,2021-05-17,2107,86
+Guarapari,2021-05-17,13847,360
+Ibatiba,2021-05-17,3059,73
+Ibiraçu,2021-05-17,1498,31
+Ibitirama,2021-05-17,372,11
+Iconha,2021-05-17,2374,18
+Importados/Indefinidos,2021-05-17,3565,177
+Irupi,2021-05-17,1332,35
+Itaguaçu,2021-05-17,1490,17
+Itapemirim,2021-05-17,3920,111
+Itarana,2021-05-17,1323,20
+Iúna,2021-05-17,2200,65
+Jaguaré,2021-05-17,3136,43
+Jerônimo Monteiro,2021-05-17,1062,35
+João Neiva,2021-05-17,2426,46
+Laranja da Terra,2021-05-17,610,9
+Linhares,2021-05-17,23080,329
+Mantenópolis,2021-05-17,786,41
+Marataízes,2021-05-17,5849,157
+Marechal Floriano,2021-05-17,2870,46
+Marilândia,2021-05-17,1931,27
+Mimoso do Sul,2021-05-17,2734,43
+Montanha,2021-05-17,1380,52
+Mucurici,2021-05-17,568,8
+Muniz Freire,2021-05-17,2553,38
+Muqui,2021-05-17,1780,48
+Nova Venécia,2021-05-17,4776,109
+Pancas,2021-05-17,2277,32
+Pedro Canário,2021-05-17,1908,49
+Pinheiros,2021-05-17,2822,70
+Piúma,2021-05-17,2365,72
+Ponto Belo,2021-05-17,537,13
+Presidente Kennedy,2021-05-17,1844,46
+Rio Bananal,2021-05-17,2055,27
+Rio Novo do Sul,2021-05-17,1354,20
+Santa Leopoldina,2021-05-17,961,23
+Santa Maria de Jetibá,2021-05-17,4689,47
+Santa Teresa,2021-05-17,3861,56
+São Domingos do Norte,2021-05-17,1128,19
+São Gabriel da Palha,2021-05-17,5710,69
+São José do Calçado,2021-05-17,837,52
+São Mateus,2021-05-17,10464,219
+São Roque do Canaã,2021-05-17,1613,18
+Serra,2021-05-17,58988,1229
+Sooretama,2021-05-17,2722,43
+Vargem Alta,2021-05-17,2112,42
+Venda Nova do Imigrante,2021-05-17,3963,41
+Viana,2021-05-17,7301,226
+Vila Pavão,2021-05-17,973,16
+Vila Valério,2021-05-17,2685,29
+Vila Velha,2021-05-17,56911,1401
+Vitória,2021-05-17,49819,1112
+,2021-05-17,460743,10271
+Abadia de Goiás,2021-05-17,1338,27
+Abadiânia,2021-05-17,379,27
+Acreúna,2021-05-17,1715,43
+Adelândia,2021-05-17,151,4
+Água Fria de Goiás,2021-05-17,204,9
+Água Limpa,2021-05-17,120,1
+Águas Lindas de Goiás,2021-05-17,6484,252
+Alexânia,2021-05-17,2817,70
+Aloândia,2021-05-17,224,6
+Alto Horizonte,2021-05-17,687,8
+Alto Paraíso de Goiás,2021-05-17,567,7
+Alvorada do Norte,2021-05-17,631,3
+Amaralina,2021-05-17,59,0
+Americano do Brasil,2021-05-17,414,15
+Amorinópolis,2021-05-17,172,4
+Anápolis,2021-05-17,34352,1188
+Anhanguera,2021-05-17,88,6
+Anicuns,2021-05-17,2278,57
+Aparecida de Goiânia,2021-05-17,63036,1207
+Aparecida do Rio Doce,2021-05-17,184,3
+Aporé,2021-05-17,328,9
+Araçu,2021-05-17,381,15
+Aragarças,2021-05-17,1920,47
+Aragoiânia,2021-05-17,916,17
+Araguapaz,2021-05-17,464,19
+Arenópolis,2021-05-17,171,8
+Aruanã,2021-05-17,457,10
+Aurilândia,2021-05-17,171,6
+Avelinópolis,2021-05-17,264,11
+Baliza,2021-05-17,223,6
+Barro Alto,2021-05-17,1230,14
+Bela Vista de Goiás,2021-05-17,2173,57
+Bom Jardim de Goiás,2021-05-17,627,14
+Bom Jesus de Goiás,2021-05-17,2452,97
+Bonfinópolis,2021-05-17,444,17
+Bonópolis,2021-05-17,143,1
+Brazabrantes,2021-05-17,383,3
+Britânia,2021-05-17,474,4
+Buriti Alegre,2021-05-17,823,28
+Buriti de Goiás,2021-05-17,176,8
+Buritinópolis,2021-05-17,158,2
+Cabeceiras,2021-05-17,312,13
+Cachoeira Alta,2021-05-17,1227,17
+Cachoeira de Goiás,2021-05-17,56,2
+Cachoeira Dourada,2021-05-17,384,17
+Caçu,2021-05-17,1173,25
+Caiapônia,2021-05-17,1005,33
+Caldas Novas,2021-05-17,7413,186
+Caldazinha,2021-05-17,234,4
+Campestre de Goiás,2021-05-17,449,13
+Campinaçu,2021-05-17,182,2
+Campinorte,2021-05-17,1190,28
+Campo Alegre de Goiás,2021-05-17,247,14
+Campo Limpo de Goiás,2021-05-17,160,6
+Campos Belos,2021-05-17,1139,16
+Campos Verdes,2021-05-17,229,8
+Carmo do Rio Verde,2021-05-17,596,22
+Castelândia,2021-05-17,280,7
+Catalão,2021-05-17,8386,289
+Caturaí,2021-05-17,429,14
+Cavalcante,2021-05-17,313,4
+Ceres,2021-05-17,2386,64
+Cezarina,2021-05-17,850,31
+Chapadão do Céu,2021-05-17,1303,15
+Cidade Ocidental,2021-05-17,5082,113
+Cocalzinho de Goiás,2021-05-17,1324,28
+Colinas do Sul,2021-05-17,247,2
+Córrego do Ouro,2021-05-17,234,5
+Corumbá de Goiás,2021-05-17,546,22
+Corumbaíba,2021-05-17,882,30
+Cristalina,2021-05-17,2590,76
+Cristianópolis,2021-05-17,246,2
+Crixás,2021-05-17,2009,57
+Cromínia,2021-05-17,204,5
+Cumari,2021-05-17,246,6
+Damianópolis,2021-05-17,66,2
+Damolândia,2021-05-17,195,13
+Davinópolis,2021-05-17,92,6
+Diorama,2021-05-17,95,5
+Divinópolis de Goiás,2021-05-17,217,7
+Doverlândia,2021-05-17,412,9
+Edealina,2021-05-17,467,3
+Edéia,2021-05-17,1237,23
+Estrela do Norte,2021-05-17,221,2
+Faina,2021-05-17,472,5
+Fazenda Nova,2021-05-17,344,7
+Firminópolis,2021-05-17,528,18
+Flores de Goiás,2021-05-17,173,4
+Formosa,2021-05-17,7994,194
+Formoso,2021-05-17,439,13
+Gameleira de Goiás,2021-05-17,323,4
+Goianápolis,2021-05-17,979,24
+Goiandira,2021-05-17,281,13
+Goianésia,2021-05-17,8199,193
+Goiânia,2021-05-17,142767,4692
+Goianira,2021-05-17,2969,81
+Goiás,2021-05-17,1036,41
+Goiatuba,2021-05-17,4333,115
+Gouvelândia,2021-05-17,349,8
+Guapó,2021-05-17,1286,32
+Guaraíta,2021-05-17,195,11
+Guarani de Goiás,2021-05-17,188,0
+Guarinos,2021-05-17,127,6
+Heitoraí,2021-05-17,122,2
+Hidrolândia,2021-05-17,2085,69
+Hidrolina,2021-05-17,234,8
+Iaciara,2021-05-17,559,8
+Importados/Indefinidos,2021-05-17,0,0
+Inaciolândia,2021-05-17,607,19
+Indiara,2021-05-17,836,40
+Inhumas,2021-05-17,6781,191
+Ipameri,2021-05-17,1694,60
+Ipiranga de Goiás,2021-05-17,133,8
+Iporá,2021-05-17,2791,90
+Israelândia,2021-05-17,151,4
+Itaberaí,2021-05-17,2504,100
+Itaguari,2021-05-17,675,12
+Itaguaru,2021-05-17,387,15
+Itajá,2021-05-17,187,6
+Itapaci,2021-05-17,1809,47
+Itapirapuã,2021-05-17,620,11
+Itapuranga,2021-05-17,2929,55
+Itarumã,2021-05-17,408,13
+Itauçu,2021-05-17,856,22
+Itumbiara,2021-05-17,8434,290
+Ivolândia,2021-05-17,187,4
+Jandaia,2021-05-17,697,17
+Jaraguá,2021-05-17,4517,140
+Jataí,2021-05-17,9087,267
+Jaupaci,2021-05-17,66,2
+Jesúpolis,2021-05-17,120,6
+Joviânia,2021-05-17,951,17
+Jussara,2021-05-17,1391,34
+Lagoa Santa,2021-05-17,90,3
+Leopoldo de Bulhões,2021-05-17,429,7
+Luziânia,2021-05-17,19966,337
+Mairipotaba,2021-05-17,173,4
+Mambaí,2021-05-17,212,2
+Mara Rosa,2021-05-17,283,17
+Marzagão,2021-05-17,235,5
+Matrinchã,2021-05-17,190,3
+Maurilândia,2021-05-17,853,21
+Mimoso de Goiás,2021-05-17,114,2
+Minaçu,2021-05-17,1753,46
+Mineiros,2021-05-17,9388,224
+Moiporá,2021-05-17,52,1
+Monte Alegre de Goiás,2021-05-17,153,4
+Montes Claros de Goiás,2021-05-17,819,15
+Montividiu,2021-05-17,1103,18
+Montividiu do Norte,2021-05-17,234,3
+Morrinhos,2021-05-17,5431,95
+Morro Agudo de Goiás,2021-05-17,223,5
+Mossâmedes,2021-05-17,166,4
+Mozarlândia,2021-05-17,1636,19
+Mundo Novo,2021-05-17,364,15
+Mutunópolis,2021-05-17,272,14
+Nazário,2021-05-17,747,18
+Nerópolis,2021-05-17,1463,53
+Niquelândia,2021-05-17,3026,54
+Nova América,2021-05-17,259,1
+Nova Aurora,2021-05-17,160,6
+Nova Crixás,2021-05-17,999,12
+Nova Glória,2021-05-17,805,15
+Nova Iguaçu de Goiás,2021-05-17,173,6
+Nova Roma,2021-05-17,128,0
+Nova Veneza,2021-05-17,935,13
+Novo Brasil,2021-05-17,305,5
+Novo Gama,2021-05-17,4044,155
+Novo Planalto,2021-05-17,286,3
+Orizona,2021-05-17,558,14
+Ouro Verde de Goiás,2021-05-17,245,7
+Ouvidor,2021-05-17,629,24
+Padre Bernardo,2021-05-17,1516,40
+Palestina de Goiás,2021-05-17,170,3
+Palmeiras de Goiás,2021-05-17,5042,68
+Palmelo,2021-05-17,203,7
+Palminópolis,2021-05-17,370,9
+Panamá,2021-05-17,185,7
+Paranaiguara,2021-05-17,326,22
+Paraúna,2021-05-17,555,19
+Perolândia,2021-05-17,128,2
+Petrolina de Goiás,2021-05-17,833,15
+Pilar de Goiás,2021-05-17,280,7
+Piracanjuba,2021-05-17,1859,55
+Piranhas,2021-05-17,929,49
+Pirenópolis,2021-05-17,1435,34
+Pires do Rio,2021-05-17,2478,90
+Planaltina,2021-05-17,3361,166
+Pontalina,2021-05-17,1441,33
+Porangatu,2021-05-17,2052,107
+Porteirão,2021-05-17,1539,12
+Portelândia,2021-05-17,487,10
+Posse,2021-05-17,1640,25
+Professor Jamil,2021-05-17,217,9
+Quirinópolis,2021-05-17,3142,117
+Rialma,2021-05-17,1281,40
+Rianápolis,2021-05-17,580,8
+Rio Quente,2021-05-17,357,4
+Rio Verde,2021-05-17,22905,572
+Rubiataba,2021-05-17,2246,64
+Sanclerlândia,2021-05-17,526,19
+Santa Bárbara de Goiás,2021-05-17,646,13
+Santa Cruz de Goiás,2021-05-17,122,2
+Santa Fé de Goiás,2021-05-17,620,18
+Santa Helena de Goiás,2021-05-17,4241,173
+Santa Isabel,2021-05-17,401,12
+Santa Rita do Araguaia,2021-05-17,360,6
+Santa Rita do Novo Destino,2021-05-17,159,7
+Santa Rosa de Goiás,2021-05-17,234,4
+Santa Tereza de Goiás,2021-05-17,140,6
+Santa Terezinha de Goiás,2021-05-17,739,22
+Santo Antônio da Barra,2021-05-17,378,5
+Santo Antônio de Goiás,2021-05-17,743,18
+Santo Antônio do Descoberto,2021-05-17,2413,79
+São Domingos,2021-05-17,151,3
+São Francisco de Goiás,2021-05-17,345,9
+São João d'Aliança,2021-05-17,602,22
+São João da Paraúna,2021-05-17,75,2
+São Luís de Montes Belos,2021-05-17,3359,104
+São Luiz do Norte,2021-05-17,306,3
+São Miguel do Araguaia,2021-05-17,1491,43
+São Miguel do Passa Quatro,2021-05-17,180,3
+São Patrício,2021-05-17,215,8
+São Simão,2021-05-17,973,32
+Senador Canedo,2021-05-17,13434,260
+Serranópolis,2021-05-17,641,5
+Silvânia,2021-05-17,1300,20
+Simolândia,2021-05-17,331,3
+Sítio d'Abadia,2021-05-17,27,0
+Taquaral de Goiás,2021-05-17,189,6
+Teresina de Goiás,2021-05-17,162,0
+Terezópolis de Goiás,2021-05-17,816,19
+Três Ranchos,2021-05-17,176,8
+Trindade,2021-05-17,8049,357
+Trombas,2021-05-17,375,6
+Turvânia,2021-05-17,536,21
+Turvelândia,2021-05-17,610,9
+Uirapuru,2021-05-17,171,7
+Uruaçu,2021-05-17,3410,84
+Uruana,2021-05-17,856,26
+Urutaí,2021-05-17,144,2
+Valparaíso de Goiás,2021-05-17,11386,292
+Varjão,2021-05-17,268,6
+Vianópolis,2021-05-17,656,20
+Vicentinópolis,2021-05-17,1109,21
+Vila Boa,2021-05-17,151,4
+Vila Propício,2021-05-17,323,4
+,2021-05-17,582630,16231
+Açailândia,2021-05-17,4847,177
+Afonso Cunha,2021-05-17,162,2
+Água Doce do Maranhão,2021-05-17,673,8
+Alcântara,2021-05-17,263,14
+Aldeias Altas,2021-05-17,975,13
+Altamira do Maranhão,2021-05-17,299,8
+Alto Alegre do Maranhão,2021-05-17,1050,24
+Alto Alegre do Pindaré,2021-05-17,1773,43
+Alto Parnaíba,2021-05-17,717,5
+Amapá do Maranhão,2021-05-17,172,4
+Amarante do Maranhão,2021-05-17,1526,54
+Anajatuba,2021-05-17,794,20
+Anapurus,2021-05-17,828,11
+Apicum-Açu,2021-05-17,453,4
+Araguanã,2021-05-17,754,5
+Araioses,2021-05-17,636,12
+Arame,2021-05-17,1137,35
+Arari,2021-05-17,677,26
+Axixá,2021-05-17,190,5
+Bacabal,2021-05-17,4469,162
+Bacabeira,2021-05-17,319,6
+Bacuri,2021-05-17,432,4
+Bacurituba,2021-05-17,112,1
+Balsas,2021-05-17,8668,144
+Barão de Grajaú,2021-05-17,338,2
+Barra do Corda,2021-05-17,5215,53
+Barreirinhas,2021-05-17,1872,34
+Belágua,2021-05-17,199,15
+Bela Vista do Maranhão,2021-05-17,325,3
+Benedito Leite,2021-05-17,295,2
+Bequimão,2021-05-17,275,17
+Bernardo do Mearim,2021-05-17,268,6
+Boa Vista do Gurupi,2021-05-17,15,4
+Bom Jardim,2021-05-17,1260,42
+Bom Jesus das Selvas,2021-05-17,2798,23
+Bom Lugar,2021-05-17,444,7
+Brejo,2021-05-17,836,19
+Brejo de Areia,2021-05-17,281,8
+Buriti,2021-05-17,751,7
+Buriti Bravo,2021-05-17,1245,12
+Buriticupu,2021-05-17,2993,39
+Buritirana,2021-05-17,361,23
+Cachoeira Grande,2021-05-17,221,6
+Cajapió,2021-05-17,75,4
+Cajari,2021-05-17,187,6
+Campestre do Maranhão,2021-05-17,937,40
+Cândido Mendes,2021-05-17,93,6
+Cantanhede,2021-05-17,646,6
+Capinzal do Norte,2021-05-17,613,7
+Carolina,2021-05-17,652,17
+Carutapera,2021-05-17,787,33
+Caxias,2021-05-17,9349,190
+Cedral,2021-05-17,194,4
+Central do Maranhão,2021-05-17,44,2
+Centro do Guilherme,2021-05-17,400,4
+Centro Novo do Maranhão,2021-05-17,904,9
+Chapadinha,2021-05-17,3625,88
+Cidelândia,2021-05-17,497,4
+Codó,2021-05-17,2620,170
+Coelho Neto,2021-05-17,1609,45
+Colinas,2021-05-17,2771,44
+Conceição do Lago-Açu,2021-05-17,183,11
+Coroatá,2021-05-17,2796,63
+Cururupu,2021-05-17,1292,23
+Davinópolis,2021-05-17,493,22
+Dom Pedro,2021-05-17,1046,22
+Duque Bacelar,2021-05-17,691,10
+Esperantinópolis,2021-05-17,847,21
+Estreito,2021-05-17,3308,44
+Feira Nova do Maranhão,2021-05-17,1396,9
+Fernando Falcão,2021-05-17,840,1
+Formosa da Serra Negra,2021-05-17,1137,2
+Fortaleza dos Nogueiras,2021-05-17,1047,14
+Fortuna,2021-05-17,1364,5
+Godofredo Viana,2021-05-17,115,4
+Gonçalves Dias,2021-05-17,886,18
+Governador Archer,2021-05-17,384,5
+Governador Edison Lobão,2021-05-17,589,27
+Governador Eugênio Barros,2021-05-17,571,8
+Governador Luiz Rocha,2021-05-17,218,1
+Governador Newton Bello,2021-05-17,689,7
+Governador Nunes Freire,2021-05-17,796,9
+Graça Aranha,2021-05-17,124,3
+Grajaú,2021-05-17,4378,97
+Guimarães,2021-05-17,365,7
+Humberto de Campos,2021-05-17,1422,10
+Icatu,2021-05-17,227,10
+Igarapé do Meio,2021-05-17,636,26
+Igarapé Grande,2021-05-17,1452,13
+Imperatriz,2021-05-17,15149,723
+Itaipava do Grajaú,2021-05-17,704,9
+Itapecuru Mirim,2021-05-17,2290,54
+Itinga do Maranhão,2021-05-17,733,23
+Jatobá,2021-05-17,91,5
+Jenipapo dos Vieiras,2021-05-17,1093,19
+João Lisboa,2021-05-17,658,43
+Joselândia,2021-05-17,534,2
+Junco do Maranhão,2021-05-17,297,2
+Lagoa do Mato,2021-05-17,587,13
+Lagoa Grande do Maranhão,2021-05-17,560,14
+Lago da Pedra,2021-05-17,1453,8
+Lago do Junco,2021-05-17,243,10
+Lago dos Rodrigues,2021-05-17,2303,64
+Lago Verde,2021-05-17,497,4
+Lajeado Novo,2021-05-17,361,12
+Lima Campos,2021-05-17,993,9
+Loreto,2021-05-17,626,6
+Luís Domingues,2021-05-17,464,1
+Magalhães de Almeida,2021-05-17,499,7
+Maracaçumé,2021-05-17,541,6
+Marajá do Sena,2021-05-17,231,4
+Maranhãozinho,2021-05-17,564,8
+Mata Roma,2021-05-17,350,11
+Matinha,2021-05-17,367,7
+Matões,2021-05-17,947,12
+Matões do Norte,2021-05-17,238,4
+Milagres do Maranhão,2021-05-17,239,1
+Mirador,2021-05-17,891,7
+Miranda do Norte,2021-05-17,870,21
+Mirinzal,2021-05-17,248,16
+Monção,2021-05-17,1560,26
+Montes Altos,2021-05-17,741,9
+Morros,2021-05-17,261,10
+Nina Rodrigues,2021-05-17,595,14
+Nova Colinas,2021-05-17,326,5
+Nova Iorque,2021-05-17,90,1
+Nova Olinda do Maranhão,2021-05-17,466,10
+Olho d'Água das Cunhãs,2021-05-17,762,21
+Olinda Nova do Maranhão,2021-05-17,498,10
+Paço do Lumiar,2021-05-17,807,147
+Palmeirândia,2021-05-17,92,9
+Paraibano,2021-05-17,916,26
+Parnarama,2021-05-17,992,16
+Passagem Franca,2021-05-17,1278,28
+Pastos Bons,2021-05-17,705,11
+Paulino Neves,2021-05-17,194,3
+Paulo Ramos,2021-05-17,1051,30
+Pedreiras,2021-05-17,3169,52
+Pedro do Rosário,2021-05-17,110,7
+Penalva,2021-05-17,468,9
+Peri Mirim,2021-05-17,235,4
+Peritoró,2021-05-17,747,9
+Pindaré-Mirim,2021-05-17,1069,26
+Pinheiro,2021-05-17,2778,82
+Pio XII,2021-05-17,1603,23
+Pirapemas,2021-05-17,489,9
+Poção de Pedras,2021-05-17,1612,15
+Porto Franco,2021-05-17,1532,48
+Porto Rico do Maranhão,2021-05-17,231,6
+Presidente Dutra,2021-05-17,1979,14
+Presidente Juscelino,2021-05-17,52,1
+Presidente Médici,2021-05-17,333,2
+Presidente Sarney,2021-05-17,203,12
+Presidente Vargas,2021-05-17,221,4
+Primeira Cruz,2021-05-17,82,2
+Raposa,2021-05-17,1218,27
+Riachão,2021-05-17,1697,25
+Ribamar Fiquene,2021-05-17,359,16
+Rosário,2021-05-17,471,21
+Sambaíba,2021-05-17,335,3
+Santa Filomena do Maranhão,2021-05-17,50,0
+Santa Helena,2021-05-17,1988,19
+Santa Inês,2021-05-17,7009,159
+Santa Luzia,2021-05-17,4421,72
+Santa Luzia do Paruá,2021-05-17,861,9
+Santana do Maranhão,2021-05-17,667,22
+Santa Quitéria do Maranhão,2021-05-17,200,6
+Santa Rita,2021-05-17,499,17
+Santo Amaro do Maranhão,2021-05-17,210,7
+Santo Antônio dos Lopes,2021-05-17,1288,19
+São Benedito do Rio Preto,2021-05-17,1367,14
+São Bento,2021-05-17,799,20
+São Bernardo,2021-05-17,983,17
+São Domingos do Azeitão,2021-05-17,202,4
+São Domingos do Maranhão,2021-05-17,1998,14
+São Félix de Balsas,2021-05-17,247,1
+São Francisco do Brejão,2021-05-17,476,1
+São Francisco do Maranhão,2021-05-17,393,20
+São João Batista,2021-05-17,192,12
+São João do Carú,2021-05-17,500,8
+São João do Paraíso,2021-05-17,250,11
+São João do Soter,2021-05-17,991,6
+São João dos Patos,2021-05-17,1944,22
+São José de Ribamar,2021-05-17,2012,255
+São José dos Basílios,2021-05-17,573,3
+São Luís,2021-05-17,39167,2014
+São Luís Gonzaga do Maranhão,2021-05-17,1117,17
+São Mateus do Maranhão,2021-05-17,1914,37
+São Pedro da Água Branca,2021-05-17,558,4
+São Pedro dos Crentes,2021-05-17,356,2
+São Raimundo das Mangabeiras,2021-05-17,1924,18
+São Raimundo do Doca Bezerra,2021-05-17,100,2
+São Roberto,2021-05-17,363,5
+São Vicente Ferrer,2021-05-17,219,2
+Satubinha,2021-05-17,290,3
+Senador Alexandre Costa,2021-05-17,463,1
+Senador La Rocque,2021-05-17,297,22
+Serrano do Maranhão,2021-05-17,206,3
+Sítio Novo,2021-05-17,1670,23
+Sucupira do Norte,2021-05-17,197,5
+Sucupira do Riachão,2021-05-17,206,2
+Tasso Fragoso,2021-05-17,839,7
+Timbiras,2021-05-17,505,23
+Timon,2021-05-17,5952,296
+Trizidela do Vale,2021-05-17,1142,22
+Tufilândia,2021-05-17,223,5
+Tuntum,2021-05-17,1772,12
+Turiaçu,2021-05-17,259,4
+Turilândia,2021-05-17,616,8
+Tutóia,2021-05-17,1233,31
+Urbano Santos,2021-05-17,1718,19
+Vargem Grande,2021-05-17,1157,29
+Viana,2021-05-17,320,30
+Vila Nova dos Martírios,2021-05-17,527,3
+Vitória do Mearim,2021-05-17,1384,23
+Vitorino Freire,2021-05-17,2089,52
+Zé Doca,2021-05-17,5021,67
+,2021-05-17,279085,7727
+,2021-05-17,1465668,37557
+,2021-05-17,267661,6280
+Acorizal,2021-05-17,466,18
+Água Boa,2021-05-17,2195,53
+Alta Floresta,2021-05-17,7363,110
+Alto Araguaia,2021-05-17,1042,22
+Alto Boa Vista,2021-05-17,639,12
+Alto Garças,2021-05-17,696,25
+Alto Paraguai,2021-05-17,768,25
+Alto Taquari,2021-05-17,1338,26
+Apiacás,2021-05-17,1470,14
+Araguaiana,2021-05-17,176,4
+Araguainha,2021-05-17,22,0
+Araputanga,2021-05-17,1677,46
+Arenápolis,2021-05-17,1319,22
+Aripuanã,2021-05-17,2239,40
+Barão de Melgaço,2021-05-17,324,13
+Barra do Bugres,2021-05-17,2359,55
+Barra do Garças,2021-05-17,6536,227
+Bom Jesus do Araguaia,2021-05-17,884,14
+Brasnorte,2021-05-17,1772,30
+Cáceres,2021-05-17,8118,306
+Campinápolis,2021-05-17,948,25
+Campo Novo do Parecis,2021-05-17,5497,65
+Campos de Júlio,2021-05-17,937,9
+Campo Verde,2021-05-17,4973,102
+Canabrava do Norte,2021-05-17,293,3
+Canarana,2021-05-17,2456,42
+Carlinda,2021-05-17,1479,28
+Castanheira,2021-05-17,467,20
+Chapada dos Guimarães,2021-05-17,1494,73
+Cláudia,2021-05-17,1320,28
+Cocalinho,2021-05-17,448,9
+Colíder,2021-05-17,4624,100
+Colniza,2021-05-17,1507,58
+Comodoro,2021-05-17,1422,22
+Confresa,2021-05-17,2712,69
+Conquista D'Oeste,2021-05-17,396,10
+Cotriguaçu,2021-05-17,880,32
+Cuiabá,2021-05-17,81564,2779
+Curvelândia,2021-05-17,245,7
+Denise,2021-05-17,447,13
+Diamantino,2021-05-17,2282,53
+Dom Aquino,2021-05-17,486,17
+Feliz Natal,2021-05-17,1529,28
+Figueirópolis D'Oeste,2021-05-17,288,6
+Gaúcha do Norte,2021-05-17,673,18
+General Carneiro,2021-05-17,560,16
+Glória D'Oeste,2021-05-17,269,11
+Guarantã do Norte,2021-05-17,3371,89
+Guiratinga,2021-05-17,245,22
+Importados/Indefinidos,2021-05-17,2262,172
+Indiavaí,2021-05-17,196,9
+Ipiranga do Norte,2021-05-17,991,12
+Itanhangá,2021-05-17,247,4
+Itaúba,2021-05-17,729,23
+Itiquira,2021-05-17,358,11
+Jaciara,2021-05-17,2889,99
+Jangada,2021-05-17,495,17
+Jauru,2021-05-17,611,29
+Juara,2021-05-17,3778,70
+Juína,2021-05-17,2949,97
+Juruena,2021-05-17,1239,34
+Juscimeira,2021-05-17,1079,31
+Lambari D'Oeste,2021-05-17,546,14
+Lucas do Rio Verde,2021-05-17,11835,142
+Luciara,2021-05-17,114,3
+Marcelândia,2021-05-17,1213,31
+Matupá,2021-05-17,1876,43
+Mirassol d'Oeste,2021-05-17,2995,98
+Nobres,2021-05-17,1379,46
+Nortelândia,2021-05-17,637,22
+Nossa Senhora do Livramento,2021-05-17,965,36
+Nova Bandeirantes,2021-05-17,529,15
+Nova Brasilândia,2021-05-17,293,8
+Nova Canaã do Norte,2021-05-17,1016,23
+Nova Guarita,2021-05-17,611,13
+Nova Lacerda,2021-05-17,816,7
+Nova Marilândia,2021-05-17,272,5
+Nova Maringá,2021-05-17,554,9
+Nova Monte Verde,2021-05-17,1259,17
+Nova Mutum,2021-05-17,6644,101
+Nova Nazaré,2021-05-17,241,6
+Nova Olímpia,2021-05-17,1182,50
+Nova Santa Helena,2021-05-17,481,11
+Nova Ubiratã,2021-05-17,517,15
+Nova Xavantina,2021-05-17,2429,44
+Novo Horizonte do Norte,2021-05-17,327,9
+Novo Mundo,2021-05-17,629,16
+Novo Santo Antônio,2021-05-17,268,3
+Novo São Joaquim,2021-05-17,342,12
+Paranaíta,2021-05-17,2325,30
+Paranatinga,2021-05-17,2688,63
+Pedra Preta,2021-05-17,1590,56
+Peixoto de Azevedo,2021-05-17,3430,116
+Planalto da Serra,2021-05-17,176,7
+Poconé,2021-05-17,2455,64
+Pontal do Araguaia,2021-05-17,692,15
+Ponte Branca,2021-05-17,106,5
+Pontes e Lacerda,2021-05-17,4869,206
+Porto Alegre do Norte,2021-05-17,560,9
+Porto dos Gaúchos,2021-05-17,560,6
+Porto Esperidião,2021-05-17,1037,41
+Porto Estrela,2021-05-17,297,10
+Poxoréu,2021-05-17,1252,40
+Primavera do Leste,2021-05-17,10308,244
+Querência,2021-05-17,2440,45
+Reserva do Cabaçal,2021-05-17,211,5
+Ribeirão Cascalheira,2021-05-17,1019,33
+Ribeirãozinho,2021-05-17,150,10
+Rio Branco,2021-05-17,508,10
+Rondolândia,2021-05-17,250,4
+Rondonópolis,2021-05-17,28105,762
+Rosário Oeste,2021-05-17,1063,37
+Salto do Céu,2021-05-17,230,6
+Santa Carmem,2021-05-17,636,12
+Santa Cruz do Xingu,2021-05-17,304,0
+Santa Rita do Trivelato,2021-05-17,141,3
+Santa Terezinha,2021-05-17,230,7
+Santo Afonso,2021-05-17,211,11
+Santo Antônio do Leste,2021-05-17,189,6
+Santo Antônio do Leverger,2021-05-17,914,45
+São Félix do Araguaia,2021-05-17,1436,28
+São José do Povo,2021-05-17,164,7
+São José do Rio Claro,2021-05-17,1598,22
+São José dos Quatro Marcos,2021-05-17,2100,62
+São José do Xingu,2021-05-17,221,9
+São Pedro da Cipa,2021-05-17,476,20
+Sapezal,2021-05-17,3375,41
+Serra Nova Dourada,2021-05-17,179,4
+Sinop,2021-05-17,20087,367
+Sorriso,2021-05-17,13123,174
+Tabaporã,2021-05-17,1349,20
+Tangará da Serra,2021-05-17,12705,256
+Tapurah,2021-05-17,1978,21
+Terra Nova do Norte,2021-05-17,916,33
+Tesouro,2021-05-17,211,9
+Torixoréu,2021-05-17,336,12
+União do Sul,2021-05-17,461,11
+Vale de São Domingos,2021-05-17,268,10
+Várzea Grande,2021-05-17,26731,1130
+Vera,2021-05-17,1041,23
+Vila Bela da Santíssima Trindade,2021-05-17,2466,51
+Vila Rica,2021-05-17,1268,23
+,2021-05-17,384443,10464
+,2021-05-17,501407,14016
+Água Branca,2021-05-17,741,10
+Aguiar,2021-05-17,291,3
+Alagoa Grande,2021-05-17,2877,52
+Alagoa Nova,2021-05-17,778,16
+Alagoinha,2021-05-17,1572,23
+Alcantil,2021-05-17,343,6
+Algodão de Jandaíra,2021-05-17,123,1
+Alhandra,2021-05-17,1711,29
+Amparo,2021-05-17,158,4
+Aparecida,2021-05-17,696,11
+Araçagi,2021-05-17,1021,13
+Arara,2021-05-17,744,21
+Araruna,2021-05-17,597,16
+Areia,2021-05-17,1092,22
+Areia de Baraúnas,2021-05-17,98,3
+Areial,2021-05-17,263,7
+Aroeiras,2021-05-17,885,7
+Assunção,2021-05-17,283,2
+Baía da Traição,2021-05-17,1213,11
+Bananeiras,2021-05-17,973,18
+Baraúna,2021-05-17,290,4
+Barra de Santana,2021-05-17,349,5
+Barra de Santa Rosa,2021-05-17,876,5
+Barra de São Miguel,2021-05-17,399,6
+Bayeux,2021-05-17,6112,218
+Belém,2021-05-17,1865,31
+Belém do Brejo do Cruz,2021-05-17,487,5
+Bernardino Batista,2021-05-17,232,0
+Boa Ventura,2021-05-17,291,5
+Boa Vista,2021-05-17,549,9
+Bom Jesus,2021-05-17,121,3
+Bom Sucesso,2021-05-17,203,2
+Bonito de Santa Fé,2021-05-17,414,11
+Boqueirão,2021-05-17,1320,23
+Borborema,2021-05-17,346,11
+Brejo do Cruz,2021-05-17,1239,20
+Brejo dos Santos,2021-05-17,375,4
+Caaporã,2021-05-17,1679,29
+Cabaceiras,2021-05-17,313,2
+Cabedelo,2021-05-17,7739,173
+Cachoeira dos Índios,2021-05-17,626,14
+Cacimba de Areia,2021-05-17,31,3
+Cacimba de Dentro,2021-05-17,906,24
+Cacimbas,2021-05-17,196,6
+Caiçara,2021-05-17,639,14
+Cajazeiras,2021-05-17,6990,119
+Cajazeirinhas,2021-05-17,116,0
+Caldas Brandão,2021-05-17,467,7
+Camalaú,2021-05-17,379,5
+Campina Grande,2021-05-17,27827,844
+Capim,2021-05-17,201,9
+Caraúbas,2021-05-17,194,6
+Carrapateira,2021-05-17,417,5
+Casserengue,2021-05-17,775,16
+Catingueira,2021-05-17,172,6
+Catolé do Rocha,2021-05-17,3216,47
+Caturité,2021-05-17,209,4
+Conceição,2021-05-17,846,17
+Condado,2021-05-17,408,9
+Conde,2021-05-17,2103,38
+Congo,2021-05-17,309,9
+Coremas,2021-05-17,1333,24
+Coxixola,2021-05-17,101,3
+Cruz do Espírito Santo,2021-05-17,886,26
+Cubati,2021-05-17,326,9
+Cuité,2021-05-17,1521,20
+Cuité de Mamanguape,2021-05-17,271,12
+Cuitegi,2021-05-17,712,22
+Curral de Cima,2021-05-17,270,2
+Curral Velho,2021-05-17,232,0
+Damião,2021-05-17,428,3
+Desterro,2021-05-17,360,5
+Diamante,2021-05-17,444,8
+Dona Inês,2021-05-17,345,9
+Duas Estradas,2021-05-17,342,14
+Emas,2021-05-17,121,4
+Esperança,2021-05-17,3218,62
+Fagundes,2021-05-17,234,9
+Frei Martinho,2021-05-17,233,3
+Gado Bravo,2021-05-17,393,6
+Guarabira,2021-05-17,7476,115
+Gurinhém,2021-05-17,734,15
+Gurjão,2021-05-17,146,5
+Ibiara,2021-05-17,507,3
+Igaracy,2021-05-17,133,5
+Imaculada,2021-05-17,286,9
+Importados/Indefinidos,2021-05-17,0,0
+Ingá,2021-05-17,2484,34
+Itabaiana,2021-05-17,2574,69
+Itaporanga,2021-05-17,1950,24
+Itapororoca,2021-05-17,1569,16
+Itatuba,2021-05-17,749,15
+Jacaraú,2021-05-17,793,26
+Jericó,2021-05-17,509,9
+João Pessoa,2021-05-17,82525,2509
+Joca Claudino,2021-05-17,77,2
+Juarez Távora,2021-05-17,759,11
+Juazeirinho,2021-05-17,566,13
+Junco do Seridó,2021-05-17,260,7
+Juripiranga,2021-05-17,1179,24
+Juru,2021-05-17,614,12
+Lagoa,2021-05-17,117,1
+Lagoa de Dentro,2021-05-17,637,4
+Lagoa Seca,2021-05-17,1848,36
+Lastro,2021-05-17,310,3
+Livramento,2021-05-17,511,3
+Logradouro,2021-05-17,319,9
+Lucena,2021-05-17,874,16
+Mãe d'Água,2021-05-17,231,5
+Malta,2021-05-17,301,8
+Mamanguape,2021-05-17,4122,63
+Manaíra,2021-05-17,269,6
+Marcação,2021-05-17,822,10
+Mari,2021-05-17,1713,28
+Marizópolis,2021-05-17,246,9
+Massaranduba,2021-05-17,913,23
+Mataraca,2021-05-17,388,12
+Matinhas,2021-05-17,120,4
+Mato Grosso,2021-05-17,49,1
+Maturéia,2021-05-17,254,7
+Mogeiro,2021-05-17,814,14
+Montadas,2021-05-17,188,2
+Monte Horebe,2021-05-17,221,0
+Monteiro,2021-05-17,2995,39
+Mulungu,2021-05-17,688,17
+Natuba,2021-05-17,244,4
+Nazarezinho,2021-05-17,389,6
+Nova Floresta,2021-05-17,877,16
+Nova Olinda,2021-05-17,296,7
+Nova Palmeira,2021-05-17,439,3
+Olho d'Água,2021-05-17,313,6
+Olivedos,2021-05-17,274,3
+Ouro Velho,2021-05-17,95,2
+Parari,2021-05-17,145,1
+Passagem,2021-05-17,115,1
+Patos,2021-05-17,10830,190
+Paulista,2021-05-17,898,8
+Pedra Branca,2021-05-17,323,2
+Pedra Lavrada,2021-05-17,175,1
+Pedras de Fogo,2021-05-17,2086,48
+Pedro Régis,2021-05-17,207,6
+Piancó,2021-05-17,1314,21
+Picuí,2021-05-17,1350,23
+Pilar,2021-05-17,899,21
+Pilões,2021-05-17,168,3
+Pilõezinhos,2021-05-17,565,9
+Pirpirituba,2021-05-17,643,13
+Pitimbu,2021-05-17,1390,15
+Pocinhos,2021-05-17,772,16
+Poço Dantas,2021-05-17,101,4
+Poço de José de Moura,2021-05-17,159,2
+Pombal,2021-05-17,3929,56
+Prata,2021-05-17,100,4
+Princesa Isabel,2021-05-17,1658,46
+Puxinanã,2021-05-17,506,5
+Queimadas,2021-05-17,2839,52
+Quixaba,2021-05-17,73,2
+Remígio,2021-05-17,981,22
+Riachão,2021-05-17,113,4
+Riachão do Bacamarte,2021-05-17,356,0
+Riachão do Poço,2021-05-17,181,3
+Riacho de Santo Antônio,2021-05-17,69,2
+Riacho dos Cavalos,2021-05-17,503,12
+Rio Tinto,2021-05-17,2159,47
+Salgadinho,2021-05-17,130,1
+Salgado de São Félix,2021-05-17,617,12
+Santa Cecília,2021-05-17,211,2
+Santa Cruz,2021-05-17,269,6
+Santa Helena,2021-05-17,315,5
+Santa Inês,2021-05-17,125,5
+Santa Luzia,2021-05-17,1508,22
+Santana de Mangueira,2021-05-17,265,1
+Santana dos Garrotes,2021-05-17,362,8
+Santa Rita,2021-05-17,7417,280
+Santa Teresinha,2021-05-17,170,11
+Santo André,2021-05-17,268,2
+São Bentinho,2021-05-17,273,3
+São Bento,2021-05-17,5027,57
+São Domingos,2021-05-17,110,0
+São Domingos do Cariri,2021-05-17,92,3
+São Francisco,2021-05-17,111,2
+São João do Cariri,2021-05-17,284,1
+São João do Rio do Peixe,2021-05-17,891,21
+São João do Tigre,2021-05-17,158,4
+São José da Lagoa Tapada,2021-05-17,486,3
+São José de Caiana,2021-05-17,288,4
+São José de Espinharas,2021-05-17,314,5
+São José de Piranhas,2021-05-17,1873,41
+São José de Princesa,2021-05-17,155,1
+São José do Bonfim,2021-05-17,110,5
+São José do Brejo do Cruz,2021-05-17,165,1
+São José do Sabugi,2021-05-17,580,3
+São José dos Cordeiros,2021-05-17,90,5
+São José dos Ramos,2021-05-17,392,5
+São Mamede,2021-05-17,566,29
+São Miguel de Taipu,2021-05-17,348,8
+São Sebastião de Lagoa de Roça,2021-05-17,652,14
+São Sebastião do Umbuzeiro,2021-05-17,162,3
+São Vicente do Seridó,2021-05-17,277,3
+Sapé,2021-05-17,2249,95
+Serra Branca,2021-05-17,669,26
+Serra da Raiz,2021-05-17,409,4
+Serra Grande,2021-05-17,179,4
+Serra Redonda,2021-05-17,426,6
+Serraria,2021-05-17,536,11
+Sertãozinho,2021-05-17,544,6
+Sobrado,2021-05-17,429,9
+Solânea,2021-05-17,3036,43
+Soledade,2021-05-17,823,12
+Sossêgo,2021-05-17,181,1
+Sousa,2021-05-17,6144,95
+Sumé,2021-05-17,2102,31
+Tacima,2021-05-17,253,7
+Taperoá,2021-05-17,520,14
+Tavares,2021-05-17,778,12
+Teixeira,2021-05-17,599,32
+Tenório,2021-05-17,82,2
+Triunfo,2021-05-17,412,8
+Uiraúna,2021-05-17,484,23
+Umbuzeiro,2021-05-17,297,9
+Várzea,2021-05-17,90,1
+Vieirópolis,2021-05-17,97,2
+Vista Serrana,2021-05-17,115,5
+Zabelê,2021-05-17,126,1
+,2021-05-17,310470,7248
+Abreu e Lima,2021-05-17,2559,193
+Afogados da Ingazeira,2021-05-17,3873,58
+Afrânio,2021-05-17,767,13
+Agrestina,2021-05-17,1326,49
+Água Preta,2021-05-17,1345,56
+Águas Belas,2021-05-17,1373,28
+Alagoinha,2021-05-17,666,18
+Aliança,2021-05-17,563,47
+Altinho,2021-05-17,927,19
+Amaraji,2021-05-17,445,28
+Angelim,2021-05-17,166,6
+Araçoiaba,2021-05-17,500,27
+Araripina,2021-05-17,5715,120
+Arcoverde,2021-05-17,5024,105
+Barra de Guabiraba,2021-05-17,345,14
+Barreiros,2021-05-17,729,51
+Belém de Maria,2021-05-17,199,6
+Belém do São Francisco,2021-05-17,579,9
+Belo Jardim,2021-05-17,2850,87
+Betânia,2021-05-17,403,10
+Bezerros,2021-05-17,3327,98
+Bodocó,2021-05-17,1650,25
+Bom Conselho,2021-05-17,1393,46
+Bom Jardim,2021-05-17,1132,53
+Bonito,2021-05-17,661,34
+Brejão,2021-05-17,193,5
+Brejinho,2021-05-17,600,17
+Brejo da Madre de Deus,2021-05-17,1805,47
+Buenos Aires,2021-05-17,227,19
+Buíque,2021-05-17,1848,38
+Cabo de Santo Agostinho,2021-05-17,5175,417
+Cabrobó,2021-05-17,1761,22
+Cachoeirinha,2021-05-17,429,23
+Caetés,2021-05-17,1185,17
+Calçado,2021-05-17,387,2
+Calumbi,2021-05-17,452,3
+Camaragibe,2021-05-17,4702,337
+Camocim de São Félix,2021-05-17,437,13
+Camutanga,2021-05-17,716,23
+Canhotinho,2021-05-17,527,26
+Capoeiras,2021-05-17,1085,19
+Carnaíba,2021-05-17,1626,30
+Carnaubeira da Penha,2021-05-17,142,3
+Carpina,2021-05-17,3129,115
+Caruaru,2021-05-17,24588,558
+Casinhas,2021-05-17,236,9
+Catende,2021-05-17,950,46
+Cedro,2021-05-17,1407,14
+Chã de Alegria,2021-05-17,398,19
+Chã Grande,2021-05-17,372,20
+Condado,2021-05-17,1258,33
+Correntes,2021-05-17,219,5
+Cortês,2021-05-17,225,15
+Cumaru,2021-05-17,285,14
+Cupira,2021-05-17,1468,38
+Custódia,2021-05-17,628,45
+Dormentes,2021-05-17,1064,7
+Escada,2021-05-17,765,83
+Exu,2021-05-17,3059,37
+Feira Nova,2021-05-17,1099,36
+Fernando de Noronha,2021-05-17,274,2
+Ferreiros,2021-05-17,686,12
+Flores,2021-05-17,838,29
+Floresta,2021-05-17,1505,17
+Frei Miguelinho,2021-05-17,729,18
+Gameleira,2021-05-17,393,30
+Garanhuns,2021-05-17,10131,179
+Glória do Goitá,2021-05-17,929,38
+Goiana,2021-05-17,5329,132
+Granito,2021-05-17,261,3
+Gravatá,2021-05-17,3102,117
+Iati,2021-05-17,570,11
+Ibimirim,2021-05-17,676,23
+Ibirajuba,2021-05-17,188,7
+Igarassu,2021-05-17,2663,193
+Iguaracy,2021-05-17,620,24
+Ilha de Itamaracá,2021-05-17,778,22
+Importados/Indefinidos,2021-05-17,0,0
+Inajá,2021-05-17,347,5
+Ingazeira,2021-05-17,262,4
+Ipojuca,2021-05-17,2682,140
+Ipubi,2021-05-17,879,49
+Itacuruba,2021-05-17,175,4
+Itaíba,2021-05-17,624,10
+Itambé,2021-05-17,1259,46
+Itapetim,2021-05-17,970,23
+Itapissuma,2021-05-17,738,39
+Itaquitinga,2021-05-17,486,28
+Jaboatão dos Guararapes,2021-05-17,27030,1384
+Jaqueira,2021-05-17,298,12
+Jataúba,2021-05-17,770,13
+Jatobá,2021-05-17,523,7
+João Alfredo,2021-05-17,494,33
+Joaquim Nabuco,2021-05-17,354,22
+Jucati,2021-05-17,510,7
+Jupi,2021-05-17,838,17
+Jurema,2021-05-17,406,18
+Lagoa de Itaenga,2021-05-17,753,22
+Lagoa do Carro,2021-05-17,700,21
+Lagoa do Ouro,2021-05-17,333,8
+Lagoa dos Gatos,2021-05-17,486,9
+Lagoa Grande,2021-05-17,1226,22
+Lajedo,2021-05-17,1534,52
+Limoeiro,2021-05-17,2011,85
+Macaparana,2021-05-17,1009,25
+Machados,2021-05-17,565,11
+Manari,2021-05-17,214,5
+Maraial,2021-05-17,318,10
+Mirandiba,2021-05-17,743,17
+Moreilândia,2021-05-17,392,4
+Moreno,2021-05-17,1373,89
+Nazaré da Mata,2021-05-17,908,63
+Olinda,2021-05-17,18697,812
+Orobó,2021-05-17,687,18
+Orocó,2021-05-17,484,10
+Ouricuri,2021-05-17,2150,72
+Palmares,2021-05-17,3367,99
+Palmeirina,2021-05-17,142,5
+Panelas,2021-05-17,659,24
+Paranatama,2021-05-17,439,14
+Parnamirim,2021-05-17,1076,30
+Passira,2021-05-17,1143,45
+Paudalho,2021-05-17,2284,91
+Paulista,2021-05-17,8936,665
+Pedra,2021-05-17,775,16
+Pesqueira,2021-05-17,3554,89
+Petrolândia,2021-05-17,1219,27
+Petrolina,2021-05-17,24151,371
+Poção,2021-05-17,467,13
+Pombos,2021-05-17,1443,36
+Primavera,2021-05-17,240,18
+Quipapá,2021-05-17,554,10
+Quixaba,2021-05-17,374,11
+Recife,2021-05-17,112852,4051
+Riacho das Almas,2021-05-17,869,18
+Ribeirão,2021-05-17,403,64
+Rio Formoso,2021-05-17,694,33
+Sairé,2021-05-17,324,5
+Salgadinho,2021-05-17,181,3
+Salgueiro,2021-05-17,6272,99
+Saloá,2021-05-17,539,18
+Sanharó,2021-05-17,972,23
+Santa Cruz,2021-05-17,656,9
+Santa Cruz da Baixa Verde,2021-05-17,482,12
+Santa Cruz do Capibaribe,2021-05-17,6375,119
+Santa Filomena,2021-05-17,413,9
+Santa Maria da Boa Vista,2021-05-17,819,10
+Santa Maria do Cambucá,2021-05-17,530,14
+Santa Terezinha,2021-05-17,797,24
+São Benedito do Sul,2021-05-17,294,11
+São Bento do Una,2021-05-17,2026,58
+São Caitano,2021-05-17,1307,43
+São João,2021-05-17,688,17
+São Joaquim do Monte,2021-05-17,581,23
+São José da Coroa Grande,2021-05-17,1362,36
+São José do Belmonte,2021-05-17,1937,40
+São José do Egito,2021-05-17,1994,42
+São Lourenço da Mata,2021-05-17,3453,200
+São Vicente Férrer,2021-05-17,1255,22
+Serra Talhada,2021-05-17,8608,138
+Serrita,2021-05-17,949,19
+Sertânia,2021-05-17,2205,33
+Sirinhaém,2021-05-17,716,36
+Solidão,2021-05-17,486,2
+Surubim,2021-05-17,2828,62
+Tabira,2021-05-17,2225,34
+Tacaimbó,2021-05-17,432,9
+Tacaratu,2021-05-17,730,22
+Tamandaré,2021-05-17,521,26
+Taquaritinga do Norte,2021-05-17,553,19
+Terezinha,2021-05-17,327,6
+Terra Nova,2021-05-17,782,9
+Timbaúba,2021-05-17,2861,92
+Toritama,2021-05-17,1270,31
+Tracunhaém,2021-05-17,156,20
+Trindade,2021-05-17,1561,46
+Triunfo,2021-05-17,772,17
+Tupanatinga,2021-05-17,756,8
+Tuparetama,2021-05-17,354,20
+Venturosa,2021-05-17,936,23
+Verdejante,2021-05-17,363,7
+Vertente do Lério,2021-05-17,298,2
+Vertentes,2021-05-17,676,10
+Vicência,2021-05-17,638,29
+Vitória de Santo Antão,2021-05-17,4886,242
+Xexéu,2021-05-17,413,23
+,2021-05-17,443064,14980
+Acauã,2021-05-17,179,1
+Agricolândia,2021-05-17,399,4
+Água Branca,2021-05-17,1371,60
+Alagoinha do Piauí,2021-05-17,289,10
+Alegrete do Piauí,2021-05-17,474,5
+Alto Longá,2021-05-17,574,13
+Altos,2021-05-17,3945,80
+Alvorada do Gurguéia,2021-05-17,294,9
+Amarante,2021-05-17,1374,31
+Angical do Piauí,2021-05-17,612,8
+Anísio de Abreu,2021-05-17,284,9
+Antônio Almeida,2021-05-17,403,10
+Aroazes,2021-05-17,539,12
+Aroeiras do Itaim,2021-05-17,101,2
+Arraial,2021-05-17,140,2
+Assunção do Piauí,2021-05-17,301,6
+Avelino Lopes,2021-05-17,330,19
+Baixa Grande do Ribeiro,2021-05-17,1996,21
+Barra D'Alcântara,2021-05-17,105,3
+Barras,2021-05-17,4318,84
+Barreiras do Piauí,2021-05-17,65,1
+Barro Duro,2021-05-17,660,9
+Batalha,2021-05-17,921,30
+Bela Vista do Piauí,2021-05-17,234,6
+Belém do Piauí,2021-05-17,436,7
+Beneditinos,2021-05-17,998,34
+Bertolínia,2021-05-17,808,10
+Betânia do Piauí,2021-05-17,157,2
+Boa Hora,2021-05-17,488,5
+Bocaina,2021-05-17,236,3
+Bom Jesus,2021-05-17,2951,29
+Bom Princípio do Piauí,2021-05-17,118,11
+Bonfim do Piauí,2021-05-17,300,6
+Boqueirão do Piauí,2021-05-17,526,10
+Brasileira,2021-05-17,492,9
+Brejo do Piauí,2021-05-17,62,3
+Buriti dos Lopes,2021-05-17,1199,26
+Buriti dos Montes,2021-05-17,563,7
+Cabeceiras do Piauí,2021-05-17,469,10
+Cajazeiras do Piauí,2021-05-17,47,1
+Cajueiro da Praia,2021-05-17,471,18
+Caldeirão Grande do Piauí,2021-05-17,322,2
+Campinas do Piauí,2021-05-17,166,1
+Campo Alegre do Fidalgo,2021-05-17,105,1
+Campo Grande do Piauí,2021-05-17,448,4
+Campo Largo do Piauí,2021-05-17,465,6
+Campo Maior,2021-05-17,4907,124
+Canavieira,2021-05-17,143,6
+Canto do Buriti,2021-05-17,877,30
+Capitão de Campos,2021-05-17,737,25
+Capitão Gervásio Oliveira,2021-05-17,62,7
+Caracol,2021-05-17,306,11
+Caraúbas do Piauí,2021-05-17,186,9
+Caridade do Piauí,2021-05-17,539,5
+Castelo do Piauí,2021-05-17,1023,23
+Caxingó,2021-05-17,140,1
+Cocal,2021-05-17,1077,29
+Cocal de Telha,2021-05-17,377,10
+Cocal dos Alves,2021-05-17,258,6
+Coivaras,2021-05-17,239,5
+Colônia do Gurguéia,2021-05-17,477,9
+Colônia do Piauí,2021-05-17,315,4
+Conceição do Canindé,2021-05-17,313,7
+Coronel José Dias,2021-05-17,97,4
+Corrente,2021-05-17,1422,21
+Cristalândia do Piauí,2021-05-17,46,2
+Cristino Castro,2021-05-17,510,10
+Curimatá,2021-05-17,650,13
+Currais,2021-05-17,259,2
+Curralinhos,2021-05-17,297,1
+Curral Novo do Piauí,2021-05-17,260,2
+Demerval Lobão,2021-05-17,2881,23
+Dirceu Arcoverde,2021-05-17,203,7
+Dom Expedito Lopes,2021-05-17,269,11
+Domingos Mourão,2021-05-17,196,3
+Dom Inocêncio,2021-05-17,189,4
+Elesbão Veloso,2021-05-17,656,23
+Eliseu Martins,2021-05-17,278,13
+Esperantina,2021-05-17,2464,76
+Fartura do Piauí,2021-05-17,179,3
+Flores do Piauí,2021-05-17,145,3
+Floresta do Piauí,2021-05-17,98,4
+Floriano,2021-05-17,7154,124
+Francinópolis,2021-05-17,64,1
+Francisco Ayres,2021-05-17,189,5
+Francisco Macedo,2021-05-17,406,4
+Francisco Santos,2021-05-17,317,3
+Fronteiras,2021-05-17,591,8
+Geminiano,2021-05-17,266,2
+Gilbués,2021-05-17,420,4
+Guadalupe,2021-05-17,1116,17
+Guaribas,2021-05-17,102,2
+Hugo Napoleão,2021-05-17,465,8
+Ilha Grande,2021-05-17,886,16
+Inhuma,2021-05-17,863,14
+Ipiranga do Piauí,2021-05-17,525,9
+Isaías Coelho,2021-05-17,578,4
+Itainópolis,2021-05-17,525,8
+Itaueira,2021-05-17,131,15
+Jacobina do Piauí,2021-05-17,300,3
+Jaicós,2021-05-17,1162,27
+Jardim do Mulato,2021-05-17,176,3
+Jatobá do Piauí,2021-05-17,181,7
+Jerumenha,2021-05-17,199,5
+João Costa,2021-05-17,152,2
+Joaquim Pires,2021-05-17,1280,22
+Joca Marques,2021-05-17,516,5
+José de Freitas,2021-05-17,4278,61
+Juazeiro do Piauí,2021-05-17,262,2
+Júlio Borges,2021-05-17,144,11
+Jurema,2021-05-17,206,4
+Lagoa Alegre,2021-05-17,336,12
+Lagoa de São Francisco,2021-05-17,376,4
+Lagoa do Barro do Piauí,2021-05-17,867,7
+Lagoa do Piauí,2021-05-17,775,4
+Lagoa do Sítio,2021-05-17,90,11
+Lagoinha do Piauí,2021-05-17,232,7
+Landri Sales,2021-05-17,652,9
+Luís Correia,2021-05-17,1285,50
+Luzilândia,2021-05-17,2309,43
+Madeiro,2021-05-17,388,3
+Manoel Emídio,2021-05-17,368,11
+Marcolândia,2021-05-17,821,21
+Marcos Parente,2021-05-17,341,7
+Massapê do Piauí,2021-05-17,173,0
+Matias Olímpio,2021-05-17,576,9
+Miguel Alves,2021-05-17,1906,27
+Miguel Leão,2021-05-17,138,1
+Milton Brandão,2021-05-17,186,3
+Monsenhor Gil,2021-05-17,1308,27
+Monsenhor Hipólito,2021-05-17,449,2
+Monte Alegre do Piauí,2021-05-17,812,12
+Morro Cabeça no Tempo,2021-05-17,103,3
+Morro do Chapéu do Piauí,2021-05-17,706,4
+Murici dos Portelas,2021-05-17,243,10
+Nazaré do Piauí,2021-05-17,316,8
+Nazária,2021-05-17,384,11
+Nossa Senhora de Nazaré,2021-05-17,360,11
+Nossa Senhora dos Remédios,2021-05-17,666,10
+Nova Santa Rita,2021-05-17,134,4
+Novo Oriente do Piauí,2021-05-17,287,10
+Novo Santo Antônio,2021-05-17,216,3
+Oeiras,2021-05-17,3887,58
+Olho D'Água do Piauí,2021-05-17,197,3
+Padre Marcos,2021-05-17,486,5
+Paes Landim,2021-05-17,71,1
+Pajeú do Piauí,2021-05-17,83,7
+Palmeira do Piauí,2021-05-17,224,4
+Palmeirais,2021-05-17,302,13
+Paquetá,2021-05-17,131,4
+Parnaguá,2021-05-17,228,9
+Parnaíba,2021-05-17,13913,375
+Passagem Franca do Piauí,2021-05-17,238,10
+Patos do Piauí,2021-05-17,266,5
+Pau D'Arco do Piauí,2021-05-17,313,4
+Paulistana,2021-05-17,1075,12
+Pavussu,2021-05-17,254,9
+Pedro II,2021-05-17,3519,72
+Pedro Laurentino,2021-05-17,62,2
+Picos,2021-05-17,6664,129
+Pimenteiras,2021-05-17,777,23
+Pio IX,2021-05-17,821,17
+Piracuruca,2021-05-17,2288,67
+Piripiri,2021-05-17,9088,174
+Porto,2021-05-17,525,13
+Porto Alegre do Piauí,2021-05-17,180,3
+Prata do Piauí,2021-05-17,144,4
+Queimada Nova,2021-05-17,591,4
+Redenção do Gurguéia,2021-05-17,276,17
+Regeneração,2021-05-17,991,18
+Riacho Frio,2021-05-17,108,3
+Ribeira do Piauí,2021-05-17,32,4
+Ribeiro Gonçalves,2021-05-17,641,8
+Rio Grande do Piauí,2021-05-17,401,7
+Santa Cruz do Piauí,2021-05-17,778,14
+Santa Cruz dos Milagres,2021-05-17,228,2
+Santa Filomena,2021-05-17,64,3
+Santa Luz,2021-05-17,186,5
+Santana do Piauí,2021-05-17,141,3
+Santa Rosa do Piauí,2021-05-17,129,3
+Santo Antônio de Lisboa,2021-05-17,44,4
+Santo Antônio dos Milagres,2021-05-17,159,2
+Santo Inácio do Piauí,2021-05-17,252,6
+São Braz do Piauí,2021-05-17,59,8
+São Félix do Piauí,2021-05-17,189,3
+São Francisco de Assis do Piauí,2021-05-17,51,2
+São Francisco do Piauí,2021-05-17,122,6
+São Gonçalo do Gurguéia,2021-05-17,153,3
+São Gonçalo do Piauí,2021-05-17,357,4
+São João da Canabrava,2021-05-17,320,5
+São João da Fronteira,2021-05-17,217,4
+São João da Serra,2021-05-17,297,10
+São João da Varjota,2021-05-17,191,2
+São João do Arraial,2021-05-17,533,6
+São João do Piauí,2021-05-17,1256,27
+São José do Divino,2021-05-17,137,11
+São José do Peixe,2021-05-17,70,1
+São José do Piauí,2021-05-17,151,8
+São Julião,2021-05-17,256,7
+São Lourenço do Piauí,2021-05-17,60,3
+São Luis do Piauí,2021-05-17,102,0
+São Miguel da Baixa Grande,2021-05-17,167,1
+São Miguel do Fidalgo,2021-05-17,117,2
+São Miguel do Tapuio,2021-05-17,542,12
+São Pedro do Piauí,2021-05-17,1091,18
+São Raimundo Nonato,2021-05-17,3099,45
+Sebastião Barros,2021-05-17,22,3
+Sebastião Leal,2021-05-17,359,4
+Sigefredo Pacheco,2021-05-17,401,11
+Simões,2021-05-17,721,11
+Simplício Mendes,2021-05-17,1202,35
+Socorro do Piauí,2021-05-17,115,6
+Sussuapara,2021-05-17,378,5
+Tamboril do Piauí,2021-05-17,33,5
+Tanque do Piauí,2021-05-17,164,1
+Teresina,2021-05-17,91057,2072
+União,2021-05-17,1951,49
+Uruçuí,2021-05-17,3395,50
+Valença do Piauí,2021-05-17,1670,58
+Várzea Branca,2021-05-17,168,10
+Várzea Grande,2021-05-17,353,0
+Vera Mendes,2021-05-17,199,2
+Vila Nova do Piauí,2021-05-17,181,1
+Wall Ferraz,2021-05-17,329,3
+,2021-05-17,259059,5556
+Abatiá,2021-05-17,737,10
+Adrianópolis,2021-05-17,1108,22
+Agudos do Sul,2021-05-17,486,19
+Almirante Tamandaré,2021-05-17,8181,310
+Altamira do Paraná,2021-05-17,160,4
+Altônia,2021-05-17,892,17
+Alto Paraíso,2021-05-17,159,2
+Alto Paraná,2021-05-17,786,18
+Alto Piquiri,2021-05-17,602,17
+Alvorada do Sul,2021-05-17,650,21
+Amaporã,2021-05-17,269,5
+Ampére,2021-05-17,1108,27
+Anahy,2021-05-17,325,6
+Andirá,2021-05-17,1682,61
+Ângulo,2021-05-17,280,6
+Antonina,2021-05-17,2175,56
+Antônio Olinto,2021-05-17,356,8
+Apucarana,2021-05-17,7602,261
+Arapongas,2021-05-17,10501,398
+Arapoti,2021-05-17,2388,44
+Arapuã,2021-05-17,181,5
+Araruna,2021-05-17,1169,19
+Araucária,2021-05-17,20700,319
+Ariranha do Ivaí,2021-05-17,129,2
+Assaí,2021-05-17,1184,39
+Assis Chateaubriand,2021-05-17,3231,77
+Astorga,2021-05-17,2602,60
+Atalaia,2021-05-17,335,15
+Balsa Nova,2021-05-17,1251,24
+Bandeirantes,2021-05-17,3141,93
+Barbosa Ferraz,2021-05-17,907,25
+Barracão,2021-05-17,1043,27
+Barra do Jacaré,2021-05-17,160,1
+Bela Vista da Caroba,2021-05-17,159,5
+Bela Vista do Paraíso,2021-05-17,1659,58
+Bituruna,2021-05-17,664,10
+Boa Esperança,2021-05-17,263,7
+Boa Esperança do Iguaçu,2021-05-17,139,0
+Boa Ventura de São Roque,2021-05-17,370,5
+Boa Vista da Aparecida,2021-05-17,731,20
+Bocaiúva do Sul,2021-05-17,1538,13
+Bom Jesus do Sul,2021-05-17,301,3
+Bom Sucesso,2021-05-17,664,12
+Bom Sucesso do Sul,2021-05-17,335,6
+Borrazópolis,2021-05-17,547,19
+Braganey,2021-05-17,317,7
+Brasilândia do Sul,2021-05-17,339,8
+Cafeara,2021-05-17,225,9
+Cafelândia,2021-05-17,1579,12
+Cafezal do Sul,2021-05-17,264,4
+Califórnia,2021-05-17,850,15
+Cambará,2021-05-17,1936,40
+Cambé,2021-05-17,9273,196
+Cambira,2021-05-17,702,16
+Campina da Lagoa,2021-05-17,1153,25
+Campina do Simão,2021-05-17,257,12
+Campina Grande do Sul,2021-05-17,4514,95
+Campo Bonito,2021-05-17,270,7
+Campo do Tenente,2021-05-17,349,13
+Campo Largo,2021-05-17,14985,345
+Campo Magro,2021-05-17,2689,64
+Campo Mourão,2021-05-17,8838,179
+Cândido de Abreu,2021-05-17,738,8
+Candói,2021-05-17,938,21
+Cantagalo,2021-05-17,911,19
+Capanema,2021-05-17,1909,21
+Capitão Leônidas Marques,2021-05-17,1219,20
+Carambeí,2021-05-17,2790,51
+Carlópolis,2021-05-17,552,19
+Cascavel,2021-05-17,33796,682
+Castro,2021-05-17,8658,159
+Catanduvas,2021-05-17,734,18
+Centenário do Sul,2021-05-17,770,26
+Cerro Azul,2021-05-17,1077,36
+Céu Azul,2021-05-17,936,16
+Chopinzinho,2021-05-17,2077,39
+Cianorte,2021-05-17,6401,125
+Cidade Gaúcha,2021-05-17,1345,7
+Clevelândia,2021-05-17,1692,72
+Colombo,2021-05-17,18168,550
+Colorado,2021-05-17,1931,43
+Congonhinhas,2021-05-17,762,20
+Conselheiro Mairinck,2021-05-17,495,8
+Contenda,2021-05-17,1718,32
+Corbélia,2021-05-17,1309,29
+Cornélio Procópio,2021-05-17,5071,112
+Coronel Domingos Soares,2021-05-17,1089,14
+Coronel Vivida,2021-05-17,2641,64
+Corumbataí do Sul,2021-05-17,253,7
+Cruzeiro do Iguaçu,2021-05-17,271,7
+Cruzeiro do Oeste,2021-05-17,2034,49
+Cruzeiro do Sul,2021-05-17,289,11
+Cruz Machado,2021-05-17,707,14
+Cruzmaltina,2021-05-17,202,5
+Curitiba,2021-05-17,153420,4959
+Curiúva,2021-05-17,1079,16
+Diamante D'Oeste,2021-05-17,397,8
+Diamante do Norte,2021-05-17,215,8
+Diamante do Sul,2021-05-17,303,9
+Dois Vizinhos,2021-05-17,5570,70
+Douradina,2021-05-17,577,7
+Doutor Camargo,2021-05-17,478,10
+Doutor Ulysses,2021-05-17,221,4
+Enéas Marques,2021-05-17,552,16
+Engenheiro Beltrão,2021-05-17,967,15
+Entre Rios do Oeste,2021-05-17,320,3
+Esperança Nova,2021-05-17,252,7
+Espigão Alto do Iguaçu,2021-05-17,270,5
+Farol,2021-05-17,123,3
+Faxinal,2021-05-17,1564,44
+Fazenda Rio Grande,2021-05-17,11121,290
+Fênix,2021-05-17,283,2
+Fernandes Pinheiro,2021-05-17,368,9
+Figueira,2021-05-17,703,23
+Floraí,2021-05-17,360,9
+Flor da Serra do Sul,2021-05-17,461,22
+Floresta,2021-05-17,879,13
+Florestópolis,2021-05-17,882,23
+Flórida,2021-05-17,268,5
+Formosa do Oeste,2021-05-17,376,10
+Foz do Iguaçu,2021-05-17,36691,798
+Foz do Jordão,2021-05-17,489,12
+Francisco Alves,2021-05-17,387,7
+Francisco Beltrão,2021-05-17,12047,181
+General Carneiro,2021-05-17,323,13
+Godoy Moreira,2021-05-17,74,1
+Goioerê,2021-05-17,1194,38
+Goioxim,2021-05-17,356,4
+Grandes Rios,2021-05-17,384,10
+Guaíra,2021-05-17,2785,66
+Guairaçá,2021-05-17,341,9
+Guamiranga,2021-05-17,748,10
+Guapirama,2021-05-17,324,4
+Guaporema,2021-05-17,165,4
+Guaraci,2021-05-17,499,8
+Guaraniaçu,2021-05-17,1054,17
+Guarapuava,2021-05-17,16062,339
+Guaraqueçaba,2021-05-17,557,14
+Guaratuba,2021-05-17,4149,143
+Honório Serpa,2021-05-17,461,9
+Ibaiti,2021-05-17,2563,94
+Ibema,2021-05-17,355,13
+Ibiporã,2021-05-17,5070,110
+Icaraíma,2021-05-17,626,11
+Iguaraçu,2021-05-17,414,20
+Iguatu,2021-05-17,188,5
+Imbaú,2021-05-17,1485,38
+Imbituva,2021-05-17,2882,63
+Importados/Indefinidos,2021-05-17,5749,143
+Inácio Martins,2021-05-17,579,8
+Inajá,2021-05-17,195,6
+Indianópolis,2021-05-17,702,5
+Ipiranga,2021-05-17,956,17
+Iporã,2021-05-17,961,7
+Iracema do Oeste,2021-05-17,135,2
+Irati,2021-05-17,5487,89
+Iretama,2021-05-17,601,8
+Itaguajé,2021-05-17,241,8
+Itaipulândia,2021-05-17,1155,13
+Itambaracá,2021-05-17,539,16
+Itambé,2021-05-17,663,29
+Itapejara d'Oeste,2021-05-17,1522,36
+Itaperuçu,2021-05-17,3354,98
+Itaúna do Sul,2021-05-17,159,5
+Ivaí,2021-05-17,559,13
+Ivaiporã,2021-05-17,2485,63
+Ivaté,2021-05-17,329,3
+Ivatuba,2021-05-17,224,6
+Jaboti,2021-05-17,257,8
+Jacarezinho,2021-05-17,4800,71
+Jaguapitã,2021-05-17,1725,41
+Jaguariaíva,2021-05-17,3011,97
+Jandaia do Sul,2021-05-17,2294,56
+Janiópolis,2021-05-17,374,9
+Japira,2021-05-17,432,9
+Japurá,2021-05-17,568,6
+Jardim Alegre,2021-05-17,683,18
+Jardim Olinda,2021-05-17,48,2
+Jataizinho,2021-05-17,1513,31
+Jesuítas,2021-05-17,667,19
+Joaquim Távora,2021-05-17,1340,31
+Jundiaí do Sul,2021-05-17,172,5
+Juranda,2021-05-17,598,11
+Jussara,2021-05-17,541,5
+Kaloré,2021-05-17,855,15
+Lapa,2021-05-17,2988,58
+Laranjal,2021-05-17,134,4
+Laranjeiras do Sul,2021-05-17,1680,37
+Leópolis,2021-05-17,357,9
+Lidianópolis,2021-05-17,303,7
+Lindoeste,2021-05-17,349,7
+Loanda,2021-05-17,1727,27
+Lobato,2021-05-17,405,10
+Londrina,2021-05-17,53418,1275
+Luiziana,2021-05-17,403,6
+Lunardelli,2021-05-17,260,1
+Lupionópolis,2021-05-17,270,13
+Mallet,2021-05-17,482,6
+Mamborê,2021-05-17,726,13
+Mandaguaçu,2021-05-17,2720,45
+Mandaguari,2021-05-17,3475,91
+Mandirituba,2021-05-17,2809,69
+Manfrinópolis,2021-05-17,167,4
+Mangueirinha,2021-05-17,1340,23
+Manoel Ribas,2021-05-17,1126,22
+Marechal Cândido Rondon,2021-05-17,4652,84
+Maria Helena,2021-05-17,398,4
+Marialva,2021-05-17,4110,86
+Marilândia do Sul,2021-05-17,747,32
+Marilena,2021-05-17,343,8
+Mariluz,2021-05-17,932,30
+Maringá,2021-05-17,45998,1086
+Mariópolis,2021-05-17,507,14
+Maripá,2021-05-17,465,10
+Marmeleiro,2021-05-17,1627,37
+Marquinho,2021-05-17,177,4
+Marumbi,2021-05-17,381,4
+Matelândia,2021-05-17,2244,40
+Matinhos,2021-05-17,2510,83
+Mato Rico,2021-05-17,74,3
+Mauá da Serra,2021-05-17,663,18
+Medianeira,2021-05-17,5796,78
+Mercedes,2021-05-17,300,4
+Mirador,2021-05-17,113,1
+Miraselva,2021-05-17,173,5
+Missal,2021-05-17,989,13
+Moreira Sales,2021-05-17,473,10
+Morretes,2021-05-17,1813,47
+Munhoz de Melo,2021-05-17,324,7
+Nossa Senhora das Graças,2021-05-17,383,6
+Nova Aliança do Ivaí,2021-05-17,88,1
+Nova América da Colina,2021-05-17,344,8
+Nova Aurora,2021-05-17,1006,17
+Nova Cantu,2021-05-17,394,4
+Nova Esperança,2021-05-17,1633,52
+Nova Esperança do Sudoeste,2021-05-17,534,10
+Nova Fátima,2021-05-17,327,8
+Nova Laranjeiras,2021-05-17,572,4
+Nova Londrina,2021-05-17,783,15
+Nova Olímpia,2021-05-17,797,6
+Nova Prata do Iguaçu,2021-05-17,678,12
+Nova Santa Bárbara,2021-05-17,492,15
+Nova Santa Rosa,2021-05-17,520,5
+Nova Tebas,2021-05-17,292,9
+Novo Itacolomi,2021-05-17,191,4
+Ortigueira,2021-05-17,1535,24
+Ourizona,2021-05-17,222,5
+Ouro Verde do Oeste,2021-05-17,677,15
+Paiçandu,2021-05-17,3547,90
+Palmas,2021-05-17,4810,112
+Palmeira,2021-05-17,2536,57
+Palmital,2021-05-17,910,21
+Palotina,2021-05-17,4010,62
+Paraíso do Norte,2021-05-17,1499,23
+Paranacity,2021-05-17,578,12
+Paranaguá,2021-05-17,18829,364
+Paranapoema,2021-05-17,204,3
+Paranavaí,2021-05-17,7015,175
+Pato Bragado,2021-05-17,384,6
+Pato Branco,2021-05-17,7913,171
+Paula Freitas,2021-05-17,364,13
+Paulo Frontin,2021-05-17,237,1
+Peabiru,2021-05-17,955,19
+Perobal,2021-05-17,494,3
+Pérola,2021-05-17,951,21
+Pérola d'Oeste,2021-05-17,365,7
+Piên,2021-05-17,1055,13
+Pinhais,2021-05-17,13230,369
+Pinhalão,2021-05-17,374,8
+Pinhal de São Bento,2021-05-17,111,1
+Pinhão,2021-05-17,1525,40
+Piraí do Sul,2021-05-17,2262,47
+Piraquara,2021-05-17,10261,230
+Pitanga,2021-05-17,1837,24
+Pitangueiras,2021-05-17,302,7
+Planaltina do Paraná,2021-05-17,273,5
+Planalto,2021-05-17,1053,15
+Ponta Grossa,2021-05-17,34117,871
+Pontal do Paraná,2021-05-17,2481,78
+Porecatu,2021-05-17,1081,28
+Porto Amazonas,2021-05-17,376,12
+Porto Barreiro,2021-05-17,161,1
+Porto Rico,2021-05-17,264,2
+Porto Vitória,2021-05-17,107,5
+Prado Ferreira,2021-05-17,137,11
+Pranchita,2021-05-17,399,5
+Presidente Castelo Branco,2021-05-17,448,10
+Primeiro de Maio,2021-05-17,413,14
+Prudentópolis,2021-05-17,1458,42
+Quarto Centenário,2021-05-17,184,1
+Quatiguá,2021-05-17,730,13
+Quatro Barras,2021-05-17,2654,64
+Quatro Pontes,2021-05-17,418,6
+Quedas do Iguaçu,2021-05-17,2625,58
+Querência do Norte,2021-05-17,846,4
+Quinta do Sol,2021-05-17,459,6
+Quitandinha,2021-05-17,1498,40
+Ramilândia,2021-05-17,368,8
+Rancho Alegre,2021-05-17,258,4
+Rancho Alegre D'Oeste,2021-05-17,148,3
+Realeza,2021-05-17,1788,28
+Rebouças,2021-05-17,1124,20
+Renascença,2021-05-17,596,20
+Reserva,2021-05-17,2070,40
+Reserva do Iguaçu,2021-05-17,470,6
+Ribeirão Claro,2021-05-17,903,15
+Ribeirão do Pinhal,2021-05-17,999,34
+Rio Azul,2021-05-17,870,11
+Rio Bom,2021-05-17,164,6
+Rio Bonito do Iguaçu,2021-05-17,638,6
+Rio Branco do Ivaí,2021-05-17,255,8
+Rio Branco do Sul,2021-05-17,4581,120
+Rio Negro,2021-05-17,1202,30
+Rolândia,2021-05-17,6195,181
+Roncador,2021-05-17,515,9
+Rondon,2021-05-17,812,9
+Rosário do Ivaí,2021-05-17,366,2
+Sabáudia,2021-05-17,911,14
+Salgado Filho,2021-05-17,367,7
+Salto do Itararé,2021-05-17,725,25
+Salto do Lontra,2021-05-17,1196,22
+Santa Amélia,2021-05-17,267,5
+Santa Cecília do Pavão,2021-05-17,349,8
+Santa Cruz de Monte Castelo,2021-05-17,458,9
+Santa Fé,2021-05-17,815,40
+Santa Helena,2021-05-17,2541,45
+Santa Inês,2021-05-17,139,1
+Santa Isabel do Ivaí,2021-05-17,713,18
+Santa Izabel do Oeste,2021-05-17,882,23
+Santa Lúcia,2021-05-17,193,5
+Santa Maria do Oeste,2021-05-17,553,22
+Santa Mariana,2021-05-17,855,34
+Santa Mônica,2021-05-17,189,3
+Santana do Itararé,2021-05-17,656,16
+Santa Tereza do Oeste,2021-05-17,967,18
+Santa Terezinha de Itaipu,2021-05-17,2376,70
+Santo Antônio da Platina,2021-05-17,3576,93
+Santo Antônio do Caiuá,2021-05-17,160,7
+Santo Antônio do Paraíso,2021-05-17,216,2
+Santo Antônio do Sudoeste,2021-05-17,1427,14
+Santo Inácio,2021-05-17,485,11
+São Carlos do Ivaí,2021-05-17,751,11
+São Jerônimo da Serra,2021-05-17,525,18
+São João,2021-05-17,1072,18
+São João do Caiuá,2021-05-17,415,7
+São João do Ivaí,2021-05-17,753,16
+São João do Triunfo,2021-05-17,253,8
+São Jorge d'Oeste,2021-05-17,871,20
+São Jorge do Ivaí,2021-05-17,506,9
+São Jorge do Patrocínio,2021-05-17,786,4
+São José da Boa Vista,2021-05-17,529,19
+São José das Palmeiras,2021-05-17,270,10
+São José dos Pinhais,2021-05-17,21494,650
+São Manoel do Paraná,2021-05-17,167,1
+São Mateus do Sul,2021-05-17,2128,51
+São Miguel do Iguaçu,2021-05-17,2669,48
+São Pedro do Iguaçu,2021-05-17,488,11
+São Pedro do Ivaí,2021-05-17,801,29
+São Pedro do Paraná,2021-05-17,154,1
+São Sebastião da Amoreira,2021-05-17,701,25
+São Tomé,2021-05-17,369,2
+Sapopema,2021-05-17,647,14
+Sarandi,2021-05-17,7691,190
+Saudade do Iguaçu,2021-05-17,629,10
+Sengés,2021-05-17,1369,22
+Serranópolis do Iguaçu,2021-05-17,507,5
+Sertaneja,2021-05-17,469,13
+Sertanópolis,2021-05-17,1990,25
+Siqueira Campos,2021-05-17,2332,44
+Sulina,2021-05-17,344,5
+Tamarana,2021-05-17,772,27
+Tamboara,2021-05-17,353,9
+Tapejara,2021-05-17,1302,23
+Tapira,2021-05-17,368,5
+Teixeira Soares,2021-05-17,467,10
+Telêmaco Borba,2021-05-17,12390,205
+Terra Boa,2021-05-17,1925,26
+Terra Rica,2021-05-17,472,13
+Terra Roxa,2021-05-17,1362,24
+Tibagi,2021-05-17,2088,62
+Tijucas do Sul,2021-05-17,1543,63
+Toledo,2021-05-17,19279,294
+Tomazina,2021-05-17,261,8
+Três Barras do Paraná,2021-05-17,1067,30
+Tunas do Paraná,2021-05-17,531,10
+Tuneiras do Oeste,2021-05-17,538,13
+Tupãssi,2021-05-17,729,23
+Turvo,2021-05-17,1496,10
+Ubiratã,2021-05-17,1079,35
+Umuarama,2021-05-17,11751,186
+União da Vitória,2021-05-17,4906,83
+Uniflor,2021-05-17,79,4
+Uraí,2021-05-17,574,18
+Ventania,2021-05-17,834,26
+Vera Cruz do Oeste,2021-05-17,705,20
+Verê,2021-05-17,925,14
+Virmond,2021-05-17,203,3
+Vitorino,2021-05-17,635,17
+Wenceslau Braz,2021-05-17,1523,66
+Xambrê,2021-05-17,286,5
+,2021-05-17,1025645,24702
+Angra dos Reis,2021-05-17,12649,419
+Aperibé,2021-05-17,504,19
+Araruama,2021-05-17,5101,319
+Areal,2021-05-17,922,37
+Armação dos Búzios,2021-05-17,4071,45
+Arraial do Cabo,2021-05-17,623,27
+Barra do Piraí,2021-05-17,5266,292
+Barra Mansa,2021-05-17,13750,481
+Belford Roxo,2021-05-17,19475,585
+Bom Jardim,2021-05-17,1340,34
+Bom Jesus do Itabapoana,2021-05-17,2768,73
+Cabo Frio,2021-05-17,11077,579
+Cachoeiras de Macacu,2021-05-17,2523,85
+Cambuci,2021-05-17,746,29
+Campos dos Goytacazes,2021-05-17,23326,1183
+Cantagalo,2021-05-17,2263,16
+Carapebus,2021-05-17,1354,11
+Cardoso Moreira,2021-05-17,1094,10
+Carmo,2021-05-17,1889,35
+Casimiro de Abreu,2021-05-17,3769,107
+Comendador Levy Gasparian,2021-05-17,625,22
+Conceição de Macabu,2021-05-17,1897,70
+Cordeiro,2021-05-17,2166,8
+Duas Barras,2021-05-17,182,6
+Duque de Caxias,2021-05-17,20040,1309
+Engenheiro Paulo de Frontin,2021-05-17,1315,53
+Guapimirim,2021-05-17,4568,160
+Iguaba Grande,2021-05-17,3852,95
+Importados/Indefinidos,2021-05-17,0,0
+Itaboraí,2021-05-17,8955,616
+Itaguaí,2021-05-17,4825,301
+Italva,2021-05-17,471,21
+Itaocara,2021-05-17,1905,71
+Itaperuna,2021-05-17,6325,173
+Itatiaia,2021-05-17,1296,53
+Japeri,2021-05-17,981,69
+Laje do Muriaé,2021-05-17,494,6
+Macaé,2021-05-17,23309,590
+Macuco,2021-05-17,856,7
+Magé,2021-05-17,10625,462
+Mangaratiba,2021-05-17,2433,110
+Maricá,2021-05-17,8266,406
+Mendes,2021-05-17,1722,40
+Mesquita,2021-05-17,3017,358
+Miguel Pereira,2021-05-17,2127,51
+Miracema,2021-05-17,2121,26
+Natividade,2021-05-17,1045,18
+Nilópolis,2021-05-17,3130,401
+Niterói,2021-05-17,35720,1634
+Nova Friburgo,2021-05-17,16905,555
+Nova Iguaçu,2021-05-17,15886,1418
+Paracambi,2021-05-17,2347,100
+Paraíba do Sul,2021-05-17,4151,132
+Paraty,2021-05-17,2204,64
+Paty do Alferes,2021-05-17,1969,44
+Petrópolis,2021-05-17,9393,1048
+Pinheiral,2021-05-17,2510,60
+Piraí,2021-05-17,3339,60
+Porciúncula,2021-05-17,1931,62
+Porto Real,2021-05-17,1511,32
+Quatis,2021-05-17,673,25
+Queimados,2021-05-17,5181,150
+Quissamã,2021-05-17,2355,65
+Resende,2021-05-17,11157,389
+Rio Bonito,2021-05-17,4953,176
+Rio Claro,2021-05-17,1291,45
+Rio das Flores,2021-05-17,163,13
+Rio das Ostras,2021-05-17,10145,376
+Rio de Janeiro,2021-05-17,303874,25289
+Santa Maria Madalena,2021-05-17,224,9
+Santo Antônio de Pádua,2021-05-17,3956,118
+São Fidélis,2021-05-17,521,78
+São Francisco de Itabapoana,2021-05-17,1408,67
+São Gonçalo,2021-05-17,43775,2218
+São João da Barra,2021-05-17,3685,18
+São João de Meriti,2021-05-17,8405,919
+São José de Ubá,2021-05-17,309,5
+São José do Vale do Rio Preto,2021-05-17,1650,52
+São Pedro da Aldeia,2021-05-17,4244,220
+São Sebastião do Alto,2021-05-17,425,17
+Sapucaia,2021-05-17,2586,98
+Saquarema,2021-05-17,2250,213
+Seropédica,2021-05-17,1970,162
+Silva Jardim,2021-05-17,1215,19
+Sumidouro,2021-05-17,988,47
+Tanguá,2021-05-17,2714,94
+Teresópolis,2021-05-17,23289,698
+Trajano de Moraes,2021-05-17,476,3
+Três Rios,2021-05-17,8796,233
+Valença,2021-05-17,2768,142
+Varre-Sai,2021-05-17,1878,5
+Vassouras,2021-05-17,2012,104
+Volta Redonda,2021-05-17,27687,860
+,2021-05-17,817947,48024
+,2021-05-17,254031,5914
+,2021-05-17,221871,5501
+,2021-05-17,100254,1579
+,2021-05-17,1032330,26724
+Abdon Batista,2021-05-17,335,3
+Abelardo Luz,2021-05-17,1311,41
+Agrolândia,2021-05-17,1147,17
+Agronômica,2021-05-17,545,10
+Água Doce,2021-05-17,1025,13
+Águas de Chapecó,2021-05-17,383,5
+Águas Frias,2021-05-17,468,2
+Águas Mornas,2021-05-17,696,9
+Alfredo Wagner,2021-05-17,638,7
+Alto Bela Vista,2021-05-17,152,2
+Anchieta,2021-05-17,414,6
+Angelina,2021-05-17,471,1
+Anita Garibaldi,2021-05-17,1034,8
+Anitápolis,2021-05-17,307,4
+Antônio Carlos,2021-05-17,1442,21
+Apiúna,2021-05-17,753,15
+Arabutã,2021-05-17,388,7
+Araquari,2021-05-17,3184,66
+Araranguá,2021-05-17,9037,204
+Armazém,2021-05-17,1334,28
+Arroio Trinta,2021-05-17,484,11
+Arvoredo,2021-05-17,275,4
+Ascurra,2021-05-17,1055,9
+Atalanta,2021-05-17,320,8
+Aurora,2021-05-17,692,14
+Balneário Arroio do Silva,2021-05-17,1828,39
+Balneário Barra do Sul,2021-05-17,1306,30
+Balneário Camboriú,2021-05-17,22418,329
+Balneário Gaivota,2021-05-17,1124,30
+Balneário Piçarras,2021-05-17,4140,42
+Balneário Rincão,2021-05-17,1247,38
+Bandeirante,2021-05-17,241,2
+Barra Bonita,2021-05-17,152,1
+Barra Velha,2021-05-17,3718,81
+Bela Vista do Toldo,2021-05-17,68,2
+Belmonte,2021-05-17,213,4
+Benedito Novo,2021-05-17,919,16
+Biguaçu,2021-05-17,10286,151
+Blumenau,2021-05-17,45294,515
+Bocaina do Sul,2021-05-17,361,3
+Bombinhas,2021-05-17,3308,51
+Bom Jardim da Serra,2021-05-17,558,4
+Bom Jesus,2021-05-17,329,6
+Bom Jesus do Oeste,2021-05-17,155,5
+Bom Retiro,2021-05-17,638,14
+Botuverá,2021-05-17,845,8
+Braço do Norte,2021-05-17,7199,78
+Braço do Trombudo,2021-05-17,571,4
+Brunópolis,2021-05-17,244,6
+Brusque,2021-05-17,23834,240
+Caçador,2021-05-17,5030,191
+Caibi,2021-05-17,554,11
+Calmon,2021-05-17,28,4
+Camboriú,2021-05-17,11238,149
+Campo Alegre,2021-05-17,1085,30
+Campo Belo do Sul,2021-05-17,647,18
+Campo Erê,2021-05-17,827,8
+Campos Novos,2021-05-17,4641,84
+Canelinha,2021-05-17,1181,14
+Canoinhas,2021-05-17,4923,71
+Capão Alto,2021-05-17,144,2
+Capinzal,2021-05-17,4003,32
+Capivari de Baixo,2021-05-17,3868,65
+Catanduvas,2021-05-17,1584,24
+Caxambu do Sul,2021-05-17,465,8
+Celso Ramos,2021-05-17,350,5
+Cerro Negro,2021-05-17,114,4
+Chapadão do Lageado,2021-05-17,264,1
+Chapecó,2021-05-17,33244,602
+Cocal do Sul,2021-05-17,2811,45
+Concórdia,2021-05-17,11751,137
+Cordilheira Alta,2021-05-17,523,8
+Coronel Freitas,2021-05-17,1471,24
+Coronel Martins,2021-05-17,140,3
+Correia Pinto,2021-05-17,1041,40
+Corupá,2021-05-17,1561,32
+Criciúma,2021-05-17,31823,469
+Cunha Porã,2021-05-17,736,21
+Cunhataí,2021-05-17,186,1
+Curitibanos,2021-05-17,3427,113
+Descanso,2021-05-17,701,10
+Dionísio Cerqueira,2021-05-17,1413,34
+Dona Emma,2021-05-17,420,2
+Doutor Pedrinho,2021-05-17,386,4
+Entre Rios,2021-05-17,586,8
+Ermo,2021-05-17,313,3
+Erval Velho,2021-05-17,608,7
+Faxinal dos Guedes,2021-05-17,1495,23
+Flor do Sertão,2021-05-17,99,0
+Florianópolis,2021-05-17,74036,960
+Formosa do Sul,2021-05-17,321,5
+Forquilhinha,2021-05-17,4247,36
+Fraiburgo,2021-05-17,3911,77
+Frei Rogério,2021-05-17,255,6
+Galvão,2021-05-17,284,6
+Garopaba,2021-05-17,2952,35
+Garuva,2021-05-17,1779,27
+Gaspar,2021-05-17,7189,139
+Governador Celso Ramos,2021-05-17,2359,23
+Grão Pará,2021-05-17,1046,8
+Gravatal,2021-05-17,2024,43
+Guabiruba,2021-05-17,3249,37
+Guaraciaba,2021-05-17,1308,16
+Guaramirim,2021-05-17,6068,71
+Guarujá do Sul,2021-05-17,379,7
+Guatambú,2021-05-17,738,15
+Herval d'Oeste,2021-05-17,3418,47
+Ibiam,2021-05-17,163,4
+Ibicaré,2021-05-17,447,7
+Ibirama,2021-05-17,1376,25
+Içara,2021-05-17,6094,87
+Ilhota,2021-05-17,1629,25
+Imaruí,2021-05-17,997,17
+Imbituba,2021-05-17,6374,100
+Imbuia,2021-05-17,515,9
+Importados/Indefinidos,2021-05-17,0,0
+Indaial,2021-05-17,8591,107
+Iomerê,2021-05-17,231,7
+Ipira,2021-05-17,344,5
+Iporã do Oeste,2021-05-17,490,8
+Ipuaçu,2021-05-17,930,11
+Ipumirim,2021-05-17,569,8
+Iraceminha,2021-05-17,308,1
+Irani,2021-05-17,1356,13
+Irati,2021-05-17,263,7
+Irineópolis,2021-05-17,464,8
+Itá,2021-05-17,856,14
+Itaiópolis,2021-05-17,2159,38
+Itajaí,2021-05-17,25922,587
+Itapema,2021-05-17,11416,216
+Itapiranga,2021-05-17,1761,14
+Itapoá,2021-05-17,2647,57
+Ituporanga,2021-05-17,2778,52
+Jaborá,2021-05-17,727,7
+Jacinto Machado,2021-05-17,1184,28
+Jaguaruna,2021-05-17,2922,50
+Jaraguá do Sul,2021-05-17,25143,288
+Jardinópolis,2021-05-17,340,4
+Joaçaba,2021-05-17,5078,51
+Joinville,2021-05-17,88417,1379
+José Boiteux,2021-05-17,565,5
+Jupiá,2021-05-17,170,4
+Lacerdópolis,2021-05-17,397,4
+Lages,2021-05-17,22321,417
+Laguna,2021-05-17,4629,127
+Lajeado Grande,2021-05-17,186,5
+Laurentino,2021-05-17,962,5
+Lauro Müller,2021-05-17,2047,34
+Lebon Régis,2021-05-17,906,45
+Leoberto Leal,2021-05-17,234,2
+Lindóia do Sul,2021-05-17,778,11
+Lontras,2021-05-17,962,15
+Luiz Alves,2021-05-17,1863,11
+Luzerna,2021-05-17,855,9
+Macieira,2021-05-17,121,5
+Mafra,2021-05-17,3985,66
+Major Gercino,2021-05-17,317,6
+Major Vieira,2021-05-17,293,3
+Maracajá,2021-05-17,967,17
+Maravilha,2021-05-17,3553,48
+Marema,2021-05-17,217,12
+Massaranduba,2021-05-17,2157,17
+Matos Costa,2021-05-17,142,2
+Meleiro,2021-05-17,1031,18
+Mirim Doce,2021-05-17,260,4
+Modelo,2021-05-17,328,10
+Mondaí,2021-05-17,886,9
+Monte Carlo,2021-05-17,979,30
+Monte Castelo,2021-05-17,556,10
+Morro da Fumaça,2021-05-17,3005,35
+Morro Grande,2021-05-17,496,4
+Navegantes,2021-05-17,8001,153
+Nova Erechim,2021-05-17,492,8
+Nova Itaberaba,2021-05-17,342,3
+Nova Trento,2021-05-17,1699,12
+Nova Veneza,2021-05-17,2357,21
+Novo Horizonte,2021-05-17,135,0
+Orleans,2021-05-17,4294,59
+Otacílio Costa,2021-05-17,2867,51
+Ouro,2021-05-17,1231,15
+Ouro Verde,2021-05-17,273,10
+Paial,2021-05-17,201,3
+Painel,2021-05-17,151,4
+Palhoça,2021-05-17,26559,305
+Palma Sola,2021-05-17,803,16
+Palmeira,2021-05-17,253,1
+Palmitos,2021-05-17,1493,36
+Papanduva,2021-05-17,356,30
+Paraíso,2021-05-17,63,5
+Passo de Torres,2021-05-17,1055,23
+Passos Maia,2021-05-17,221,10
+Paulo Lopes,2021-05-17,1194,13
+Pedras Grandes,2021-05-17,584,19
+Penha,2021-05-17,4596,75
+Peritiba,2021-05-17,342,3
+Pescaria Brava,2021-05-17,1531,23
+Petrolândia,2021-05-17,583,17
+Pinhalzinho,2021-05-17,2702,32
+Pinheiro Preto,2021-05-17,471,6
+Piratuba,2021-05-17,503,10
+Planalto Alegre,2021-05-17,246,9
+Pomerode,2021-05-17,4543,58
+Ponte Alta,2021-05-17,476,10
+Ponte Alta do Norte,2021-05-17,248,4
+Ponte Serrada,2021-05-17,1084,38
+Porto Belo,2021-05-17,2624,41
+Porto União,2021-05-17,2935,49
+Pouso Redondo,2021-05-17,1476,21
+Praia Grande,2021-05-17,1028,12
+Presidente Castello Branco,2021-05-17,426,4
+Presidente Getúlio,2021-05-17,1499,26
+Presidente Nereu,2021-05-17,109,3
+Princesa,2021-05-17,240,3
+Quilombo,2021-05-17,1302,39
+Rancho Queimado,2021-05-17,406,2
+Rio das Antas,2021-05-17,402,9
+Rio do Campo,2021-05-17,473,7
+Rio do Oeste,2021-05-17,623,7
+Rio dos Cedros,2021-05-17,904,21
+Rio do Sul,2021-05-17,7721,85
+Rio Fortuna,2021-05-17,673,6
+Rio Negrinho,2021-05-17,4004,65
+Rio Rufino,2021-05-17,215,5
+Riqueza,2021-05-17,413,14
+Rodeio,2021-05-17,1389,23
+Romelândia,2021-05-17,268,4
+Salete,2021-05-17,727,8
+Saltinho,2021-05-17,177,3
+Salto Veloso,2021-05-17,509,8
+Sangão,2021-05-17,1610,11
+Santa Cecília,2021-05-17,1116,17
+Santa Helena,2021-05-17,78,2
+Santa Rosa de Lima,2021-05-17,293,5
+Santa Rosa do Sul,2021-05-17,1073,21
+Santa Terezinha,2021-05-17,288,2
+Santa Terezinha do Progresso,2021-05-17,220,3
+Santiago do Sul,2021-05-17,138,2
+Santo Amaro da Imperatriz,2021-05-17,3530,67
+São Bento do Sul,2021-05-17,7043,114
+São Bernardino,2021-05-17,232,2
+São Bonifácio,2021-05-17,445,7
+São Carlos,2021-05-17,665,18
+São Cristóvão do Sul,2021-05-17,154,11
+São Domingos,2021-05-17,952,17
+São Francisco do Sul,2021-05-17,6376,122
+São João Batista,2021-05-17,4332,74
+São João do Itaperiú,2021-05-17,598,12
+São João do Oeste,2021-05-17,439,7
+São João do Sul,2021-05-17,883,13
+São Joaquim,2021-05-17,2339,60
+São José,2021-05-17,32389,519
+São José do Cedro,2021-05-17,1330,16
+São José do Cerrito,2021-05-17,584,9
+São Lourenço do Oeste,2021-05-17,826,34
+São Ludgero,2021-05-17,2424,29
+São Martinho,2021-05-17,718,13
+São Miguel da Boa Vista,2021-05-17,212,3
+São Miguel do Oeste,2021-05-17,3976,47
+São Pedro de Alcântara,2021-05-17,704,8
+Saudades,2021-05-17,860,7
+Schroeder,2021-05-17,2855,29
+Seara,2021-05-17,2264,21
+Serra Alta,2021-05-17,227,4
+Siderópolis,2021-05-17,1120,41
+Sombrio,2021-05-17,3129,65
+Sul Brasil,2021-05-17,373,2
+Taió,2021-05-17,1935,18
+Tangará,2021-05-17,1169,21
+Tigrinhos,2021-05-17,236,0
+Tijucas,2021-05-17,5802,84
+Timbé do Sul,2021-05-17,775,14
+Timbó,2021-05-17,6225,77
+Timbó Grande,2021-05-17,585,14
+Três Barras,2021-05-17,1628,43
+Treviso,2021-05-17,680,9
+Treze de Maio,2021-05-17,1020,9
+Treze Tílias,2021-05-17,824,10
+Trombudo Central,2021-05-17,1034,20
+Tubarão,2021-05-17,18444,367
+Tunápolis,2021-05-17,946,6
+Turvo,2021-05-17,1790,18
+União do Oeste,2021-05-17,323,11
+Urubici,2021-05-17,693,22
+Urupema,2021-05-17,223,3
+Urussanga,2021-05-17,3083,49
+Vargeão,2021-05-17,256,4
+Vargem,2021-05-17,408,3
+Vargem Bonita,2021-05-17,677,6
+Vidal Ramos,2021-05-17,444,7
+Videira,2021-05-17,8524,95
+Vitor Meireles,2021-05-17,350,3
+Witmarsum,2021-05-17,221,4
+Xanxerê,2021-05-17,8372,146
+Xavantina,2021-05-17,334,5
+Xaxim,2021-05-17,3864,103
+Zortéa,2021-05-17,680,10
+,2021-05-17,929621,14465
+,2021-05-17,218603,4746
+,2021-05-17,3096845,104295
+,2021-05-17,169365,2737
+Acrelândia,2021-05-16,1537,32
+Assis Brasil,2021-05-16,1556,21
+Brasiléia,2021-05-16,2627,36
+Bujari,2021-05-16,1105,14
+Capixaba,2021-05-16,610,17
+Cruzeiro do Sul,2021-05-16,7360,148
+Epitaciolândia,2021-05-16,1315,28
+Feijó,2021-05-16,2914,58
+Jordão,2021-05-16,397,1
+Mâncio Lima,2021-05-16,2015,25
+Manoel Urbano,2021-05-16,895,12
+Marechal Thaumaturgo,2021-05-16,1192,9
+Plácido de Castro,2021-05-16,1513,15
+Porto Acre,2021-05-16,1368,33
+Porto Walter,2021-05-16,529,3
+Rio Branco,2021-05-16,35831,981
+Rodrigues Alves,2021-05-16,766,10
+Santa Rosa do Purus,2021-05-16,895,7
+Senador Guiomard,2021-05-16,1116,40
+Sena Madureira,2021-05-16,5612,63
+Tarauacá,2021-05-16,6343,34
+Xapuri,2021-05-16,2903,27
+,2021-05-16,80399,1614
+Água Branca,2021-05-16,307,13
+Anadia,2021-05-16,1121,24
+Arapiraca,2021-05-16,22884,363
+Atalaia,2021-05-16,1078,42
+Barra de Santo Antônio,2021-05-16,329,19
+Barra de São Miguel,2021-05-16,439,7
+Batalha,2021-05-16,948,15
+Belém,2021-05-16,104,3
+Belo Monte,2021-05-16,269,7
+Boca da Mata,2021-05-16,1645,41
+Branquinha,2021-05-16,469,9
+Cacimbinhas,2021-05-16,612,7
+Cajueiro,2021-05-16,515,20
+Campestre,2021-05-16,241,6
+Campo Alegre,2021-05-16,2525,63
+Campo Grande,2021-05-16,428,8
+Canapi,2021-05-16,250,6
+Capela,2021-05-16,766,10
+Carneiros,2021-05-16,199,6
+Chã Preta,2021-05-16,251,7
+Coité do Nóia,2021-05-16,363,14
+Colônia Leopoldina,2021-05-16,319,15
+Coqueiro Seco,2021-05-16,420,6
+Coruripe,2021-05-16,3442,42
+Craíbas,2021-05-16,1050,18
+Delmiro Gouveia,2021-05-16,2870,81
+Dois Riachos,2021-05-16,526,5
+Estrela de Alagoas,2021-05-16,324,10
+Feira Grande,2021-05-16,668,11
+Feliz Deserto,2021-05-16,125,4
+Flexeiras,2021-05-16,607,17
+Girau do Ponciano,2021-05-16,1684,34
+Ibateguara,2021-05-16,538,13
+Igaci,2021-05-16,691,9
+Igreja Nova,2021-05-16,926,12
+Importados/Indefinidos,2021-05-16,0,0
+Inhapi,2021-05-16,345,7
+Jacaré dos Homens,2021-05-16,221,2
+Jacuípe,2021-05-16,145,4
+Japaratinga,2021-05-16,378,12
+Jaramataia,2021-05-16,94,1
+Jequiá da Praia,2021-05-16,532,9
+Joaquim Gomes,2021-05-16,706,20
+Jundiá,2021-05-16,144,3
+Junqueiro,2021-05-16,937,35
+Lagoa da Canoa,2021-05-16,859,17
+Limoeiro de Anadia,2021-05-16,955,22
+Maceió,2021-05-16,72799,2059
+Major Isidoro,2021-05-16,622,19
+Maragogi,2021-05-16,1336,35
+Maravilha,2021-05-16,243,9
+Marechal Deodoro,2021-05-16,5364,87
+Maribondo,2021-05-16,429,18
+Mar Vermelho,2021-05-16,122,2
+Mata Grande,2021-05-16,382,12
+Matriz de Camaragibe,2021-05-16,1342,33
+Messias,2021-05-16,953,26
+Minador do Negrão,2021-05-16,132,5
+Monteirópolis,2021-05-16,189,2
+Murici,2021-05-16,951,45
+Novo Lino,2021-05-16,167,11
+Olho d'Água das Flores,2021-05-16,1369,29
+Olho d'Água do Casado,2021-05-16,98,5
+Olho d'Água Grande,2021-05-16,177,9
+Olivença,2021-05-16,425,9
+Ouro Branco,2021-05-16,286,6
+Palestina,2021-05-16,398,3
+Palmeira dos Índios,2021-05-16,3769,92
+Pão de Açúcar,2021-05-16,1066,22
+Pariconha,2021-05-16,496,1
+Paripueira,2021-05-16,290,18
+Passo de Camaragibe,2021-05-16,551,13
+Paulo Jacinto,2021-05-16,263,10
+Penedo,2021-05-16,3202,36
+Piaçabuçu,2021-05-16,681,19
+Pilar,2021-05-16,2791,35
+Pindoba,2021-05-16,87,1
+Piranhas,2021-05-16,829,15
+Poço das Trincheiras,2021-05-16,390,6
+Porto Calvo,2021-05-16,1076,31
+Porto de Pedras,2021-05-16,329,9
+Porto Real do Colégio,2021-05-16,557,13
+Quebrangulo,2021-05-16,740,11
+Rio Largo,2021-05-16,2803,124
+Roteiro,2021-05-16,310,11
+Santa Luzia do Norte,2021-05-16,423,8
+Santana do Ipanema,2021-05-16,4039,66
+Santana do Mundaú,2021-05-16,673,13
+São Brás,2021-05-16,313,3
+São José da Laje,2021-05-16,1017,23
+São José da Tapera,2021-05-16,1184,31
+São Luís do Quitunde,2021-05-16,1093,23
+São Miguel dos Campos,2021-05-16,3230,73
+São Miguel dos Milagres,2021-05-16,220,10
+São Sebastião,2021-05-16,1452,25
+Satuba,2021-05-16,879,30
+Senador Rui Palmeira,2021-05-16,287,10
+Tanque d'Arca,2021-05-16,306,4
+Taquarana,2021-05-16,552,11
+Teotônio Vilela,2021-05-16,1740,56
+Traipu,2021-05-16,420,14
+União dos Palmares,2021-05-16,1838,73
+Viçosa,2021-05-16,1465,30
+,2021-05-16,184394,4493
+Alvarães,2021-05-16,2736,43
+Amaturá,2021-05-16,2350,17
+Anamã,2021-05-16,1725,9
+Anori,2021-05-16,1850,31
+Apuí,2021-05-16,1262,27
+Atalaia do Norte,2021-05-16,2711,8
+Autazes,2021-05-16,2799,89
+Barcelos,2021-05-16,4136,57
+Barreirinha,2021-05-16,2323,61
+Benjamin Constant,2021-05-16,2680,85
+Beruri,2021-05-16,2120,31
+Boa Vista do Ramos,2021-05-16,878,11
+Boca do Acre,2021-05-16,2499,22
+Borba,2021-05-16,1930,54
+Caapiranga,2021-05-16,572,20
+Canutama,2021-05-16,1296,8
+Carauari,2021-05-16,6547,51
+Careiro,2021-05-16,4244,81
+Careiro da Várzea,2021-05-16,955,24
+Coari,2021-05-16,9323,224
+Codajás,2021-05-16,2363,21
+Eirunepé,2021-05-16,4112,26
+Envira,2021-05-16,2426,10
+Fonte Boa,2021-05-16,1581,36
+Guajará,2021-05-16,1642,25
+Humaitá,2021-05-16,7541,139
+Ipixuna,2021-05-16,4580,18
+Iranduba,2021-05-16,8612,160
+Itacoatiara,2021-05-16,8713,300
+Itamarati,2021-05-16,935,9
+Itapiranga,2021-05-16,2993,38
+Japurá,2021-05-16,800,7
+Juruá,2021-05-16,906,14
+Jutaí,2021-05-16,2130,34
+Lábrea,2021-05-16,6588,75
+Manacapuru,2021-05-16,8067,326
+Manaquiri,2021-05-16,1383,42
+Manaus,2021-05-16,173570,8900
+Manicoré,2021-05-16,4517,95
+Maraã,2021-05-16,2076,21
+Maués,2021-05-16,4495,118
+Nhamundá,2021-05-16,1811,34
+Nova Olinda do Norte,2021-05-16,2599,66
+Novo Airão,2021-05-16,2248,31
+Novo Aripuanã,2021-05-16,1900,29
+Parintins,2021-05-16,9786,349
+Pauini,2021-05-16,2746,22
+Presidente Figueiredo,2021-05-16,5869,92
+Rio Preto da Eva,2021-05-16,4374,68
+Santa Isabel do Rio Negro,2021-05-16,2717,51
+Santo Antônio do Içá,2021-05-16,1822,43
+São Gabriel da Cachoeira,2021-05-16,8086,108
+São Paulo de Olivença,2021-05-16,5160,63
+São Sebastião do Uatumã,2021-05-16,1478,18
+Silves,2021-05-16,1365,22
+Tabatinga,2021-05-16,3287,123
+Tapauá,2021-05-16,1768,22
+Tefé,2021-05-16,9036,181
+Tonantins,2021-05-16,1278,33
+Uarini,2021-05-16,1847,25
+Urucará,2021-05-16,2341,50
+Urucurituba,2021-05-16,2371,34
+,2021-05-16,378855,12831
+Amapá,2021-05-16,1263,10
+Calçoene,2021-05-16,1602,10
+Cutias,2021-05-16,865,6
+Ferreira Gomes,2021-05-16,1393,6
+Itaubal,2021-05-16,490,3
+Laranjal do Jari,2021-05-16,8256,91
+Macapá,2021-05-16,51709,1225
+Mazagão,2021-05-16,2829,15
+Oiapoque,2021-05-16,4995,39
+Pedra Branca do Amapari,2021-05-16,3225,9
+Porto Grande,2021-05-16,1723,21
+Pracuúba,2021-05-16,379,6
+Santana,2021-05-16,23510,130
+Serra do Navio,2021-05-16,1105,5
+Tartarugalzinho,2021-05-16,1884,13
+Vitória do Jari,2021-05-16,3842,26
+,2021-05-16,109070,1615
+Abaíra,2021-05-16,252,10
+Abaré,2021-05-16,778,8
+Acajutiba,2021-05-16,480,14
+Adustina,2021-05-16,660,11
+Água Fria,2021-05-16,150,10
+Aiquara,2021-05-16,442,11
+Alagoinhas,2021-05-16,11150,220
+Alcobaça,2021-05-16,1282,22
+Almadina,2021-05-16,587,9
+Amargosa,2021-05-16,2343,47
+Amélia Rodrigues,2021-05-16,1849,37
+América Dourada,2021-05-16,753,7
+Anagé,2021-05-16,793,16
+Andaraí,2021-05-16,658,6
+Andorinha,2021-05-16,725,12
+Angical,2021-05-16,503,10
+Anguera,2021-05-16,350,1
+Antas,2021-05-16,1070,7
+Antônio Cardoso,2021-05-16,342,7
+Antônio Gonçalves,2021-05-16,678,8
+Aporá,2021-05-16,462,18
+Apuarema,2021-05-16,643,9
+Araçás,2021-05-16,555,7
+Aracatu,2021-05-16,731,14
+Araci,2021-05-16,3224,42
+Aramari,2021-05-16,523,11
+Arataca,2021-05-16,528,14
+Aratuípe,2021-05-16,323,9
+Aurelino Leal,2021-05-16,841,25
+Baianópolis,2021-05-16,579,7
+Baixa Grande,2021-05-16,624,7
+Banzaê,2021-05-16,842,7
+Barra,2021-05-16,1793,31
+Barra da Estiva,2021-05-16,1649,16
+Barra do Choça,2021-05-16,1827,27
+Barra do Mendes,2021-05-16,652,11
+Barra do Rocha,2021-05-16,382,5
+Barreiras,2021-05-16,14281,222
+Barro Alto,2021-05-16,750,8
+Barrocas,2021-05-16,695,19
+Barro Preto,2021-05-16,561,10
+Belmonte,2021-05-16,919,18
+Belo Campo,2021-05-16,694,9
+Biritinga,2021-05-16,327,6
+Boa Nova,2021-05-16,759,11
+Boa Vista do Tupim,2021-05-16,200,4
+Bom Jesus da Lapa,2021-05-16,3838,55
+Bom Jesus da Serra,2021-05-16,415,8
+Boninal,2021-05-16,570,7
+Bonito,2021-05-16,678,10
+Boquira,2021-05-16,472,10
+Botuporã,2021-05-16,188,3
+Brejões,2021-05-16,565,9
+Brejolândia,2021-05-16,129,8
+Brotas de Macaúbas,2021-05-16,72,1
+Brumado,2021-05-16,8323,169
+Buerarema,2021-05-16,1244,37
+Buritirama,2021-05-16,800,19
+Caatiba,2021-05-16,748,9
+Cabaceiras do Paraguaçu,2021-05-16,470,4
+Cachoeira,2021-05-16,1310,19
+Caculé,2021-05-16,1351,11
+Caém,2021-05-16,426,7
+Caetanos,2021-05-16,592,9
+Caetité,2021-05-16,2062,21
+Cafarnaum,2021-05-16,774,16
+Cairu,2021-05-16,1064,12
+Caldeirão Grande,2021-05-16,540,6
+Camacan,2021-05-16,2503,67
+Camaçari,2021-05-16,21037,533
+Camamu,2021-05-16,2011,42
+Campo Alegre de Lourdes,2021-05-16,630,23
+Campo Formoso,2021-05-16,4224,53
+Canápolis,2021-05-16,317,4
+Canarana,2021-05-16,1336,25
+Canavieiras,2021-05-16,1068,57
+Candeal,2021-05-16,483,2
+Candeias,2021-05-16,6443,139
+Candiba,2021-05-16,550,12
+Cândido Sales,2021-05-16,1649,45
+Cansanção,2021-05-16,762,32
+Canudos,2021-05-16,511,11
+Capela do Alto Alegre,2021-05-16,766,13
+Capim Grosso,2021-05-16,3287,18
+Caraíbas,2021-05-16,254,2
+Caravelas,2021-05-16,1221,11
+Cardeal da Silva,2021-05-16,270,3
+Carinhanha,2021-05-16,885,17
+Casa Nova,2021-05-16,1933,48
+Castro Alves,2021-05-16,1504,26
+Catolândia,2021-05-16,167,1
+Catu,2021-05-16,5043,75
+Caturama,2021-05-16,197,6
+Central,2021-05-16,350,14
+Chorrochó,2021-05-16,179,11
+Cícero Dantas,2021-05-16,1478,25
+Cipó,2021-05-16,614,6
+Coaraci,2021-05-16,1710,42
+Cocos,2021-05-16,607,11
+Conceição da Feira,2021-05-16,1274,22
+Conceição do Almeida,2021-05-16,2034,19
+Conceição do Coité,2021-05-16,7330,39
+Conceição do Jacuípe,2021-05-16,2387,24
+Conde,2021-05-16,763,11
+Condeúba,2021-05-16,858,16
+Contendas do Sincorá,2021-05-16,210,5
+Coração de Maria,2021-05-16,1311,10
+Cordeiros,2021-05-16,627,5
+Coribe,2021-05-16,890,13
+Coronel João Sá,2021-05-16,836,14
+Correntina,2021-05-16,2070,28
+Cotegipe,2021-05-16,451,14
+Cravolândia,2021-05-16,341,2
+Crisópolis,2021-05-16,328,9
+Cristópolis,2021-05-16,678,5
+Cruz das Almas,2021-05-16,4024,46
+Curaçá,2021-05-16,977,24
+Dário Meira,2021-05-16,799,12
+Dias d'Ávila,2021-05-16,5046,134
+Dom Basílio,2021-05-16,834,14
+Dom Macedo Costa,2021-05-16,350,6
+Elísio Medrado,2021-05-16,440,6
+Encruzilhada,2021-05-16,584,14
+Entre Rios,2021-05-16,1284,29
+Érico Cardoso,2021-05-16,231,2
+Esplanada,2021-05-16,1564,29
+Euclides da Cunha,2021-05-16,2521,44
+Eunápolis,2021-05-16,9626,155
+Fátima,2021-05-16,874,11
+Feira da Mata,2021-05-16,198,4
+Feira de Santana,2021-05-16,41316,752
+Filadélfia,2021-05-16,956,24
+Firmino Alves,2021-05-16,307,9
+Floresta Azul,2021-05-16,759,18
+Formosa do Rio Preto,2021-05-16,854,18
+Gandu,2021-05-16,2501,47
+Gavião,2021-05-16,308,1
+Gentio do Ouro,2021-05-16,322,5
+Glória,2021-05-16,607,17
+Gongogi,2021-05-16,461,8
+Governador Mangabeira,2021-05-16,809,12
+Guajeru,2021-05-16,298,4
+Guanambi,2021-05-16,7080,77
+Guaratinga,2021-05-16,1303,41
+Heliópolis,2021-05-16,613,6
+Iaçu,2021-05-16,1448,27
+Ibiassucê,2021-05-16,406,1
+Ibicaraí,2021-05-16,1908,53
+Ibicoara,2021-05-16,624,10
+Ibicuí,2021-05-16,1034,15
+Ibipeba,2021-05-16,947,9
+Ibipitanga,2021-05-16,896,15
+Ibiquera,2021-05-16,110,6
+Ibirapitanga,2021-05-16,1516,33
+Ibirapuã,2021-05-16,948,14
+Ibirataia,2021-05-16,2115,35
+Ibitiara,2021-05-16,595,7
+Ibititá,2021-05-16,1365,21
+Ibotirama,2021-05-16,918,25
+Ichu,2021-05-16,363,3
+Igaporã,2021-05-16,436,22
+Igrapiúna,2021-05-16,694,14
+Iguaí,2021-05-16,941,28
+Ilhéus,2021-05-16,18471,447
+Importados/Indefinidos,2021-05-16,11172,193
+Inhambupe,2021-05-16,1557,27
+Ipecaetá,2021-05-16,275,10
+Ipiaú,2021-05-16,3021,70
+Ipirá,2021-05-16,1920,34
+Ipupiara,2021-05-16,199,3
+Irajuba,2021-05-16,285,1
+Iramaia,2021-05-16,186,8
+Iraquara,2021-05-16,1475,12
+Irará,2021-05-16,1221,18
+Irecê,2021-05-16,8159,111
+Itabela,2021-05-16,1451,55
+Itaberaba,2021-05-16,5907,109
+Itabuna,2021-05-16,29891,566
+Itacaré,2021-05-16,1138,23
+Itaeté,2021-05-16,279,5
+Itagi,2021-05-16,739,17
+Itagibá,2021-05-16,1060,18
+Itagimirim,2021-05-16,588,12
+Itaguaçu da Bahia,2021-05-16,519,4
+Itaju do Colônia,2021-05-16,363,6
+Itajuípe,2021-05-16,2270,50
+Itamaraju,2021-05-16,5991,107
+Itamari,2021-05-16,431,7
+Itambé,2021-05-16,1606,18
+Itanagra,2021-05-16,208,4
+Itanhém,2021-05-16,1203,26
+Itaparica,2021-05-16,846,22
+Itapé,2021-05-16,699,24
+Itapebi,2021-05-16,437,18
+Itapetinga,2021-05-16,4869,110
+Itapicuru,2021-05-16,1234,17
+Itapitanga,2021-05-16,878,16
+Itaquara,2021-05-16,545,5
+Itarantim,2021-05-16,667,17
+Itatim,2021-05-16,599,21
+Itiruçu,2021-05-16,827,12
+Itiúba,2021-05-16,1379,29
+Itororó,2021-05-16,3043,30
+Ituaçu,2021-05-16,1215,17
+Ituberá,2021-05-16,1444,44
+Iuiu,2021-05-16,422,4
+Jaborandi,2021-05-16,547,7
+Jacaraci,2021-05-16,426,8
+Jacobina,2021-05-16,5719,68
+Jaguaquara,2021-05-16,5618,50
+Jaguarari,2021-05-16,1827,38
+Jaguaripe,2021-05-16,852,14
+Jandaíra,2021-05-16,563,11
+Jequié,2021-05-16,15130,310
+Jeremoabo,2021-05-16,1601,37
+Jiquiriçá,2021-05-16,647,15
+Jitaúna,2021-05-16,771,21
+João Dourado,2021-05-16,1421,36
+Juazeiro,2021-05-16,14486,297
+Jucuruçu,2021-05-16,840,9
+Jussara,2021-05-16,534,7
+Jussari,2021-05-16,589,8
+Jussiape,2021-05-16,273,7
+Lafaiete Coutinho,2021-05-16,382,5
+Lagoa Real,2021-05-16,485,7
+Laje,2021-05-16,1213,18
+Lajedão,2021-05-16,369,5
+Lajedinho,2021-05-16,269,1
+Lajedo do Tabocal,2021-05-16,531,9
+Lamarão,2021-05-16,202,4
+Lapão,2021-05-16,1874,27
+Lauro de Freitas,2021-05-16,18762,406
+Lençóis,2021-05-16,857,14
+Licínio de Almeida,2021-05-16,223,8
+Livramento de Nossa Senhora,2021-05-16,2267,48
+Luís Eduardo Magalhães,2021-05-16,6960,81
+Macajuba,2021-05-16,367,4
+Macarani,2021-05-16,861,22
+Macaúbas,2021-05-16,1923,16
+Macururé,2021-05-16,188,5
+Madre de Deus,2021-05-16,2256,33
+Maetinga,2021-05-16,201,5
+Maiquinique,2021-05-16,724,9
+Mairi,2021-05-16,1025,11
+Malhada,2021-05-16,345,18
+Malhada de Pedras,2021-05-16,243,9
+Manoel Vitorino,2021-05-16,939,22
+Mansidão,2021-05-16,154,3
+Maracás,2021-05-16,2707,53
+Maragogipe,2021-05-16,1763,36
+Maraú,2021-05-16,1367,14
+Marcionílio Souza,2021-05-16,387,7
+Mascote,2021-05-16,728,17
+Mata de São João,2021-05-16,3623,51
+Matina,2021-05-16,247,3
+Medeiros Neto,2021-05-16,2162,44
+Miguel Calmon,2021-05-16,1977,17
+Milagres,2021-05-16,357,3
+Mirangaba,2021-05-16,463,8
+Mirante,2021-05-16,372,6
+Monte Santo,2021-05-16,944,30
+Morpará,2021-05-16,186,7
+Morro do Chapéu,2021-05-16,2032,20
+Mortugaba,2021-05-16,449,8
+Mucugê,2021-05-16,437,7
+Mucuri,2021-05-16,2775,49
+Mulungu do Morro,2021-05-16,568,11
+Mundo Novo,2021-05-16,614,7
+Muniz Ferreira,2021-05-16,806,3
+Muquém do São Francisco,2021-05-16,495,7
+Muritiba,2021-05-16,1904,20
+Mutuípe,2021-05-16,1578,19
+Nazaré,2021-05-16,1989,33
+Nilo Peçanha,2021-05-16,549,14
+Nordestina,2021-05-16,572,23
+Nova Canaã,2021-05-16,526,17
+Nova Fátima,2021-05-16,445,5
+Nova Ibiá,2021-05-16,556,18
+Nova Itarana,2021-05-16,713,7
+Nova Redenção,2021-05-16,175,3
+Nova Soure,2021-05-16,599,21
+Nova Viçosa,2021-05-16,1980,38
+Novo Horizonte,2021-05-16,224,4
+Novo Triunfo,2021-05-16,405,2
+Olindina,2021-05-16,1082,11
+Oliveira dos Brejinhos,2021-05-16,588,9
+Ouriçangas,2021-05-16,366,5
+Ourolândia,2021-05-16,1503,13
+Palmas de Monte Alto,2021-05-16,524,12
+Palmeiras,2021-05-16,207,6
+Paramirim,2021-05-16,464,17
+Paratinga,2021-05-16,985,14
+Paripiranga,2021-05-16,784,19
+Pau Brasil,2021-05-16,778,19
+Paulo Afonso,2021-05-16,5642,145
+Pé de Serra,2021-05-16,1358,6
+Pedrão,2021-05-16,273,3
+Pedro Alexandre,2021-05-16,303,7
+Piatã,2021-05-16,1120,20
+Pilão Arcado,2021-05-16,607,13
+Pindaí,2021-05-16,593,5
+Pindobaçu,2021-05-16,1443,29
+Pintadas,2021-05-16,917,7
+Piraí do Norte,2021-05-16,703,9
+Piripá,2021-05-16,941,6
+Piritiba,2021-05-16,605,14
+Planaltino,2021-05-16,525,8
+Planalto,2021-05-16,1340,26
+Poções,2021-05-16,2714,54
+Pojuca,2021-05-16,2830,37
+Ponto Novo,2021-05-16,577,4
+Porto Seguro,2021-05-16,8158,173
+Potiraguá,2021-05-16,460,9
+Prado,2021-05-16,1432,29
+Presidente Dutra,2021-05-16,1122,11
+Presidente Jânio Quadros,2021-05-16,622,9
+Presidente Tancredo Neves,2021-05-16,1530,34
+Queimadas,2021-05-16,1244,31
+Quijingue,2021-05-16,313,12
+Quixabeira,2021-05-16,673,5
+Rafael Jambeiro,2021-05-16,800,18
+Remanso,2021-05-16,1472,51
+Retirolândia,2021-05-16,1279,10
+Riachão das Neves,2021-05-16,912,32
+Riachão do Jacuípe,2021-05-16,3402,41
+Riacho de Santana,2021-05-16,1339,31
+Ribeira do Amparo,2021-05-16,701,6
+Ribeira do Pombal,2021-05-16,3214,46
+Ribeirão do Largo,2021-05-16,373,6
+Rio de Contas,2021-05-16,437,4
+Rio do Antônio,2021-05-16,465,9
+Rio do Pires,2021-05-16,115,7
+Rio Real,2021-05-16,1825,35
+Rodelas,2021-05-16,187,3
+Ruy Barbosa,2021-05-16,1974,25
+Salinas da Margarida,2021-05-16,1296,13
+Salvador,2021-05-16,199501,6315
+Santa Bárbara,2021-05-16,915,18
+Santa Brígida,2021-05-16,760,17
+Santa Cruz Cabrália,2021-05-16,2046,23
+Santa Cruz da Vitória,2021-05-16,501,7
+Santa Inês,2021-05-16,504,10
+Santaluz,2021-05-16,2230,35
+Santa Luzia,2021-05-16,974,21
+Santa Maria da Vitória,2021-05-16,1692,31
+Santana,2021-05-16,262,13
+Santanópolis,2021-05-16,475,7
+Santa Rita de Cássia,2021-05-16,1764,20
+Santa Teresinha,2021-05-16,410,6
+Santo Amaro,2021-05-16,2330,68
+Santo Antônio de Jesus,2021-05-16,9971,129
+Santo Estêvão,2021-05-16,2640,39
+São Desidério,2021-05-16,1939,29
+São Domingos,2021-05-16,862,9
+São Felipe,2021-05-16,2297,17
+São Félix,2021-05-16,854,7
+São Félix do Coribe,2021-05-16,678,12
+São Francisco do Conde,2021-05-16,2823,48
+São Gabriel,2021-05-16,1518,10
+São Gonçalo dos Campos,2021-05-16,1919,25
+São José da Vitória,2021-05-16,682,8
+São José do Jacuípe,2021-05-16,379,2
+São Miguel das Matas,2021-05-16,621,6
+São Sebastião do Passé,2021-05-16,3075,83
+Sapeaçu,2021-05-16,1336,14
+Sátiro Dias,2021-05-16,500,7
+Saubara,2021-05-16,441,16
+Saúde,2021-05-16,391,3
+Seabra,2021-05-16,4331,45
+Sebastião Laranjeiras,2021-05-16,336,7
+Senhor do Bonfim,2021-05-16,4013,67
+Sento Sé,2021-05-16,853,27
+Serra do Ramalho,2021-05-16,442,17
+Serra Dourada,2021-05-16,419,9
+Serra Preta,2021-05-16,761,19
+Serrinha,2021-05-16,6149,79
+Serrolândia,2021-05-16,981,9
+Simões Filho,2021-05-16,7303,186
+Sítio do Mato,2021-05-16,166,5
+Sítio do Quinto,2021-05-16,442,7
+Sobradinho,2021-05-16,1309,39
+Souto Soares,2021-05-16,914,20
+Tabocas do Brejo Velho,2021-05-16,213,6
+Tanhaçu,2021-05-16,1133,14
+Tanque Novo,2021-05-16,643,8
+Tanquinho,2021-05-16,692,11
+Taperoá,2021-05-16,1046,30
+Tapiramutá,2021-05-16,473,3
+Teixeira de Freitas,2021-05-16,14394,234
+Teodoro Sampaio,2021-05-16,247,8
+Teofilândia,2021-05-16,870,15
+Teolândia,2021-05-16,898,7
+Terra Nova,2021-05-16,674,21
+Tremedal,2021-05-16,481,10
+Tucano,2021-05-16,2253,41
+Uauá,2021-05-16,2087,39
+Ubaíra,2021-05-16,737,12
+Ubaitaba,2021-05-16,969,33
+Ubatã,2021-05-16,1620,32
+Uibaí,2021-05-16,791,11
+Umburanas,2021-05-16,649,5
+Una,2021-05-16,854,31
+Urandi,2021-05-16,763,6
+Uruçuca,2021-05-16,1699,57
+Utinga,2021-05-16,1076,11
+Valença,2021-05-16,6132,112
+Valente,2021-05-16,2209,20
+Várzea da Roça,2021-05-16,977,7
+Várzea do Poço,2021-05-16,448,4
+Várzea Nova,2021-05-16,603,9
+Varzedo,2021-05-16,498,5
+Vera Cruz,2021-05-16,1195,48
+Vereda,2021-05-16,418,17
+Vitória da Conquista,2021-05-16,28667,468
+Wagner,2021-05-16,513,6
+Wanderley,2021-05-16,716,10
+Wenceslau Guimarães,2021-05-16,1479,20
+Xique-Xique,2021-05-16,2253,45
+,2021-05-16,955350,19894
+Abaiara,2021-05-16,454,10
+Acarape,2021-05-16,2604,24
+Acaraú,2021-05-16,4507,93
+Acopiara,2021-05-16,2831,112
+Aiuaba,2021-05-16,431,9
+Alcântaras,2021-05-16,1353,17
+Altaneira,2021-05-16,407,12
+Alto Santo,2021-05-16,1142,21
+Amontada,2021-05-16,2440,43
+Antonina do Norte,2021-05-16,536,19
+Apuiarés,2021-05-16,938,16
+Aquiraz,2021-05-16,5652,77
+Aracati,2021-05-16,5887,120
+Aracoiaba,2021-05-16,3016,27
+Ararendá,2021-05-16,778,16
+Araripe,2021-05-16,874,13
+Aratuba,2021-05-16,1153,8
+Arneiroz,2021-05-16,506,13
+Assaré,2021-05-16,1548,31
+Aurora,2021-05-16,1371,30
+Baixio,2021-05-16,394,9
+Banabuiú,2021-05-16,1295,12
+Barbalha,2021-05-16,4653,93
+Barreira,2021-05-16,1169,32
+Barro,2021-05-16,947,18
+Barroquinha,2021-05-16,938,24
+Baturité,2021-05-16,3096,66
+Beberibe,2021-05-16,3797,95
+Bela Cruz,2021-05-16,3062,60
+Boa Viagem,2021-05-16,3118,81
+Brejo Santo,2021-05-16,7290,129
+Camocim,2021-05-16,5275,142
+Campos Sales,2021-05-16,1743,29
+Canindé,2021-05-16,4623,156
+Capistrano,2021-05-16,1842,31
+Caridade,2021-05-16,1293,37
+Cariré,2021-05-16,2130,38
+Caririaçu,2021-05-16,1147,34
+Cariús,2021-05-16,1866,17
+Carnaubal,2021-05-16,1298,11
+Cascavel,2021-05-16,4976,131
+Catarina,2021-05-16,649,16
+Catunda,2021-05-16,962,11
+Caucaia,2021-05-16,18635,747
+Cedro,2021-05-16,2828,35
+Chaval,2021-05-16,1254,26
+Choró,2021-05-16,803,10
+Chorozinho,2021-05-16,1677,26
+Coreaú,2021-05-16,2328,44
+Crateús,2021-05-16,9549,168
+Crato,2021-05-16,13893,185
+Croatá,2021-05-16,698,9
+Cruz,2021-05-16,2898,49
+Deputado Irapuan Pinheiro,2021-05-16,638,10
+Ereré,2021-05-16,680,10
+Eusébio,2021-05-16,8393,105
+Farias Brito,2021-05-16,2080,43
+Forquilha,2021-05-16,1293,69
+Fortaleza,2021-05-16,222018,8058
+Fortim,2021-05-16,1768,23
+Frecheirinha,2021-05-16,2845,26
+General Sampaio,2021-05-16,497,17
+Graça,2021-05-16,992,19
+Granja,2021-05-16,2647,74
+Granjeiro,2021-05-16,361,2
+Groaíras,2021-05-16,1437,27
+Guaiúba,2021-05-16,1248,52
+Guaraciaba do Norte,2021-05-16,1903,37
+Guaramiranga,2021-05-16,702,4
+Hidrolândia,2021-05-16,2198,17
+Horizonte,2021-05-16,6752,112
+Ibaretama,2021-05-16,812,16
+Ibiapina,2021-05-16,1291,27
+Ibicuitinga,2021-05-16,1301,14
+Icapuí,2021-05-16,1938,23
+Icó,2021-05-16,5319,82
+Iguatu,2021-05-16,7937,168
+Importados/Indefinidos,2021-05-16,8856,0
+Independência,2021-05-16,1365,28
+Ipaporanga,2021-05-16,1081,8
+Ipaumirim,2021-05-16,701,12
+Ipu,2021-05-16,3921,48
+Ipueiras,2021-05-16,2079,39
+Iracema,2021-05-16,1835,24
+Irauçuba,2021-05-16,757,35
+Itaiçaba,2021-05-16,1078,16
+Itaitinga,2021-05-16,3966,57
+Itapajé,2021-05-16,2555,114
+Itapipoca,2021-05-16,8770,238
+Itapiúna,2021-05-16,1701,27
+Itarema,2021-05-16,2965,40
+Itatira,2021-05-16,1790,32
+Jaguaretama,2021-05-16,1636,36
+Jaguaribara,2021-05-16,830,18
+Jaguaribe,2021-05-16,3660,63
+Jaguaruana,2021-05-16,2606,55
+Jardim,2021-05-16,1237,38
+Jati,2021-05-16,563,8
+Jijoca de Jericoacoara,2021-05-16,2329,23
+Juazeiro do Norte,2021-05-16,22956,454
+Jucás,2021-05-16,1239,33
+Lavras da Mangabeira,2021-05-16,2109,39
+Limoeiro do Norte,2021-05-16,5360,90
+Madalena,2021-05-16,1131,31
+Maracanaú,2021-05-16,19285,632
+Maranguape,2021-05-16,10837,223
+Marco,2021-05-16,1558,34
+Martinópole,2021-05-16,1139,21
+Massapê,2021-05-16,1959,78
+Mauriti,2021-05-16,2858,69
+Meruoca,2021-05-16,1555,30
+Milagres,2021-05-16,2366,53
+Milhã,2021-05-16,834,22
+Miraíma,2021-05-16,1004,13
+Missão Velha,2021-05-16,1734,24
+Mombaça,2021-05-16,3270,95
+Monsenhor Tabosa,2021-05-16,1480,27
+Morada Nova,2021-05-16,7294,138
+Moraújo,2021-05-16,1627,23
+Morrinhos,2021-05-16,1238,22
+Mucambo,2021-05-16,1517,19
+Mulungu,2021-05-16,701,16
+Nova Olinda,2021-05-16,865,14
+Nova Russas,2021-05-16,2205,52
+Novo Oriente,2021-05-16,1186,21
+Ocara,2021-05-16,1634,31
+Orós,2021-05-16,2595,65
+Pacajus,2021-05-16,5248,96
+Pacatuba,2021-05-16,5589,174
+Pacoti,2021-05-16,1122,23
+Pacujá,2021-05-16,546,10
+Palhano,2021-05-16,1129,22
+Palmácia,2021-05-16,786,17
+Paracuru,2021-05-16,3731,91
+Paraipaba,2021-05-16,2137,63
+Parambu,2021-05-16,1159,49
+Paramoti,2021-05-16,775,10
+Pedra Branca,2021-05-16,676,50
+Penaforte,2021-05-16,575,8
+Pentecoste,2021-05-16,3158,73
+Pereiro,2021-05-16,1527,14
+Pindoretama,2021-05-16,1730,36
+Piquet Carneiro,2021-05-16,1441,24
+Pires Ferreira,2021-05-16,802,6
+Poranga,2021-05-16,497,7
+Porteiras,2021-05-16,1237,24
+Potengi,2021-05-16,440,4
+Potiretama,2021-05-16,497,6
+Quiterianópolis,2021-05-16,1173,27
+Quixadá,2021-05-16,7679,137
+Quixelô,2021-05-16,1730,27
+Quixeramobim,2021-05-16,6430,178
+Quixeré,2021-05-16,3061,35
+Redenção,2021-05-16,4085,74
+Reriutaba,2021-05-16,1914,28
+Russas,2021-05-16,8881,156
+Saboeiro,2021-05-16,698,10
+Salitre,2021-05-16,981,14
+Santana do Acaraú,2021-05-16,2128,69
+Santana do Cariri,2021-05-16,974,26
+Santa Quitéria,2021-05-16,4587,48
+São Benedito,2021-05-16,2990,55
+São Gonçalo do Amarante,2021-05-16,6338,164
+São João do Jaguaribe,2021-05-16,583,9
+São Luís do Curu,2021-05-16,1089,30
+Senador Pompeu,2021-05-16,1615,37
+Senador Sá,2021-05-16,1040,10
+Sobral,2021-05-16,23652,621
+Solonópole,2021-05-16,1212,21
+Tabuleiro do Norte,2021-05-16,4364,54
+Tamboril,2021-05-16,1661,51
+Tarrafas,2021-05-16,328,9
+Tauá,2021-05-16,6987,130
+Tejuçuoca,2021-05-16,1314,24
+Tianguá,2021-05-16,7817,154
+Trairi,2021-05-16,1708,78
+Tururu,2021-05-16,1158,32
+Ubajara,2021-05-16,1677,38
+Umari,2021-05-16,366,6
+Umirim,2021-05-16,789,35
+Uruburetama,2021-05-16,1755,54
+Uruoca,2021-05-16,1208,30
+Varjota,2021-05-16,1927,24
+Várzea Alegre,2021-05-16,2539,55
+Viçosa do Ceará,2021-05-16,3634,115
+,2021-05-16,744295,19117
+Brasília,2021-05-16,345296,7616
+Importados/Indefinidos,2021-05-16,47286,701
+,2021-05-16,392582,8317
+Afonso Cláudio,2021-05-16,3145,55
+Água Doce do Norte,2021-05-16,737,35
+Águia Branca,2021-05-16,1818,58
+Alegre,2021-05-16,1969,47
+Alfredo Chaves,2021-05-16,2117,30
+Alto Rio Novo,2021-05-16,657,21
+Anchieta,2021-05-16,4300,74
+Apiacá,2021-05-16,684,28
+Aracruz,2021-05-16,13954,198
+Atilio Vivacqua,2021-05-16,1341,24
+Baixo Guandu,2021-05-16,3124,69
+Barra de São Francisco,2021-05-16,4388,180
+Boa Esperança,2021-05-16,1220,36
+Bom Jesus do Norte,2021-05-16,878,21
+Brejetuba,2021-05-16,1478,13
+Cachoeiro de Itapemirim,2021-05-16,23255,484
+Cariacica,2021-05-16,36000,1179
+Castelo,2021-05-16,5362,102
+Colatina,2021-05-16,18201,316
+Conceição da Barra,2021-05-16,1315,44
+Conceição do Castelo,2021-05-16,1229,20
+Divino de São Lourenço,2021-05-16,361,7
+Domingos Martins,2021-05-16,3267,59
+Dores do Rio Preto,2021-05-16,579,10
+Ecoporanga,2021-05-16,2714,55
+Fundão,2021-05-16,2251,56
+Governador Lindenberg,2021-05-16,1478,19
+Guaçuí,2021-05-16,2106,86
+Guarapari,2021-05-16,13788,356
+Ibatiba,2021-05-16,3044,72
+Ibiraçu,2021-05-16,1496,31
+Ibitirama,2021-05-16,369,10
+Iconha,2021-05-16,2371,18
+Importados/Indefinidos,2021-05-16,3556,177
+Irupi,2021-05-16,1331,35
+Itaguaçu,2021-05-16,1485,17
+Itapemirim,2021-05-16,3899,111
+Itarana,2021-05-16,1318,20
+Iúna,2021-05-16,2195,65
+Jaguaré,2021-05-16,3115,43
+Jerônimo Monteiro,2021-05-16,1060,35
+João Neiva,2021-05-16,2426,46
+Laranja da Terra,2021-05-16,605,9
+Linhares,2021-05-16,23017,327
+Mantenópolis,2021-05-16,783,41
+Marataízes,2021-05-16,5824,156
+Marechal Floriano,2021-05-16,2861,44
+Marilândia,2021-05-16,1918,27
+Mimoso do Sul,2021-05-16,2730,42
+Montanha,2021-05-16,1373,52
+Mucurici,2021-05-16,566,8
+Muniz Freire,2021-05-16,2543,38
+Muqui,2021-05-16,1773,48
+Nova Venécia,2021-05-16,4764,108
+Pancas,2021-05-16,2277,32
+Pedro Canário,2021-05-16,1899,48
+Pinheiros,2021-05-16,2801,69
+Piúma,2021-05-16,2357,71
+Ponto Belo,2021-05-16,536,13
+Presidente Kennedy,2021-05-16,1836,46
+Rio Bananal,2021-05-16,2048,27
+Rio Novo do Sul,2021-05-16,1354,20
+Santa Leopoldina,2021-05-16,954,23
+Santa Maria de Jetibá,2021-05-16,4679,46
+Santa Teresa,2021-05-16,3856,56
+São Domingos do Norte,2021-05-16,1126,19
+São Gabriel da Palha,2021-05-16,5661,68
+São José do Calçado,2021-05-16,825,52
+São Mateus,2021-05-16,10412,217
+São Roque do Canaã,2021-05-16,1609,18
+Serra,2021-05-16,58557,1221
+Sooretama,2021-05-16,2712,41
+Vargem Alta,2021-05-16,2103,42
+Venda Nova do Imigrante,2021-05-16,3952,41
+Viana,2021-05-16,7275,224
+Vila Pavão,2021-05-16,970,16
+Vila Valério,2021-05-16,2672,29
+Vila Velha,2021-05-16,56729,1391
+Vitória,2021-05-16,49694,1105
+,2021-05-16,459032,10197
+Abadia de Goiás,2021-05-16,1332,27
+Abadiânia,2021-05-16,335,27
+Acreúna,2021-05-16,1714,43
+Adelândia,2021-05-16,151,4
+Água Fria de Goiás,2021-05-16,204,9
+Água Limpa,2021-05-16,120,2
+Águas Lindas de Goiás,2021-05-16,6463,248
+Alexânia,2021-05-16,2787,69
+Aloândia,2021-05-16,218,6
+Alto Horizonte,2021-05-16,680,8
+Alto Paraíso de Goiás,2021-05-16,567,7
+Alvorada do Norte,2021-05-16,631,3
+Amaralina,2021-05-16,59,0
+Americano do Brasil,2021-05-16,415,15
+Amorinópolis,2021-05-16,170,4
+Anápolis,2021-05-16,34081,1175
+Anhanguera,2021-05-16,88,6
+Anicuns,2021-05-16,2261,56
+Aparecida de Goiânia,2021-05-16,62799,1196
+Aparecida do Rio Doce,2021-05-16,184,3
+Aporé,2021-05-16,325,9
+Araçu,2021-05-16,379,15
+Aragarças,2021-05-16,1915,47
+Aragoiânia,2021-05-16,917,17
+Araguapaz,2021-05-16,462,19
+Arenópolis,2021-05-16,163,8
+Aruanã,2021-05-16,450,10
+Aurilândia,2021-05-16,171,6
+Avelinópolis,2021-05-16,264,11
+Baliza,2021-05-16,222,6
+Barro Alto,2021-05-16,1219,14
+Bela Vista de Goiás,2021-05-16,2157,56
+Bom Jardim de Goiás,2021-05-16,623,14
+Bom Jesus de Goiás,2021-05-16,2439,97
+Bonfinópolis,2021-05-16,444,16
+Bonópolis,2021-05-16,143,1
+Brazabrantes,2021-05-16,382,3
+Britânia,2021-05-16,473,4
+Buriti Alegre,2021-05-16,823,28
+Buriti de Goiás,2021-05-16,176,8
+Buritinópolis,2021-05-16,158,2
+Cabeceiras,2021-05-16,311,13
+Cachoeira Alta,2021-05-16,1226,17
+Cachoeira de Goiás,2021-05-16,56,2
+Cachoeira Dourada,2021-05-16,384,17
+Caçu,2021-05-16,1173,25
+Caiapônia,2021-05-16,1000,33
+Caldas Novas,2021-05-16,7382,186
+Caldazinha,2021-05-16,225,4
+Campestre de Goiás,2021-05-16,447,11
+Campinaçu,2021-05-16,182,2
+Campinorte,2021-05-16,1188,27
+Campo Alegre de Goiás,2021-05-16,246,14
+Campo Limpo de Goiás,2021-05-16,160,6
+Campos Belos,2021-05-16,1138,16
+Campos Verdes,2021-05-16,229,7
+Carmo do Rio Verde,2021-05-16,596,22
+Castelândia,2021-05-16,276,7
+Catalão,2021-05-16,8303,285
+Caturaí,2021-05-16,429,14
+Cavalcante,2021-05-16,301,4
+Ceres,2021-05-16,2374,64
+Cezarina,2021-05-16,840,31
+Chapadão do Céu,2021-05-16,1303,15
+Cidade Ocidental,2021-05-16,5078,111
+Cocalzinho de Goiás,2021-05-16,1312,28
+Colinas do Sul,2021-05-16,247,2
+Córrego do Ouro,2021-05-16,234,5
+Corumbá de Goiás,2021-05-16,546,22
+Corumbaíba,2021-05-16,882,26
+Cristalina,2021-05-16,2590,76
+Cristianópolis,2021-05-16,246,2
+Crixás,2021-05-16,2006,57
+Cromínia,2021-05-16,195,5
+Cumari,2021-05-16,245,6
+Damianópolis,2021-05-16,66,2
+Damolândia,2021-05-16,195,13
+Davinópolis,2021-05-16,90,6
+Diorama,2021-05-16,95,5
+Divinópolis de Goiás,2021-05-16,216,7
+Doverlândia,2021-05-16,412,9
+Edealina,2021-05-16,467,3
+Edéia,2021-05-16,1224,22
+Estrela do Norte,2021-05-16,221,2
+Faina,2021-05-16,470,5
+Fazenda Nova,2021-05-16,343,7
+Firminópolis,2021-05-16,525,18
+Flores de Goiás,2021-05-16,173,4
+Formosa,2021-05-16,7975,192
+Formoso,2021-05-16,439,13
+Gameleira de Goiás,2021-05-16,312,4
+Goianápolis,2021-05-16,976,24
+Goiandira,2021-05-16,281,13
+Goianésia,2021-05-16,8178,193
+Goiânia,2021-05-16,141889,4668
+Goianira,2021-05-16,2961,78
+Goiás,2021-05-16,1016,41
+Goiatuba,2021-05-16,4299,114
+Gouvelândia,2021-05-16,343,8
+Guapó,2021-05-16,1271,31
+Guaraíta,2021-05-16,183,11
+Guarani de Goiás,2021-05-16,186,0
+Guarinos,2021-05-16,127,6
+Heitoraí,2021-05-16,116,2
+Hidrolândia,2021-05-16,2071,69
+Hidrolina,2021-05-16,234,8
+Iaciara,2021-05-16,558,7
+Importados/Indefinidos,2021-05-16,0,0
+Inaciolândia,2021-05-16,583,19
+Indiara,2021-05-16,821,39
+Inhumas,2021-05-16,6758,191
+Ipameri,2021-05-16,1690,60
+Ipiranga de Goiás,2021-05-16,133,8
+Iporá,2021-05-16,2783,89
+Israelândia,2021-05-16,151,4
+Itaberaí,2021-05-16,2454,99
+Itaguari,2021-05-16,669,12
+Itaguaru,2021-05-16,387,15
+Itajá,2021-05-16,187,6
+Itapaci,2021-05-16,1763,46
+Itapirapuã,2021-05-16,620,11
+Itapuranga,2021-05-16,2922,55
+Itarumã,2021-05-16,402,12
+Itauçu,2021-05-16,835,22
+Itumbiara,2021-05-16,8336,284
+Ivolândia,2021-05-16,187,4
+Jandaia,2021-05-16,692,17
+Jaraguá,2021-05-16,4501,140
+Jataí,2021-05-16,9052,265
+Jaupaci,2021-05-16,66,2
+Jesúpolis,2021-05-16,119,6
+Joviânia,2021-05-16,949,17
+Jussara,2021-05-16,1388,34
+Lagoa Santa,2021-05-16,90,3
+Leopoldo de Bulhões,2021-05-16,426,7
+Luziânia,2021-05-16,19935,331
+Mairipotaba,2021-05-16,173,4
+Mambaí,2021-05-16,212,2
+Mara Rosa,2021-05-16,283,17
+Marzagão,2021-05-16,231,5
+Matrinchã,2021-05-16,191,3
+Maurilândia,2021-05-16,849,21
+Mimoso de Goiás,2021-05-16,113,2
+Minaçu,2021-05-16,1753,45
+Mineiros,2021-05-16,9373,223
+Moiporá,2021-05-16,52,1
+Monte Alegre de Goiás,2021-05-16,153,4
+Montes Claros de Goiás,2021-05-16,816,15
+Montividiu,2021-05-16,1103,18
+Montividiu do Norte,2021-05-16,234,3
+Morrinhos,2021-05-16,5417,95
+Morro Agudo de Goiás,2021-05-16,220,4
+Mossâmedes,2021-05-16,165,3
+Mozarlândia,2021-05-16,1630,18
+Mundo Novo,2021-05-16,364,15
+Mutunópolis,2021-05-16,272,14
+Nazário,2021-05-16,736,18
+Nerópolis,2021-05-16,1463,53
+Niquelândia,2021-05-16,3023,53
+Nova América,2021-05-16,256,1
+Nova Aurora,2021-05-16,157,6
+Nova Crixás,2021-05-16,993,12
+Nova Glória,2021-05-16,801,14
+Nova Iguaçu de Goiás,2021-05-16,170,5
+Nova Roma,2021-05-16,128,0
+Nova Veneza,2021-05-16,918,13
+Novo Brasil,2021-05-16,305,5
+Novo Gama,2021-05-16,3901,153
+Novo Planalto,2021-05-16,286,3
+Orizona,2021-05-16,558,14
+Ouro Verde de Goiás,2021-05-16,246,7
+Ouvidor,2021-05-16,629,24
+Padre Bernardo,2021-05-16,1501,39
+Palestina de Goiás,2021-05-16,168,3
+Palmeiras de Goiás,2021-05-16,5020,66
+Palmelo,2021-05-16,203,7
+Palminópolis,2021-05-16,367,9
+Panamá,2021-05-16,180,7
+Paranaiguara,2021-05-16,326,22
+Paraúna,2021-05-16,557,19
+Perolândia,2021-05-16,128,2
+Petrolina de Goiás,2021-05-16,824,15
+Pilar de Goiás,2021-05-16,280,7
+Piracanjuba,2021-05-16,1849,55
+Piranhas,2021-05-16,922,49
+Pirenópolis,2021-05-16,1418,34
+Pires do Rio,2021-05-16,2440,90
+Planaltina,2021-05-16,3354,165
+Pontalina,2021-05-16,1414,33
+Porangatu,2021-05-16,2052,107
+Porteirão,2021-05-16,1532,11
+Portelândia,2021-05-16,487,10
+Posse,2021-05-16,1643,25
+Professor Jamil,2021-05-16,216,9
+Quirinópolis,2021-05-16,3120,117
+Rialma,2021-05-16,1277,40
+Rianápolis,2021-05-16,579,8
+Rio Quente,2021-05-16,355,3
+Rio Verde,2021-05-16,22890,570
+Rubiataba,2021-05-16,2246,62
+Sanclerlândia,2021-05-16,526,19
+Santa Bárbara de Goiás,2021-05-16,642,13
+Santa Cruz de Goiás,2021-05-16,122,2
+Santa Fé de Goiás,2021-05-16,616,17
+Santa Helena de Goiás,2021-05-16,4240,172
+Santa Isabel,2021-05-16,398,11
+Santa Rita do Araguaia,2021-05-16,356,6
+Santa Rita do Novo Destino,2021-05-16,159,7
+Santa Rosa de Goiás,2021-05-16,233,4
+Santa Tereza de Goiás,2021-05-16,140,6
+Santa Terezinha de Goiás,2021-05-16,733,22
+Santo Antônio da Barra,2021-05-16,379,5
+Santo Antônio de Goiás,2021-05-16,738,18
+Santo Antônio do Descoberto,2021-05-16,2400,78
+São Domingos,2021-05-16,151,3
+São Francisco de Goiás,2021-05-16,345,9
+São João d'Aliança,2021-05-16,596,22
+São João da Paraúna,2021-05-16,75,2
+São Luís de Montes Belos,2021-05-16,3351,104
+São Luiz do Norte,2021-05-16,306,3
+São Miguel do Araguaia,2021-05-16,1489,39
+São Miguel do Passa Quatro,2021-05-16,177,3
+São Patrício,2021-05-16,213,8
+São Simão,2021-05-16,972,32
+Senador Canedo,2021-05-16,13363,258
+Serranópolis,2021-05-16,640,5
+Silvânia,2021-05-16,1299,19
+Simolândia,2021-05-16,332,3
+Sítio d'Abadia,2021-05-16,27,0
+Taquaral de Goiás,2021-05-16,189,6
+Teresina de Goiás,2021-05-16,162,0
+Terezópolis de Goiás,2021-05-16,812,18
+Três Ranchos,2021-05-16,175,8
+Trindade,2021-05-16,7999,354
+Trombas,2021-05-16,375,6
+Turvânia,2021-05-16,536,21
+Turvelândia,2021-05-16,602,9
+Uirapuru,2021-05-16,164,7
+Uruaçu,2021-05-16,3406,84
+Uruana,2021-05-16,839,24
+Urutaí,2021-05-16,144,2
+Valparaíso de Goiás,2021-05-16,11376,293
+Varjão,2021-05-16,268,6
+Vianópolis,2021-05-16,656,20
+Vicentinópolis,2021-05-16,1109,21
+Vila Boa,2021-05-16,151,4
+Vila Propício,2021-05-16,323,4
+,2021-05-16,579551,16098
+Açailândia,2021-05-16,4847,177
+Afonso Cunha,2021-05-16,162,2
+Água Doce do Maranhão,2021-05-16,673,8
+Alcântara,2021-05-16,263,14
+Aldeias Altas,2021-05-16,975,13
+Altamira do Maranhão,2021-05-16,299,8
+Alto Alegre do Maranhão,2021-05-16,1050,24
+Alto Alegre do Pindaré,2021-05-16,1773,43
+Alto Parnaíba,2021-05-16,717,5
+Amapá do Maranhão,2021-05-16,172,4
+Amarante do Maranhão,2021-05-16,1526,54
+Anajatuba,2021-05-16,789,19
+Anapurus,2021-05-16,828,11
+Apicum-Açu,2021-05-16,453,4
+Araguanã,2021-05-16,754,5
+Araioses,2021-05-16,636,12
+Arame,2021-05-16,1131,35
+Arari,2021-05-16,677,26
+Axixá,2021-05-16,190,5
+Bacabal,2021-05-16,4466,162
+Bacabeira,2021-05-16,319,6
+Bacuri,2021-05-16,432,4
+Bacurituba,2021-05-16,112,1
+Balsas,2021-05-16,8662,143
+Barão de Grajaú,2021-05-16,337,2
+Barra do Corda,2021-05-16,5211,52
+Barreirinhas,2021-05-16,1871,34
+Belágua,2021-05-16,199,15
+Bela Vista do Maranhão,2021-05-16,321,3
+Benedito Leite,2021-05-16,295,2
+Bequimão,2021-05-16,275,17
+Bernardo do Mearim,2021-05-16,268,6
+Boa Vista do Gurupi,2021-05-16,15,4
+Bom Jardim,2021-05-16,1260,42
+Bom Jesus das Selvas,2021-05-16,2794,23
+Bom Lugar,2021-05-16,444,7
+Brejo,2021-05-16,836,19
+Brejo de Areia,2021-05-16,281,8
+Buriti,2021-05-16,751,7
+Buriti Bravo,2021-05-16,1245,12
+Buriticupu,2021-05-16,2974,39
+Buritirana,2021-05-16,361,23
+Cachoeira Grande,2021-05-16,221,6
+Cajapió,2021-05-16,75,4
+Cajari,2021-05-16,187,6
+Campestre do Maranhão,2021-05-16,937,40
+Cândido Mendes,2021-05-16,93,6
+Cantanhede,2021-05-16,646,6
+Capinzal do Norte,2021-05-16,612,6
+Carolina,2021-05-16,652,17
+Carutapera,2021-05-16,787,33
+Caxias,2021-05-16,9312,190
+Cedral,2021-05-16,192,3
+Central do Maranhão,2021-05-16,44,2
+Centro do Guilherme,2021-05-16,400,4
+Centro Novo do Maranhão,2021-05-16,904,9
+Chapadinha,2021-05-16,3620,88
+Cidelândia,2021-05-16,497,4
+Codó,2021-05-16,2611,168
+Coelho Neto,2021-05-16,1609,45
+Colinas,2021-05-16,2771,44
+Conceição do Lago-Açu,2021-05-16,183,11
+Coroatá,2021-05-16,2788,63
+Cururupu,2021-05-16,1291,23
+Davinópolis,2021-05-16,492,21
+Dom Pedro,2021-05-16,1041,22
+Duque Bacelar,2021-05-16,691,10
+Esperantinópolis,2021-05-16,847,21
+Estreito,2021-05-16,3308,44
+Feira Nova do Maranhão,2021-05-16,1396,9
+Fernando Falcão,2021-05-16,840,1
+Formosa da Serra Negra,2021-05-16,1137,2
+Fortaleza dos Nogueiras,2021-05-16,1041,14
+Fortuna,2021-05-16,1364,5
+Godofredo Viana,2021-05-16,115,4
+Gonçalves Dias,2021-05-16,886,18
+Governador Archer,2021-05-16,384,5
+Governador Edison Lobão,2021-05-16,589,27
+Governador Eugênio Barros,2021-05-16,571,8
+Governador Luiz Rocha,2021-05-16,218,1
+Governador Newton Bello,2021-05-16,689,7
+Governador Nunes Freire,2021-05-16,796,9
+Graça Aranha,2021-05-16,124,3
+Grajaú,2021-05-16,4367,97
+Guimarães,2021-05-16,365,7
+Humberto de Campos,2021-05-16,1422,10
+Icatu,2021-05-16,227,10
+Igarapé do Meio,2021-05-16,633,26
+Igarapé Grande,2021-05-16,1452,13
+Imperatriz,2021-05-16,15136,722
+Itaipava do Grajaú,2021-05-16,704,9
+Itapecuru Mirim,2021-05-16,2290,54
+Itinga do Maranhão,2021-05-16,729,23
+Jatobá,2021-05-16,91,5
+Jenipapo dos Vieiras,2021-05-16,1093,19
+João Lisboa,2021-05-16,655,43
+Joselândia,2021-05-16,534,2
+Junco do Maranhão,2021-05-16,297,2
+Lagoa do Mato,2021-05-16,587,13
+Lagoa Grande do Maranhão,2021-05-16,560,14
+Lago da Pedra,2021-05-16,1437,8
+Lago do Junco,2021-05-16,243,10
+Lago dos Rodrigues,2021-05-16,2295,63
+Lago Verde,2021-05-16,497,4
+Lajeado Novo,2021-05-16,361,12
+Lima Campos,2021-05-16,993,9
+Loreto,2021-05-16,624,4
+Luís Domingues,2021-05-16,464,1
+Magalhães de Almeida,2021-05-16,499,7
+Maracaçumé,2021-05-16,541,6
+Marajá do Sena,2021-05-16,231,4
+Maranhãozinho,2021-05-16,560,8
+Mata Roma,2021-05-16,350,11
+Matinha,2021-05-16,367,7
+Matões,2021-05-16,946,12
+Matões do Norte,2021-05-16,238,4
+Milagres do Maranhão,2021-05-16,239,1
+Mirador,2021-05-16,891,7
+Miranda do Norte,2021-05-16,869,21
+Mirinzal,2021-05-16,248,16
+Monção,2021-05-16,1560,26
+Montes Altos,2021-05-16,741,9
+Morros,2021-05-16,261,10
+Nina Rodrigues,2021-05-16,595,14
+Nova Colinas,2021-05-16,326,5
+Nova Iorque,2021-05-16,90,1
+Nova Olinda do Maranhão,2021-05-16,466,10
+Olho d'Água das Cunhãs,2021-05-16,762,21
+Olinda Nova do Maranhão,2021-05-16,498,10
+Paço do Lumiar,2021-05-16,807,147
+Palmeirândia,2021-05-16,92,9
+Paraibano,2021-05-16,915,25
+Parnarama,2021-05-16,990,14
+Passagem Franca,2021-05-16,1278,28
+Pastos Bons,2021-05-16,705,11
+Paulino Neves,2021-05-16,194,3
+Paulo Ramos,2021-05-16,1051,30
+Pedreiras,2021-05-16,3142,52
+Pedro do Rosário,2021-05-16,110,7
+Penalva,2021-05-16,468,9
+Peri Mirim,2021-05-16,233,4
+Peritoró,2021-05-16,728,9
+Pindaré-Mirim,2021-05-16,1069,26
+Pinheiro,2021-05-16,2778,82
+Pio XII,2021-05-16,1603,23
+Pirapemas,2021-05-16,489,9
+Poção de Pedras,2021-05-16,1612,15
+Porto Franco,2021-05-16,1531,47
+Porto Rico do Maranhão,2021-05-16,231,6
+Presidente Dutra,2021-05-16,1967,14
+Presidente Juscelino,2021-05-16,52,1
+Presidente Médici,2021-05-16,333,2
+Presidente Sarney,2021-05-16,203,12
+Presidente Vargas,2021-05-16,221,4
+Primeira Cruz,2021-05-16,82,2
+Raposa,2021-05-16,1218,27
+Riachão,2021-05-16,1697,25
+Ribamar Fiquene,2021-05-16,359,16
+Rosário,2021-05-16,471,21
+Sambaíba,2021-05-16,335,3
+Santa Filomena do Maranhão,2021-05-16,50,0
+Santa Helena,2021-05-16,1988,19
+Santa Inês,2021-05-16,6994,159
+Santa Luzia,2021-05-16,4415,72
+Santa Luzia do Paruá,2021-05-16,861,9
+Santana do Maranhão,2021-05-16,667,22
+Santa Quitéria do Maranhão,2021-05-16,200,6
+Santa Rita,2021-05-16,499,17
+Santo Amaro do Maranhão,2021-05-16,210,7
+Santo Antônio dos Lopes,2021-05-16,1288,19
+São Benedito do Rio Preto,2021-05-16,1363,13
+São Bento,2021-05-16,799,20
+São Bernardo,2021-05-16,972,17
+São Domingos do Azeitão,2021-05-16,202,4
+São Domingos do Maranhão,2021-05-16,1998,14
+São Félix de Balsas,2021-05-16,247,1
+São Francisco do Brejão,2021-05-16,474,1
+São Francisco do Maranhão,2021-05-16,392,18
+São João Batista,2021-05-16,192,12
+São João do Carú,2021-05-16,500,8
+São João do Paraíso,2021-05-16,250,11
+São João do Soter,2021-05-16,984,6
+São João dos Patos,2021-05-16,1944,22
+São José de Ribamar,2021-05-16,2012,253
+São José dos Basílios,2021-05-16,572,3
+São Luís,2021-05-16,39140,2010
+São Luís Gonzaga do Maranhão,2021-05-16,1117,17
+São Mateus do Maranhão,2021-05-16,1914,37
+São Pedro da Água Branca,2021-05-16,558,4
+São Pedro dos Crentes,2021-05-16,356,2
+São Raimundo das Mangabeiras,2021-05-16,1921,18
+São Raimundo do Doca Bezerra,2021-05-16,100,2
+São Roberto,2021-05-16,363,5
+São Vicente Ferrer,2021-05-16,219,2
+Satubinha,2021-05-16,290,3
+Senador Alexandre Costa,2021-05-16,463,1
+Senador La Rocque,2021-05-16,297,22
+Serrano do Maranhão,2021-05-16,206,3
+Sítio Novo,2021-05-16,1670,23
+Sucupira do Norte,2021-05-16,197,5
+Sucupira do Riachão,2021-05-16,205,2
+Tasso Fragoso,2021-05-16,832,7
+Timbiras,2021-05-16,505,23
+Timon,2021-05-16,5953,294
+Trizidela do Vale,2021-05-16,1138,22
+Tufilândia,2021-05-16,223,5
+Tuntum,2021-05-16,1771,12
+Turiaçu,2021-05-16,259,4
+Turilândia,2021-05-16,616,8
+Tutóia,2021-05-16,1233,31
+Urbano Santos,2021-05-16,1718,19
+Vargem Grande,2021-05-16,1148,29
+Viana,2021-05-16,320,30
+Vila Nova dos Martírios,2021-05-16,527,3
+Vitória do Mearim,2021-05-16,1381,23
+Vitorino Freire,2021-05-16,2089,52
+Zé Doca,2021-05-16,5021,67
+,2021-05-16,278726,7700
+,2021-05-16,1463543,37508
+,2021-05-16,266139,6230
+Acorizal,2021-05-16,466,18
+Água Boa,2021-05-16,2124,53
+Alta Floresta,2021-05-16,7355,110
+Alto Araguaia,2021-05-16,1033,22
+Alto Boa Vista,2021-05-16,639,12
+Alto Garças,2021-05-16,685,25
+Alto Paraguai,2021-05-16,761,25
+Alto Taquari,2021-05-16,1338,26
+Apiacás,2021-05-16,1469,14
+Araguaiana,2021-05-16,176,4
+Araguainha,2021-05-16,22,0
+Araputanga,2021-05-16,1677,43
+Arenápolis,2021-05-16,1302,22
+Aripuanã,2021-05-16,2209,40
+Barão de Melgaço,2021-05-16,318,13
+Barra do Bugres,2021-05-16,2338,55
+Barra do Garças,2021-05-16,6495,227
+Bom Jesus do Araguaia,2021-05-16,880,14
+Brasnorte,2021-05-16,1758,30
+Cáceres,2021-05-16,8088,304
+Campinápolis,2021-05-16,946,24
+Campo Novo do Parecis,2021-05-16,5485,64
+Campos de Júlio,2021-05-16,930,8
+Campo Verde,2021-05-16,4964,102
+Canabrava do Norte,2021-05-16,293,3
+Canarana,2021-05-16,2414,42
+Carlinda,2021-05-16,1461,28
+Castanheira,2021-05-16,467,20
+Chapada dos Guimarães,2021-05-16,1492,72
+Cláudia,2021-05-16,1320,28
+Cocalinho,2021-05-16,448,9
+Colíder,2021-05-16,4583,100
+Colniza,2021-05-16,1488,58
+Comodoro,2021-05-16,1402,21
+Confresa,2021-05-16,2680,69
+Conquista D'Oeste,2021-05-16,394,10
+Cotriguaçu,2021-05-16,880,32
+Cuiabá,2021-05-16,81168,2772
+Curvelândia,2021-05-16,243,7
+Denise,2021-05-16,440,13
+Diamantino,2021-05-16,2269,52
+Dom Aquino,2021-05-16,484,16
+Feliz Natal,2021-05-16,1519,28
+Figueirópolis D'Oeste,2021-05-16,284,6
+Gaúcha do Norte,2021-05-16,669,18
+General Carneiro,2021-05-16,559,16
+Glória D'Oeste,2021-05-16,269,10
+Guarantã do Norte,2021-05-16,3363,89
+Guiratinga,2021-05-16,245,22
+Importados/Indefinidos,2021-05-16,2248,171
+Indiavaí,2021-05-16,196,9
+Ipiranga do Norte,2021-05-16,989,12
+Itanhangá,2021-05-16,246,4
+Itaúba,2021-05-16,726,23
+Itiquira,2021-05-16,334,11
+Jaciara,2021-05-16,2887,99
+Jangada,2021-05-16,494,17
+Jauru,2021-05-16,611,29
+Juara,2021-05-16,3770,68
+Juína,2021-05-16,2927,97
+Juruena,2021-05-16,1239,34
+Juscimeira,2021-05-16,1064,31
+Lambari D'Oeste,2021-05-16,546,14
+Lucas do Rio Verde,2021-05-16,11786,142
+Luciara,2021-05-16,114,3
+Marcelândia,2021-05-16,1181,31
+Matupá,2021-05-16,1868,43
+Mirassol d'Oeste,2021-05-16,2969,95
+Nobres,2021-05-16,1374,46
+Nortelândia,2021-05-16,632,22
+Nossa Senhora do Livramento,2021-05-16,963,36
+Nova Bandeirantes,2021-05-16,529,15
+Nova Brasilândia,2021-05-16,293,8
+Nova Canaã do Norte,2021-05-16,1014,23
+Nova Guarita,2021-05-16,610,13
+Nova Lacerda,2021-05-16,816,7
+Nova Marilândia,2021-05-16,267,5
+Nova Maringá,2021-05-16,554,9
+Nova Monte Verde,2021-05-16,1258,17
+Nova Mutum,2021-05-16,6610,101
+Nova Nazaré,2021-05-16,241,6
+Nova Olímpia,2021-05-16,1164,47
+Nova Santa Helena,2021-05-16,479,11
+Nova Ubiratã,2021-05-16,517,15
+Nova Xavantina,2021-05-16,2410,44
+Novo Horizonte do Norte,2021-05-16,325,9
+Novo Mundo,2021-05-16,609,16
+Novo Santo Antônio,2021-05-16,268,3
+Novo São Joaquim,2021-05-16,333,12
+Paranaíta,2021-05-16,2314,30
+Paranatinga,2021-05-16,2688,63
+Pedra Preta,2021-05-16,1586,56
+Peixoto de Azevedo,2021-05-16,3419,116
+Planalto da Serra,2021-05-16,176,7
+Poconé,2021-05-16,2432,64
+Pontal do Araguaia,2021-05-16,686,14
+Ponte Branca,2021-05-16,105,5
+Pontes e Lacerda,2021-05-16,4866,203
+Porto Alegre do Norte,2021-05-16,559,9
+Porto dos Gaúchos,2021-05-16,554,6
+Porto Esperidião,2021-05-16,1031,41
+Porto Estrela,2021-05-16,293,10
+Poxoréu,2021-05-16,1240,40
+Primavera do Leste,2021-05-16,10263,243
+Querência,2021-05-16,2436,45
+Reserva do Cabaçal,2021-05-16,211,5
+Ribeirão Cascalheira,2021-05-16,1014,33
+Ribeirãozinho,2021-05-16,150,10
+Rio Branco,2021-05-16,500,10
+Rondolândia,2021-05-16,250,4
+Rondonópolis,2021-05-16,28037,759
+Rosário Oeste,2021-05-16,1062,37
+Salto do Céu,2021-05-16,230,6
+Santa Carmem,2021-05-16,634,12
+Santa Cruz do Xingu,2021-05-16,299,0
+Santa Rita do Trivelato,2021-05-16,141,3
+Santa Terezinha,2021-05-16,230,7
+Santo Afonso,2021-05-16,211,11
+Santo Antônio do Leste,2021-05-16,189,6
+Santo Antônio do Leverger,2021-05-16,905,45
+São Félix do Araguaia,2021-05-16,1427,28
+São José do Povo,2021-05-16,160,7
+São José do Rio Claro,2021-05-16,1596,21
+São José dos Quatro Marcos,2021-05-16,2078,62
+São José do Xingu,2021-05-16,221,9
+São Pedro da Cipa,2021-05-16,472,20
+Sapezal,2021-05-16,3341,41
+Serra Nova Dourada,2021-05-16,175,4
+Sinop,2021-05-16,20032,367
+Sorriso,2021-05-16,13081,173
+Tabaporã,2021-05-16,1339,20
+Tangará da Serra,2021-05-16,12674,254
+Tapurah,2021-05-16,1972,21
+Terra Nova do Norte,2021-05-16,915,33
+Tesouro,2021-05-16,209,9
+Torixoréu,2021-05-16,334,12
+União do Sul,2021-05-16,451,11
+Vale de São Domingos,2021-05-16,268,10
+Várzea Grande,2021-05-16,26662,1127
+Vera,2021-05-16,1036,23
+Vila Bela da Santíssima Trindade,2021-05-16,2456,51
+Vila Rica,2021-05-16,1258,23
+,2021-05-16,382621,10420
+Abaetetuba,2021-05-16,7407,203
+Abel Figueiredo,2021-05-16,868,10
+Acará,2021-05-16,1202,28
+Afuá,2021-05-16,2888,14
+Água Azul do Norte,2021-05-16,1084,15
+Alenquer,2021-05-16,2752,115
+Almeirim,2021-05-16,3314,41
+Altamira,2021-05-16,12432,272
+Anajás,2021-05-16,1315,20
+Ananindeua,2021-05-16,20815,744
+Anapu,2021-05-16,1298,34
+Augusto Corrêa,2021-05-16,1941,39
+Aurora do Pará,2021-05-16,1330,13
+Aveiro,2021-05-16,610,9
+Bagre,2021-05-16,858,11
+Baião,2021-05-16,706,29
+Bannach,2021-05-16,636,2
+Barcarena,2021-05-16,10274,200
+Belém,2021-05-16,98222,4645
+Belterra,2021-05-16,1268,24
+Benevides,2021-05-16,3666,92
+Bom Jesus do Tocantins,2021-05-16,729,24
+Bonito,2021-05-16,358,12
+Bragança,2021-05-16,3865,123
+Brasil Novo,2021-05-16,1598,37
+Brejo Grande do Araguaia,2021-05-16,757,4
+Breu Branco,2021-05-16,616,43
+Breves,2021-05-16,3838,109
+Bujaru,2021-05-16,1312,37
+Cachoeira do Arari,2021-05-16,450,20
+Cachoeira do Piriá,2021-05-16,723,4
+Cametá,2021-05-16,7702,207
+Canaã dos Carajás,2021-05-16,7689,92
+Capanema,2021-05-16,2876,106
+Capitão Poço,2021-05-16,1937,66
+Castanhal,2021-05-16,7568,363
+Chaves,2021-05-16,504,2
+Colares,2021-05-16,464,18
+Conceição do Araguaia,2021-05-16,3018,37
+Concórdia do Pará,2021-05-16,2255,25
+Cumaru do Norte,2021-05-16,670,6
+Curionópolis,2021-05-16,2214,31
+Curralinho,2021-05-16,557,30
+Curuá,2021-05-16,1719,15
+Curuçá,2021-05-16,2166,68
+Dom Eliseu,2021-05-16,1755,31
+Eldorado do Carajás,2021-05-16,502,23
+Faro,2021-05-16,1077,29
+Floresta do Araguaia,2021-05-16,791,13
+Garrafão do Norte,2021-05-16,1321,11
+Goianésia do Pará,2021-05-16,1403,29
+Gurupá,2021-05-16,2050,13
+Igarapé-Açu,2021-05-16,2253,65
+Igarapé-Miri,2021-05-16,2901,79
+Importados/Indefinidos,2021-05-16,0,0
+Inhangapi,2021-05-16,300,13
+Ipixuna do Pará,2021-05-16,2036,36
+Irituia,2021-05-16,1241,16
+Itaituba,2021-05-16,10009,240
+Itupiranga,2021-05-16,1239,60
+Jacareacanga,2021-05-16,2343,21
+Jacundá,2021-05-16,1536,42
+Juruti,2021-05-16,3882,162
+Limoeiro do Ajuru,2021-05-16,1487,52
+Mãe do Rio,2021-05-16,1164,56
+Magalhães Barata,2021-05-16,290,15
+Marabá,2021-05-16,16021,379
+Maracanã,2021-05-16,745,41
+Marapanim,2021-05-16,923,36
+Marituba,2021-05-16,2678,123
+Medicilândia,2021-05-16,2735,34
+Melgaço,2021-05-16,511,12
+Mocajuba,2021-05-16,2948,53
+Moju,2021-05-16,1874,55
+Mojuí dos Campos,2021-05-16,1259,29
+Monte Alegre,2021-05-16,4797,161
+Muaná,2021-05-16,608,25
+Nova Esperança do Piriá,2021-05-16,1341,8
+Nova Ipixuna,2021-05-16,976,19
+Nova Timboteua,2021-05-16,910,14
+Novo Progresso,2021-05-16,2275,52
+Novo Repartimento,2021-05-16,1358,82
+Óbidos,2021-05-16,5990,110
+Oeiras do Pará,2021-05-16,1360,41
+Oriximiná,2021-05-16,7531,121
+Ourém,2021-05-16,381,7
+Ourilândia do Norte,2021-05-16,4415,27
+Pacajá,2021-05-16,1834,26
+Palestina do Pará,2021-05-16,564,5
+Paragominas,2021-05-16,7269,186
+Parauapebas,2021-05-16,46067,373
+Pau D'Arco,2021-05-16,628,6
+Peixe-Boi,2021-05-16,307,3
+Piçarra,2021-05-16,593,7
+Placas,2021-05-16,1466,26
+Ponta de Pedras,2021-05-16,2550,26
+Portel,2021-05-16,2646,74
+Porto de Moz,2021-05-16,1294,29
+Prainha,2021-05-16,1680,65
+Primavera,2021-05-16,616,18
+Quatipuru,2021-05-16,700,16
+Redenção,2021-05-16,11425,174
+Rio Maria,2021-05-16,2050,21
+Rondon do Pará,2021-05-16,1290,71
+Rurópolis,2021-05-16,3633,57
+Salinópolis,2021-05-16,1086,84
+Salvaterra,2021-05-16,1023,26
+Santa Bárbara do Pará,2021-05-16,1117,22
+Santa Cruz do Arari,2021-05-16,173,10
+Santa Izabel do Pará,2021-05-16,1892,82
+Santa Luzia do Pará,2021-05-16,1244,19
+Santa Maria das Barreiras,2021-05-16,720,3
+Santa Maria do Pará,2021-05-16,1422,23
+Santana do Araguaia,2021-05-16,2638,24
+Santarém,2021-05-16,17378,856
+Santarém Novo,2021-05-16,334,6
+Santo Antônio do Tauá,2021-05-16,1764,49
+São Caetano de Odivelas,2021-05-16,1133,31
+São Domingos do Araguaia,2021-05-16,2045,38
+São Domingos do Capim,2021-05-16,688,25
+São Félix do Xingu,2021-05-16,4051,35
+São Francisco do Pará,2021-05-16,726,24
+São Geraldo do Araguaia,2021-05-16,844,29
+São João da Ponta,2021-05-16,68,7
+São João de Pirabas,2021-05-16,311,35
+São João do Araguaia,2021-05-16,63,9
+São Miguel do Guamá,2021-05-16,2942,52
+São Sebastião da Boa Vista,2021-05-16,588,21
+Sapucaia,2021-05-16,401,5
+Senador José Porfírio,2021-05-16,689,17
+Soure,2021-05-16,565,16
+Tailândia,2021-05-16,4912,97
+Terra Alta,2021-05-16,572,20
+Terra Santa,2021-05-16,1303,51
+Tomé-Açu,2021-05-16,1651,57
+Tracuateua,2021-05-16,667,18
+Trairão,2021-05-16,1221,21
+Tucumã,2021-05-16,4559,52
+Tucuruí,2021-05-16,5614,210
+Ulianópolis,2021-05-16,2418,23
+Uruará,2021-05-16,1894,37
+Vigia,2021-05-16,2601,81
+Viseu,2021-05-16,1465,31
+Vitória do Xingu,2021-05-16,1747,23
+Xinguara,2021-05-16,4348,35
+,2021-05-16,499176,13961
+Água Branca,2021-05-16,741,10
+Aguiar,2021-05-16,291,3
+Alagoa Grande,2021-05-16,2877,52
+Alagoa Nova,2021-05-16,777,16
+Alagoinha,2021-05-16,1567,23
+Alcantil,2021-05-16,342,6
+Algodão de Jandaíra,2021-05-16,123,1
+Alhandra,2021-05-16,1695,29
+Amparo,2021-05-16,158,4
+Aparecida,2021-05-16,693,11
+Araçagi,2021-05-16,1019,13
+Arara,2021-05-16,731,20
+Araruna,2021-05-16,597,16
+Areia,2021-05-16,1092,22
+Areia de Baraúnas,2021-05-16,98,3
+Areial,2021-05-16,263,7
+Aroeiras,2021-05-16,875,7
+Assunção,2021-05-16,283,2
+Baía da Traição,2021-05-16,1205,11
+Bananeiras,2021-05-16,968,18
+Baraúna,2021-05-16,288,4
+Barra de Santana,2021-05-16,349,5
+Barra de Santa Rosa,2021-05-16,846,5
+Barra de São Miguel,2021-05-16,398,6
+Bayeux,2021-05-16,6109,216
+Belém,2021-05-16,1862,31
+Belém do Brejo do Cruz,2021-05-16,487,5
+Bernardino Batista,2021-05-16,232,0
+Boa Ventura,2021-05-16,291,5
+Boa Vista,2021-05-16,549,9
+Bom Jesus,2021-05-16,121,3
+Bom Sucesso,2021-05-16,203,2
+Bonito de Santa Fé,2021-05-16,414,11
+Boqueirão,2021-05-16,1320,23
+Borborema,2021-05-16,346,11
+Brejo do Cruz,2021-05-16,1239,20
+Brejo dos Santos,2021-05-16,374,4
+Caaporã,2021-05-16,1678,28
+Cabaceiras,2021-05-16,313,2
+Cabedelo,2021-05-16,7719,172
+Cachoeira dos Índios,2021-05-16,624,14
+Cacimba de Areia,2021-05-16,31,3
+Cacimba de Dentro,2021-05-16,905,24
+Cacimbas,2021-05-16,196,6
+Caiçara,2021-05-16,639,14
+Cajazeiras,2021-05-16,6963,119
+Cajazeirinhas,2021-05-16,116,0
+Caldas Brandão,2021-05-16,467,7
+Camalaú,2021-05-16,379,5
+Campina Grande,2021-05-16,27737,834
+Capim,2021-05-16,201,9
+Caraúbas,2021-05-16,194,6
+Carrapateira,2021-05-16,417,5
+Casserengue,2021-05-16,775,16
+Catingueira,2021-05-16,170,6
+Catolé do Rocha,2021-05-16,3216,47
+Caturité,2021-05-16,209,4
+Conceição,2021-05-16,846,17
+Condado,2021-05-16,408,9
+Conde,2021-05-16,2092,38
+Congo,2021-05-16,309,9
+Coremas,2021-05-16,1324,24
+Coxixola,2021-05-16,101,3
+Cruz do Espírito Santo,2021-05-16,886,26
+Cubati,2021-05-16,325,8
+Cuité,2021-05-16,1516,20
+Cuité de Mamanguape,2021-05-16,271,12
+Cuitegi,2021-05-16,711,22
+Curral de Cima,2021-05-16,270,2
+Curral Velho,2021-05-16,229,0
+Damião,2021-05-16,428,3
+Desterro,2021-05-16,357,5
+Diamante,2021-05-16,444,8
+Dona Inês,2021-05-16,343,9
+Duas Estradas,2021-05-16,341,14
+Emas,2021-05-16,121,4
+Esperança,2021-05-16,3212,61
+Fagundes,2021-05-16,231,9
+Frei Martinho,2021-05-16,233,3
+Gado Bravo,2021-05-16,369,6
+Guarabira,2021-05-16,7462,115
+Gurinhém,2021-05-16,734,15
+Gurjão,2021-05-16,146,5
+Ibiara,2021-05-16,507,3
+Igaracy,2021-05-16,130,5
+Imaculada,2021-05-16,285,9
+Importados/Indefinidos,2021-05-16,0,0
+Ingá,2021-05-16,2479,34
+Itabaiana,2021-05-16,2573,68
+Itaporanga,2021-05-16,1949,24
+Itapororoca,2021-05-16,1568,16
+Itatuba,2021-05-16,745,15
+Jacaraú,2021-05-16,793,26
+Jericó,2021-05-16,509,9
+João Pessoa,2021-05-16,82407,2503
+Joca Claudino,2021-05-16,77,2
+Juarez Távora,2021-05-16,759,11
+Juazeirinho,2021-05-16,561,13
+Junco do Seridó,2021-05-16,260,7
+Juripiranga,2021-05-16,1173,24
+Juru,2021-05-16,614,12
+Lagoa,2021-05-16,117,1
+Lagoa de Dentro,2021-05-16,637,4
+Lagoa Seca,2021-05-16,1846,36
+Lastro,2021-05-16,310,3
+Livramento,2021-05-16,510,3
+Logradouro,2021-05-16,318,9
+Lucena,2021-05-16,874,16
+Mãe d'Água,2021-05-16,231,5
+Malta,2021-05-16,301,8
+Mamanguape,2021-05-16,4111,63
+Manaíra,2021-05-16,268,6
+Marcação,2021-05-16,819,10
+Mari,2021-05-16,1712,28
+Marizópolis,2021-05-16,246,9
+Massaranduba,2021-05-16,910,22
+Mataraca,2021-05-16,388,12
+Matinhas,2021-05-16,120,4
+Mato Grosso,2021-05-16,49,1
+Maturéia,2021-05-16,248,7
+Mogeiro,2021-05-16,814,14
+Montadas,2021-05-16,188,2
+Monte Horebe,2021-05-16,220,0
+Monteiro,2021-05-16,2958,39
+Mulungu,2021-05-16,687,17
+Natuba,2021-05-16,244,4
+Nazarezinho,2021-05-16,385,6
+Nova Floresta,2021-05-16,876,16
+Nova Olinda,2021-05-16,296,7
+Nova Palmeira,2021-05-16,439,3
+Olho d'Água,2021-05-16,313,6
+Olivedos,2021-05-16,274,3
+Ouro Velho,2021-05-16,95,2
+Parari,2021-05-16,145,1
+Passagem,2021-05-16,115,1
+Patos,2021-05-16,10799,190
+Paulista,2021-05-16,898,8
+Pedra Branca,2021-05-16,321,2
+Pedra Lavrada,2021-05-16,175,1
+Pedras de Fogo,2021-05-16,2081,47
+Pedro Régis,2021-05-16,207,6
+Piancó,2021-05-16,1294,21
+Picuí,2021-05-16,1341,23
+Pilar,2021-05-16,899,21
+Pilões,2021-05-16,168,3
+Pilõezinhos,2021-05-16,564,9
+Pirpirituba,2021-05-16,641,13
+Pitimbu,2021-05-16,1390,15
+Pocinhos,2021-05-16,769,16
+Poço Dantas,2021-05-16,101,4
+Poço de José de Moura,2021-05-16,159,2
+Pombal,2021-05-16,3929,56
+Prata,2021-05-16,100,4
+Princesa Isabel,2021-05-16,1656,46
+Puxinanã,2021-05-16,506,5
+Queimadas,2021-05-16,2836,51
+Quixaba,2021-05-16,73,2
+Remígio,2021-05-16,978,22
+Riachão,2021-05-16,113,4
+Riachão do Bacamarte,2021-05-16,356,0
+Riachão do Poço,2021-05-16,180,3
+Riacho de Santo Antônio,2021-05-16,69,2
+Riacho dos Cavalos,2021-05-16,500,12
+Rio Tinto,2021-05-16,2158,47
+Salgadinho,2021-05-16,129,1
+Salgado de São Félix,2021-05-16,617,12
+Santa Cecília,2021-05-16,206,2
+Santa Cruz,2021-05-16,268,6
+Santa Helena,2021-05-16,310,5
+Santa Inês,2021-05-16,125,5
+Santa Luzia,2021-05-16,1506,22
+Santana de Mangueira,2021-05-16,263,1
+Santana dos Garrotes,2021-05-16,361,8
+Santa Rita,2021-05-16,7374,282
+Santa Teresinha,2021-05-16,170,11
+Santo André,2021-05-16,267,2
+São Bentinho,2021-05-16,273,3
+São Bento,2021-05-16,5019,57
+São Domingos,2021-05-16,110,0
+São Domingos do Cariri,2021-05-16,92,3
+São Francisco,2021-05-16,111,2
+São João do Cariri,2021-05-16,284,1
+São João do Rio do Peixe,2021-05-16,884,21
+São João do Tigre,2021-05-16,156,4
+São José da Lagoa Tapada,2021-05-16,485,3
+São José de Caiana,2021-05-16,288,4
+São José de Espinharas,2021-05-16,314,5
+São José de Piranhas,2021-05-16,1873,41
+São José de Princesa,2021-05-16,155,1
+São José do Bonfim,2021-05-16,110,5
+São José do Brejo do Cruz,2021-05-16,165,1
+São José do Sabugi,2021-05-16,580,3
+São José dos Cordeiros,2021-05-16,90,5
+São José dos Ramos,2021-05-16,392,5
+São Mamede,2021-05-16,556,28
+São Miguel de Taipu,2021-05-16,348,8
+São Sebastião de Lagoa de Roça,2021-05-16,647,14
+São Sebastião do Umbuzeiro,2021-05-16,162,3
+São Vicente do Seridó,2021-05-16,277,3
+Sapé,2021-05-16,2240,95
+Serra Branca,2021-05-16,665,26
+Serra da Raiz,2021-05-16,409,4
+Serra Grande,2021-05-16,179,4
+Serra Redonda,2021-05-16,426,6
+Serraria,2021-05-16,534,11
+Sertãozinho,2021-05-16,544,6
+Sobrado,2021-05-16,428,9
+Solânea,2021-05-16,3032,43
+Soledade,2021-05-16,817,12
+Sossêgo,2021-05-16,181,1
+Sousa,2021-05-16,6142,93
+Sumé,2021-05-16,2100,31
+Tacima,2021-05-16,253,7
+Taperoá,2021-05-16,520,14
+Tavares,2021-05-16,778,12
+Teixeira,2021-05-16,599,32
+Tenório,2021-05-16,82,2
+Triunfo,2021-05-16,412,7
+Uiraúna,2021-05-16,484,23
+Umbuzeiro,2021-05-16,297,9
+Várzea,2021-05-16,90,1
+Vieirópolis,2021-05-16,97,2
+Vista Serrana,2021-05-16,115,5
+Zabelê,2021-05-16,126,1
+,2021-05-16,309712,7219
+Abreu e Lima,2021-05-16,2545,191
+Afogados da Ingazeira,2021-05-16,3873,58
+Afrânio,2021-05-16,766,13
+Agrestina,2021-05-16,1323,49
+Água Preta,2021-05-16,1345,56
+Águas Belas,2021-05-16,1372,28
+Alagoinha,2021-05-16,665,18
+Aliança,2021-05-16,563,46
+Altinho,2021-05-16,902,19
+Amaraji,2021-05-16,445,28
+Angelim,2021-05-16,165,6
+Araçoiaba,2021-05-16,497,25
+Araripina,2021-05-16,5715,120
+Arcoverde,2021-05-16,5021,105
+Barra de Guabiraba,2021-05-16,345,14
+Barreiros,2021-05-16,729,51
+Belém de Maria,2021-05-16,199,6
+Belém do São Francisco,2021-05-16,576,9
+Belo Jardim,2021-05-16,2832,87
+Betânia,2021-05-16,403,10
+Bezerros,2021-05-16,3312,98
+Bodocó,2021-05-16,1644,25
+Bom Conselho,2021-05-16,1392,46
+Bom Jardim,2021-05-16,1130,52
+Bonito,2021-05-16,661,34
+Brejão,2021-05-16,192,5
+Brejinho,2021-05-16,600,17
+Brejo da Madre de Deus,2021-05-16,1803,47
+Buenos Aires,2021-05-16,226,19
+Buíque,2021-05-16,1848,38
+Cabo de Santo Agostinho,2021-05-16,5165,416
+Cabrobó,2021-05-16,1757,22
+Cachoeirinha,2021-05-16,428,23
+Caetés,2021-05-16,1176,17
+Calçado,2021-05-16,387,2
+Calumbi,2021-05-16,452,3
+Camaragibe,2021-05-16,4687,336
+Camocim de São Félix,2021-05-16,438,13
+Camutanga,2021-05-16,716,23
+Canhotinho,2021-05-16,527,26
+Capoeiras,2021-05-16,1082,19
+Carnaíba,2021-05-16,1626,30
+Carnaubeira da Penha,2021-05-16,142,3
+Carpina,2021-05-16,3095,114
+Caruaru,2021-05-16,24530,556
+Casinhas,2021-05-16,236,9
+Catende,2021-05-16,950,46
+Cedro,2021-05-16,1406,14
+Chã de Alegria,2021-05-16,398,19
+Chã Grande,2021-05-16,372,20
+Condado,2021-05-16,1258,33
+Correntes,2021-05-16,218,5
+Cortês,2021-05-16,225,15
+Cumaru,2021-05-16,284,14
+Cupira,2021-05-16,1452,38
+Custódia,2021-05-16,628,45
+Dormentes,2021-05-16,1064,7
+Escada,2021-05-16,765,83
+Exu,2021-05-16,3051,37
+Feira Nova,2021-05-16,1099,36
+Fernando de Noronha,2021-05-16,274,2
+Ferreiros,2021-05-16,685,12
+Flores,2021-05-16,838,29
+Floresta,2021-05-16,1505,17
+Frei Miguelinho,2021-05-16,729,18
+Gameleira,2021-05-16,391,30
+Garanhuns,2021-05-16,10078,179
+Glória do Goitá,2021-05-16,929,38
+Goiana,2021-05-16,5319,130
+Granito,2021-05-16,261,3
+Gravatá,2021-05-16,3074,117
+Iati,2021-05-16,570,11
+Ibimirim,2021-05-16,676,23
+Ibirajuba,2021-05-16,186,7
+Igarassu,2021-05-16,2659,192
+Iguaracy,2021-05-16,620,24
+Ilha de Itamaracá,2021-05-16,776,22
+Importados/Indefinidos,2021-05-16,0,0
+Inajá,2021-05-16,347,5
+Ingazeira,2021-05-16,262,4
+Ipojuca,2021-05-16,2682,140
+Ipubi,2021-05-16,878,49
+Itacuruba,2021-05-16,175,4
+Itaíba,2021-05-16,624,10
+Itambé,2021-05-16,1259,46
+Itapetim,2021-05-16,970,23
+Itapissuma,2021-05-16,737,39
+Itaquitinga,2021-05-16,486,28
+Jaboatão dos Guararapes,2021-05-16,27006,1379
+Jaqueira,2021-05-16,298,12
+Jataúba,2021-05-16,770,13
+Jatobá,2021-05-16,519,7
+João Alfredo,2021-05-16,494,33
+Joaquim Nabuco,2021-05-16,354,22
+Jucati,2021-05-16,510,7
+Jupi,2021-05-16,838,17
+Jurema,2021-05-16,405,18
+Lagoa de Itaenga,2021-05-16,753,21
+Lagoa do Carro,2021-05-16,700,21
+Lagoa do Ouro,2021-05-16,333,8
+Lagoa dos Gatos,2021-05-16,486,9
+Lagoa Grande,2021-05-16,1224,22
+Lajedo,2021-05-16,1534,52
+Limoeiro,2021-05-16,2000,85
+Macaparana,2021-05-16,1009,25
+Machados,2021-05-16,565,11
+Manari,2021-05-16,214,5
+Maraial,2021-05-16,318,10
+Mirandiba,2021-05-16,743,17
+Moreilândia,2021-05-16,392,4
+Moreno,2021-05-16,1371,89
+Nazaré da Mata,2021-05-16,908,63
+Olinda,2021-05-16,18681,812
+Orobó,2021-05-16,687,18
+Orocó,2021-05-16,481,10
+Ouricuri,2021-05-16,2147,71
+Palmares,2021-05-16,3364,99
+Palmeirina,2021-05-16,141,5
+Panelas,2021-05-16,659,24
+Paranatama,2021-05-16,439,14
+Parnamirim,2021-05-16,1076,30
+Passira,2021-05-16,1141,45
+Paudalho,2021-05-16,2284,91
+Paulista,2021-05-16,8922,665
+Pedra,2021-05-16,775,16
+Pesqueira,2021-05-16,3554,88
+Petrolândia,2021-05-16,1219,27
+Petrolina,2021-05-16,24139,371
+Poção,2021-05-16,459,13
+Pombos,2021-05-16,1443,36
+Primavera,2021-05-16,240,18
+Quipapá,2021-05-16,554,9
+Quixaba,2021-05-16,374,11
+Recife,2021-05-16,112780,4046
+Riacho das Almas,2021-05-16,868,18
+Ribeirão,2021-05-16,403,64
+Rio Formoso,2021-05-16,689,33
+Sairé,2021-05-16,323,5
+Salgadinho,2021-05-16,181,3
+Salgueiro,2021-05-16,6259,99
+Saloá,2021-05-16,539,18
+Sanharó,2021-05-16,972,23
+Santa Cruz,2021-05-16,654,9
+Santa Cruz da Baixa Verde,2021-05-16,482,12
+Santa Cruz do Capibaribe,2021-05-16,6356,119
+Santa Filomena,2021-05-16,412,9
+Santa Maria da Boa Vista,2021-05-16,818,10
+Santa Maria do Cambucá,2021-05-16,529,14
+Santa Terezinha,2021-05-16,797,24
+São Benedito do Sul,2021-05-16,277,11
+São Bento do Una,2021-05-16,2016,58
+São Caitano,2021-05-16,1307,43
+São João,2021-05-16,688,17
+São Joaquim do Monte,2021-05-16,574,23
+São José da Coroa Grande,2021-05-16,1362,36
+São José do Belmonte,2021-05-16,1937,40
+São José do Egito,2021-05-16,1993,42
+São Lourenço da Mata,2021-05-16,3445,198
+São Vicente Férrer,2021-05-16,1256,22
+Serra Talhada,2021-05-16,8601,138
+Serrita,2021-05-16,949,19
+Sertânia,2021-05-16,2193,33
+Sirinhaém,2021-05-16,715,36
+Solidão,2021-05-16,485,2
+Surubim,2021-05-16,2797,62
+Tabira,2021-05-16,2225,34
+Tacaimbó,2021-05-16,432,9
+Tacaratu,2021-05-16,730,22
+Tamandaré,2021-05-16,521,26
+Taquaritinga do Norte,2021-05-16,553,19
+Terezinha,2021-05-16,327,6
+Terra Nova,2021-05-16,782,9
+Timbaúba,2021-05-16,2859,92
+Toritama,2021-05-16,1268,31
+Tracunhaém,2021-05-16,156,20
+Trindade,2021-05-16,1552,46
+Triunfo,2021-05-16,772,17
+Tupanatinga,2021-05-16,756,8
+Tuparetama,2021-05-16,354,20
+Venturosa,2021-05-16,936,23
+Verdejante,2021-05-16,363,7
+Vertente do Lério,2021-05-16,297,2
+Vertentes,2021-05-16,674,10
+Vicência,2021-05-16,637,29
+Vitória de Santo Antão,2021-05-16,4885,241
+Xexéu,2021-05-16,411,23
+,2021-05-16,442363,14949
+Acauã,2021-05-16,179,1
+Agricolândia,2021-05-16,398,4
+Água Branca,2021-05-16,1367,60
+Alagoinha do Piauí,2021-05-16,288,10
+Alegrete do Piauí,2021-05-16,474,5
+Alto Longá,2021-05-16,574,13
+Altos,2021-05-16,3932,80
+Alvorada do Gurguéia,2021-05-16,293,9
+Amarante,2021-05-16,1366,31
+Angical do Piauí,2021-05-16,596,8
+Anísio de Abreu,2021-05-16,284,9
+Antônio Almeida,2021-05-16,403,10
+Aroazes,2021-05-16,538,12
+Aroeiras do Itaim,2021-05-16,101,2
+Arraial,2021-05-16,140,2
+Assunção do Piauí,2021-05-16,301,6
+Avelino Lopes,2021-05-16,329,19
+Baixa Grande do Ribeiro,2021-05-16,1988,20
+Barra D'Alcântara,2021-05-16,105,3
+Barras,2021-05-16,4291,84
+Barreiras do Piauí,2021-05-16,64,1
+Barro Duro,2021-05-16,660,9
+Batalha,2021-05-16,907,30
+Bela Vista do Piauí,2021-05-16,233,6
+Belém do Piauí,2021-05-16,436,7
+Beneditinos,2021-05-16,993,34
+Bertolínia,2021-05-16,802,10
+Betânia do Piauí,2021-05-16,157,2
+Boa Hora,2021-05-16,488,5
+Bocaina,2021-05-16,235,3
+Bom Jesus,2021-05-16,2934,29
+Bom Princípio do Piauí,2021-05-16,118,11
+Bonfim do Piauí,2021-05-16,295,6
+Boqueirão do Piauí,2021-05-16,514,9
+Brasileira,2021-05-16,486,9
+Brejo do Piauí,2021-05-16,62,3
+Buriti dos Lopes,2021-05-16,1198,26
+Buriti dos Montes,2021-05-16,552,7
+Cabeceiras do Piauí,2021-05-16,468,10
+Cajazeiras do Piauí,2021-05-16,47,1
+Cajueiro da Praia,2021-05-16,471,18
+Caldeirão Grande do Piauí,2021-05-16,289,2
+Campinas do Piauí,2021-05-16,166,1
+Campo Alegre do Fidalgo,2021-05-16,101,1
+Campo Grande do Piauí,2021-05-16,448,4
+Campo Largo do Piauí,2021-05-16,463,6
+Campo Maior,2021-05-16,4900,124
+Canavieira,2021-05-16,143,6
+Canto do Buriti,2021-05-16,877,30
+Capitão de Campos,2021-05-16,737,25
+Capitão Gervásio Oliveira,2021-05-16,61,7
+Caracol,2021-05-16,305,11
+Caraúbas do Piauí,2021-05-16,186,9
+Caridade do Piauí,2021-05-16,529,5
+Castelo do Piauí,2021-05-16,994,23
+Caxingó,2021-05-16,140,1
+Cocal,2021-05-16,1054,29
+Cocal de Telha,2021-05-16,375,10
+Cocal dos Alves,2021-05-16,256,6
+Coivaras,2021-05-16,239,5
+Colônia do Gurguéia,2021-05-16,462,9
+Colônia do Piauí,2021-05-16,310,4
+Conceição do Canindé,2021-05-16,306,7
+Coronel José Dias,2021-05-16,97,4
+Corrente,2021-05-16,1414,19
+Cristalândia do Piauí,2021-05-16,46,2
+Cristino Castro,2021-05-16,507,10
+Curimatá,2021-05-16,645,13
+Currais,2021-05-16,259,2
+Curralinhos,2021-05-16,297,1
+Curral Novo do Piauí,2021-05-16,260,2
+Demerval Lobão,2021-05-16,2872,23
+Dirceu Arcoverde,2021-05-16,203,7
+Dom Expedito Lopes,2021-05-16,269,11
+Domingos Mourão,2021-05-16,196,3
+Dom Inocêncio,2021-05-16,189,4
+Elesbão Veloso,2021-05-16,655,23
+Eliseu Martins,2021-05-16,277,13
+Esperantina,2021-05-16,2461,76
+Fartura do Piauí,2021-05-16,179,3
+Flores do Piauí,2021-05-16,145,3
+Floresta do Piauí,2021-05-16,98,4
+Floriano,2021-05-16,7145,124
+Francinópolis,2021-05-16,64,1
+Francisco Ayres,2021-05-16,172,5
+Francisco Macedo,2021-05-16,406,4
+Francisco Santos,2021-05-16,316,3
+Fronteiras,2021-05-16,591,8
+Geminiano,2021-05-16,266,2
+Gilbués,2021-05-16,420,4
+Guadalupe,2021-05-16,1114,17
+Guaribas,2021-05-16,102,2
+Hugo Napoleão,2021-05-16,462,8
+Ilha Grande,2021-05-16,875,16
+Inhuma,2021-05-16,862,14
+Ipiranga do Piauí,2021-05-16,520,9
+Isaías Coelho,2021-05-16,561,4
+Itainópolis,2021-05-16,524,7
+Itaueira,2021-05-16,131,15
+Jacobina do Piauí,2021-05-16,300,3
+Jaicós,2021-05-16,881,27
+Jardim do Mulato,2021-05-16,176,3
+Jatobá do Piauí,2021-05-16,181,7
+Jerumenha,2021-05-16,199,5
+João Costa,2021-05-16,152,2
+Joaquim Pires,2021-05-16,1268,22
+Joca Marques,2021-05-16,513,5
+José de Freitas,2021-05-16,4260,61
+Juazeiro do Piauí,2021-05-16,262,2
+Júlio Borges,2021-05-16,144,10
+Jurema,2021-05-16,206,4
+Lagoa Alegre,2021-05-16,335,12
+Lagoa de São Francisco,2021-05-16,368,4
+Lagoa do Barro do Piauí,2021-05-16,867,7
+Lagoa do Piauí,2021-05-16,762,4
+Lagoa do Sítio,2021-05-16,90,11
+Lagoinha do Piauí,2021-05-16,229,7
+Landri Sales,2021-05-16,650,9
+Luís Correia,2021-05-16,1271,50
+Luzilândia,2021-05-16,2300,43
+Madeiro,2021-05-16,388,3
+Manoel Emídio,2021-05-16,368,11
+Marcolândia,2021-05-16,819,21
+Marcos Parente,2021-05-16,341,7
+Massapê do Piauí,2021-05-16,173,0
+Matias Olímpio,2021-05-16,576,9
+Miguel Alves,2021-05-16,1905,27
+Miguel Leão,2021-05-16,137,1
+Milton Brandão,2021-05-16,185,3
+Monsenhor Gil,2021-05-16,1300,27
+Monsenhor Hipólito,2021-05-16,445,2
+Monte Alegre do Piauí,2021-05-16,811,12
+Morro Cabeça no Tempo,2021-05-16,99,3
+Morro do Chapéu do Piauí,2021-05-16,705,4
+Murici dos Portelas,2021-05-16,243,10
+Nazaré do Piauí,2021-05-16,316,8
+Nazária,2021-05-16,384,11
+Nossa Senhora de Nazaré,2021-05-16,359,11
+Nossa Senhora dos Remédios,2021-05-16,666,10
+Nova Santa Rita,2021-05-16,132,4
+Novo Oriente do Piauí,2021-05-16,280,10
+Novo Santo Antônio,2021-05-16,215,3
+Oeiras,2021-05-16,3865,56
+Olho D'Água do Piauí,2021-05-16,194,3
+Padre Marcos,2021-05-16,486,5
+Paes Landim,2021-05-16,71,1
+Pajeú do Piauí,2021-05-16,83,7
+Palmeira do Piauí,2021-05-16,223,4
+Palmeirais,2021-05-16,302,13
+Paquetá,2021-05-16,129,4
+Parnaguá,2021-05-16,227,9
+Parnaíba,2021-05-16,13824,374
+Passagem Franca do Piauí,2021-05-16,237,10
+Patos do Piauí,2021-05-16,263,5
+Pau D'Arco do Piauí,2021-05-16,312,4
+Paulistana,2021-05-16,1074,12
+Pavussu,2021-05-16,254,9
+Pedro II,2021-05-16,3479,71
+Pedro Laurentino,2021-05-16,62,2
+Picos,2021-05-16,6641,129
+Pimenteiras,2021-05-16,768,23
+Pio IX,2021-05-16,817,17
+Piracuruca,2021-05-16,2270,63
+Piripiri,2021-05-16,9039,174
+Porto,2021-05-16,525,13
+Porto Alegre do Piauí,2021-05-16,180,3
+Prata do Piauí,2021-05-16,144,4
+Queimada Nova,2021-05-16,591,4
+Redenção do Gurguéia,2021-05-16,276,17
+Regeneração,2021-05-16,989,18
+Riacho Frio,2021-05-16,108,3
+Ribeira do Piauí,2021-05-16,32,4
+Ribeiro Gonçalves,2021-05-16,641,8
+Rio Grande do Piauí,2021-05-16,396,7
+Santa Cruz do Piauí,2021-05-16,778,14
+Santa Cruz dos Milagres,2021-05-16,228,2
+Santa Filomena,2021-05-16,64,3
+Santa Luz,2021-05-16,186,5
+Santana do Piauí,2021-05-16,141,3
+Santa Rosa do Piauí,2021-05-16,129,3
+Santo Antônio de Lisboa,2021-05-16,44,4
+Santo Antônio dos Milagres,2021-05-16,159,2
+Santo Inácio do Piauí,2021-05-16,250,6
+São Braz do Piauí,2021-05-16,59,8
+São Félix do Piauí,2021-05-16,179,3
+São Francisco de Assis do Piauí,2021-05-16,51,2
+São Francisco do Piauí,2021-05-16,122,6
+São Gonçalo do Gurguéia,2021-05-16,153,3
+São Gonçalo do Piauí,2021-05-16,352,4
+São João da Canabrava,2021-05-16,320,5
+São João da Fronteira,2021-05-16,217,4
+São João da Serra,2021-05-16,296,10
+São João da Varjota,2021-05-16,191,2
+São João do Arraial,2021-05-16,521,6
+São João do Piauí,2021-05-16,1230,27
+São José do Divino,2021-05-16,136,11
+São José do Peixe,2021-05-16,70,1
+São José do Piauí,2021-05-16,151,8
+São Julião,2021-05-16,255,7
+São Lourenço do Piauí,2021-05-16,60,3
+São Luis do Piauí,2021-05-16,102,0
+São Miguel da Baixa Grande,2021-05-16,167,1
+São Miguel do Fidalgo,2021-05-16,114,2
+São Miguel do Tapuio,2021-05-16,542,12
+São Pedro do Piauí,2021-05-16,1086,18
+São Raimundo Nonato,2021-05-16,3088,45
+Sebastião Barros,2021-05-16,22,3
+Sebastião Leal,2021-05-16,358,4
+Sigefredo Pacheco,2021-05-16,386,11
+Simões,2021-05-16,721,11
+Simplício Mendes,2021-05-16,1190,35
+Socorro do Piauí,2021-05-16,113,6
+Sussuapara,2021-05-16,376,5
+Tamboril do Piauí,2021-05-16,33,5
+Tanque do Piauí,2021-05-16,162,1
+Teresina,2021-05-16,90761,2067
+União,2021-05-16,1950,49
+Uruçuí,2021-05-16,3379,50
+Valença do Piauí,2021-05-16,1666,58
+Várzea Branca,2021-05-16,164,10
+Várzea Grande,2021-05-16,353,0
+Vera Mendes,2021-05-16,199,2
+Vila Nova do Piauí,2021-05-16,180,1
+Wall Ferraz,2021-05-16,329,3
+,2021-05-16,257554,5537
+Abatiá,2021-05-16,735,10
+Adrianópolis,2021-05-16,1102,22
+Agudos do Sul,2021-05-16,486,19
+Almirante Tamandaré,2021-05-16,8179,310
+Altamira do Paraná,2021-05-16,160,4
+Altônia,2021-05-16,892,17
+Alto Paraíso,2021-05-16,159,2
+Alto Paraná,2021-05-16,782,18
+Alto Piquiri,2021-05-16,602,16
+Alvorada do Sul,2021-05-16,649,21
+Amaporã,2021-05-16,269,5
+Ampére,2021-05-16,1092,27
+Anahy,2021-05-16,325,6
+Andirá,2021-05-16,1670,61
+Ângulo,2021-05-16,278,6
+Antonina,2021-05-16,2175,56
+Antônio Olinto,2021-05-16,350,8
+Apucarana,2021-05-16,7583,261
+Arapongas,2021-05-16,10457,398
+Arapoti,2021-05-16,2376,44
+Arapuã,2021-05-16,181,5
+Araruna,2021-05-16,1153,19
+Araucária,2021-05-16,20567,319
+Ariranha do Ivaí,2021-05-16,129,2
+Assaí,2021-05-16,1184,39
+Assis Chateaubriand,2021-05-16,3199,77
+Astorga,2021-05-16,2595,60
+Atalaia,2021-05-16,334,15
+Balsa Nova,2021-05-16,1249,24
+Bandeirantes,2021-05-16,3117,93
+Barbosa Ferraz,2021-05-16,900,25
+Barracão,2021-05-16,1037,27
+Barra do Jacaré,2021-05-16,160,1
+Bela Vista da Caroba,2021-05-16,159,5
+Bela Vista do Paraíso,2021-05-16,1655,58
+Bituruna,2021-05-16,653,10
+Boa Esperança,2021-05-16,258,7
+Boa Esperança do Iguaçu,2021-05-16,139,0
+Boa Ventura de São Roque,2021-05-16,370,5
+Boa Vista da Aparecida,2021-05-16,731,20
+Bocaiúva do Sul,2021-05-16,1538,13
+Bom Jesus do Sul,2021-05-16,291,3
+Bom Sucesso,2021-05-16,664,12
+Bom Sucesso do Sul,2021-05-16,331,6
+Borrazópolis,2021-05-16,547,19
+Braganey,2021-05-16,317,7
+Brasilândia do Sul,2021-05-16,331,8
+Cafeara,2021-05-16,225,9
+Cafelândia,2021-05-16,1579,12
+Cafezal do Sul,2021-05-16,263,4
+Califórnia,2021-05-16,849,15
+Cambará,2021-05-16,1920,39
+Cambé,2021-05-16,9260,196
+Cambira,2021-05-16,699,16
+Campina da Lagoa,2021-05-16,1145,25
+Campina do Simão,2021-05-16,257,12
+Campina Grande do Sul,2021-05-16,4514,95
+Campo Bonito,2021-05-16,268,7
+Campo do Tenente,2021-05-16,349,13
+Campo Largo,2021-05-16,14969,345
+Campo Magro,2021-05-16,2686,64
+Campo Mourão,2021-05-16,8804,179
+Cândido de Abreu,2021-05-16,736,8
+Candói,2021-05-16,935,21
+Cantagalo,2021-05-16,909,19
+Capanema,2021-05-16,1898,21
+Capitão Leônidas Marques,2021-05-16,1206,20
+Carambeí,2021-05-16,2789,51
+Carlópolis,2021-05-16,552,19
+Cascavel,2021-05-16,33785,681
+Castro,2021-05-16,8654,159
+Catanduvas,2021-05-16,729,18
+Centenário do Sul,2021-05-16,770,26
+Cerro Azul,2021-05-16,1077,36
+Céu Azul,2021-05-16,936,16
+Chopinzinho,2021-05-16,2070,39
+Cianorte,2021-05-16,6374,124
+Cidade Gaúcha,2021-05-16,1308,7
+Clevelândia,2021-05-16,1691,72
+Colombo,2021-05-16,18159,550
+Colorado,2021-05-16,1907,43
+Congonhinhas,2021-05-16,762,20
+Conselheiro Mairinck,2021-05-16,484,8
+Contenda,2021-05-16,1713,32
+Corbélia,2021-05-16,1307,28
+Cornélio Procópio,2021-05-16,5045,111
+Coronel Domingos Soares,2021-05-16,1089,14
+Coronel Vivida,2021-05-16,2629,64
+Corumbataí do Sul,2021-05-16,253,7
+Cruzeiro do Iguaçu,2021-05-16,271,7
+Cruzeiro do Oeste,2021-05-16,2032,49
+Cruzeiro do Sul,2021-05-16,288,11
+Cruz Machado,2021-05-16,706,14
+Cruzmaltina,2021-05-16,202,5
+Curitiba,2021-05-16,153363,4958
+Curiúva,2021-05-16,1077,16
+Diamante D'Oeste,2021-05-16,397,8
+Diamante do Norte,2021-05-16,215,8
+Diamante do Sul,2021-05-16,303,9
+Dois Vizinhos,2021-05-16,5555,70
+Douradina,2021-05-16,576,7
+Doutor Camargo,2021-05-16,478,10
+Doutor Ulysses,2021-05-16,221,4
+Enéas Marques,2021-05-16,552,16
+Engenheiro Beltrão,2021-05-16,963,15
+Entre Rios do Oeste,2021-05-16,319,3
+Esperança Nova,2021-05-16,252,7
+Espigão Alto do Iguaçu,2021-05-16,270,5
+Farol,2021-05-16,123,3
+Faxinal,2021-05-16,1551,44
+Fazenda Rio Grande,2021-05-16,11100,290
+Fênix,2021-05-16,283,2
+Fernandes Pinheiro,2021-05-16,358,8
+Figueira,2021-05-16,698,23
+Floraí,2021-05-16,360,9
+Flor da Serra do Sul,2021-05-16,461,22
+Floresta,2021-05-16,879,13
+Florestópolis,2021-05-16,882,23
+Flórida,2021-05-16,268,5
+Formosa do Oeste,2021-05-16,371,10
+Foz do Iguaçu,2021-05-16,36611,797
+Foz do Jordão,2021-05-16,489,12
+Francisco Alves,2021-05-16,387,7
+Francisco Beltrão,2021-05-16,12038,181
+General Carneiro,2021-05-16,322,13
+Godoy Moreira,2021-05-16,74,1
+Goioerê,2021-05-16,1191,38
+Goioxim,2021-05-16,354,4
+Grandes Rios,2021-05-16,381,10
+Guaíra,2021-05-16,2776,65
+Guairaçá,2021-05-16,341,9
+Guamiranga,2021-05-16,724,10
+Guapirama,2021-05-16,308,4
+Guaporema,2021-05-16,165,4
+Guaraci,2021-05-16,499,8
+Guaraniaçu,2021-05-16,1041,17
+Guarapuava,2021-05-16,16021,336
+Guaraqueçaba,2021-05-16,557,14
+Guaratuba,2021-05-16,4135,140
+Honório Serpa,2021-05-16,461,9
+Ibaiti,2021-05-16,2525,94
+Ibema,2021-05-16,355,13
+Ibiporã,2021-05-16,5048,110
+Icaraíma,2021-05-16,626,11
+Iguaraçu,2021-05-16,413,20
+Iguatu,2021-05-16,188,5
+Imbaú,2021-05-16,1484,38
+Imbituva,2021-05-16,2848,63
+Importados/Indefinidos,2021-05-16,5749,143
+Inácio Martins,2021-05-16,577,8
+Inajá,2021-05-16,193,6
+Indianópolis,2021-05-16,701,5
+Ipiranga,2021-05-16,956,17
+Iporã,2021-05-16,959,7
+Iracema do Oeste,2021-05-16,134,2
+Irati,2021-05-16,5474,87
+Iretama,2021-05-16,598,8
+Itaguajé,2021-05-16,241,8
+Itaipulândia,2021-05-16,1154,13
+Itambaracá,2021-05-16,539,16
+Itambé,2021-05-16,663,29
+Itapejara d'Oeste,2021-05-16,1510,36
+Itaperuçu,2021-05-16,3341,98
+Itaúna do Sul,2021-05-16,159,5
+Ivaí,2021-05-16,553,13
+Ivaiporã,2021-05-16,2484,63
+Ivaté,2021-05-16,327,3
+Ivatuba,2021-05-16,224,6
+Jaboti,2021-05-16,257,8
+Jacarezinho,2021-05-16,4783,71
+Jaguapitã,2021-05-16,1725,41
+Jaguariaíva,2021-05-16,3003,97
+Jandaia do Sul,2021-05-16,2290,55
+Janiópolis,2021-05-16,373,9
+Japira,2021-05-16,432,9
+Japurá,2021-05-16,556,6
+Jardim Alegre,2021-05-16,680,18
+Jardim Olinda,2021-05-16,48,2
+Jataizinho,2021-05-16,1512,31
+Jesuítas,2021-05-16,665,19
+Joaquim Távora,2021-05-16,1340,31
+Jundiaí do Sul,2021-05-16,172,5
+Juranda,2021-05-16,595,11
+Jussara,2021-05-16,541,5
+Kaloré,2021-05-16,855,15
+Lapa,2021-05-16,2985,58
+Laranjal,2021-05-16,132,4
+Laranjeiras do Sul,2021-05-16,1667,37
+Leópolis,2021-05-16,357,9
+Lidianópolis,2021-05-16,301,7
+Lindoeste,2021-05-16,349,7
+Loanda,2021-05-16,1727,27
+Lobato,2021-05-16,405,10
+Londrina,2021-05-16,53262,1275
+Luiziana,2021-05-16,402,6
+Lunardelli,2021-05-16,260,1
+Lupionópolis,2021-05-16,269,13
+Mallet,2021-05-16,479,6
+Mamborê,2021-05-16,726,13
+Mandaguaçu,2021-05-16,2712,45
+Mandaguari,2021-05-16,3475,91
+Mandirituba,2021-05-16,2808,69
+Manfrinópolis,2021-05-16,167,4
+Mangueirinha,2021-05-16,1334,23
+Manoel Ribas,2021-05-16,1124,22
+Marechal Cândido Rondon,2021-05-16,4646,83
+Maria Helena,2021-05-16,392,4
+Marialva,2021-05-16,4106,86
+Marilândia do Sul,2021-05-16,743,32
+Marilena,2021-05-16,332,8
+Mariluz,2021-05-16,928,30
+Maringá,2021-05-16,45924,1086
+Mariópolis,2021-05-16,507,14
+Maripá,2021-05-16,465,10
+Marmeleiro,2021-05-16,1626,37
+Marquinho,2021-05-16,177,4
+Marumbi,2021-05-16,381,4
+Matelândia,2021-05-16,2243,40
+Matinhos,2021-05-16,2510,83
+Mato Rico,2021-05-16,70,3
+Mauá da Serra,2021-05-16,656,18
+Medianeira,2021-05-16,5781,78
+Mercedes,2021-05-16,300,4
+Mirador,2021-05-16,113,1
+Miraselva,2021-05-16,173,5
+Missal,2021-05-16,987,13
+Moreira Sales,2021-05-16,473,10
+Morretes,2021-05-16,1803,47
+Munhoz de Melo,2021-05-16,324,7
+Nossa Senhora das Graças,2021-05-16,383,6
+Nova Aliança do Ivaí,2021-05-16,88,1
+Nova América da Colina,2021-05-16,344,8
+Nova Aurora,2021-05-16,1006,17
+Nova Cantu,2021-05-16,378,4
+Nova Esperança,2021-05-16,1628,52
+Nova Esperança do Sudoeste,2021-05-16,534,10
+Nova Fátima,2021-05-16,327,8
+Nova Laranjeiras,2021-05-16,572,4
+Nova Londrina,2021-05-16,783,15
+Nova Olímpia,2021-05-16,797,6
+Nova Prata do Iguaçu,2021-05-16,678,12
+Nova Santa Bárbara,2021-05-16,492,15
+Nova Santa Rosa,2021-05-16,516,5
+Nova Tebas,2021-05-16,292,9
+Novo Itacolomi,2021-05-16,191,4
+Ortigueira,2021-05-16,1535,24
+Ourizona,2021-05-16,222,5
+Ouro Verde do Oeste,2021-05-16,670,15
+Paiçandu,2021-05-16,3537,90
+Palmas,2021-05-16,4741,112
+Palmeira,2021-05-16,2524,57
+Palmital,2021-05-16,888,20
+Palotina,2021-05-16,4008,62
+Paraíso do Norte,2021-05-16,1498,23
+Paranacity,2021-05-16,578,12
+Paranaguá,2021-05-16,18812,364
+Paranapoema,2021-05-16,204,3
+Paranavaí,2021-05-16,7011,175
+Pato Bragado,2021-05-16,382,6
+Pato Branco,2021-05-16,7908,170
+Paula Freitas,2021-05-16,364,13
+Paulo Frontin,2021-05-16,236,1
+Peabiru,2021-05-16,955,19
+Perobal,2021-05-16,494,3
+Pérola,2021-05-16,951,21
+Pérola d'Oeste,2021-05-16,365,7
+Piên,2021-05-16,1034,13
+Pinhais,2021-05-16,13230,369
+Pinhalão,2021-05-16,374,8
+Pinhal de São Bento,2021-05-16,111,1
+Pinhão,2021-05-16,1525,40
+Piraí do Sul,2021-05-16,2259,47
+Piraquara,2021-05-16,10260,230
+Pitanga,2021-05-16,1831,24
+Pitangueiras,2021-05-16,302,7
+Planaltina do Paraná,2021-05-16,273,5
+Planalto,2021-05-16,1052,15
+Ponta Grossa,2021-05-16,34064,871
+Pontal do Paraná,2021-05-16,2481,78
+Porecatu,2021-05-16,1076,27
+Porto Amazonas,2021-05-16,376,12
+Porto Barreiro,2021-05-16,161,1
+Porto Rico,2021-05-16,264,2
+Porto Vitória,2021-05-16,107,5
+Prado Ferreira,2021-05-16,137,11
+Pranchita,2021-05-16,398,5
+Presidente Castelo Branco,2021-05-16,443,10
+Primeiro de Maio,2021-05-16,413,14
+Prudentópolis,2021-05-16,1456,42
+Quarto Centenário,2021-05-16,184,1
+Quatiguá,2021-05-16,730,13
+Quatro Barras,2021-05-16,2654,64
+Quatro Pontes,2021-05-16,417,6
+Quedas do Iguaçu,2021-05-16,2615,57
+Querência do Norte,2021-05-16,846,4
+Quinta do Sol,2021-05-16,459,6
+Quitandinha,2021-05-16,1497,40
+Ramilândia,2021-05-16,368,8
+Rancho Alegre,2021-05-16,258,4
+Rancho Alegre D'Oeste,2021-05-16,146,3
+Realeza,2021-05-16,1788,28
+Rebouças,2021-05-16,1101,20
+Renascença,2021-05-16,596,20
+Reserva,2021-05-16,2061,40
+Reserva do Iguaçu,2021-05-16,470,6
+Ribeirão Claro,2021-05-16,895,15
+Ribeirão do Pinhal,2021-05-16,999,34
+Rio Azul,2021-05-16,836,11
+Rio Bom,2021-05-16,164,6
+Rio Bonito do Iguaçu,2021-05-16,600,6
+Rio Branco do Ivaí,2021-05-16,254,8
+Rio Branco do Sul,2021-05-16,4581,120
+Rio Negro,2021-05-16,1202,30
+Rolândia,2021-05-16,6187,181
+Roncador,2021-05-16,506,9
+Rondon,2021-05-16,807,9
+Rosário do Ivaí,2021-05-16,366,2
+Sabáudia,2021-05-16,904,14
+Salgado Filho,2021-05-16,367,7
+Salto do Itararé,2021-05-16,725,25
+Salto do Lontra,2021-05-16,1195,22
+Santa Amélia,2021-05-16,267,5
+Santa Cecília do Pavão,2021-05-16,349,8
+Santa Cruz de Monte Castelo,2021-05-16,458,9
+Santa Fé,2021-05-16,815,40
+Santa Helena,2021-05-16,2540,45
+Santa Inês,2021-05-16,139,1
+Santa Isabel do Ivaí,2021-05-16,710,18
+Santa Izabel do Oeste,2021-05-16,879,23
+Santa Lúcia,2021-05-16,193,5
+Santa Maria do Oeste,2021-05-16,544,22
+Santa Mariana,2021-05-16,854,33
+Santa Mônica,2021-05-16,189,3
+Santana do Itararé,2021-05-16,656,16
+Santa Tereza do Oeste,2021-05-16,967,18
+Santa Terezinha de Itaipu,2021-05-16,2371,70
+Santo Antônio da Platina,2021-05-16,3568,93
+Santo Antônio do Caiuá,2021-05-16,160,7
+Santo Antônio do Paraíso,2021-05-16,215,1
+Santo Antônio do Sudoeste,2021-05-16,1427,14
+Santo Inácio,2021-05-16,485,11
+São Carlos do Ivaí,2021-05-16,746,11
+São Jerônimo da Serra,2021-05-16,525,18
+São João,2021-05-16,1072,18
+São João do Caiuá,2021-05-16,411,7
+São João do Ivaí,2021-05-16,750,16
+São João do Triunfo,2021-05-16,252,8
+São Jorge d'Oeste,2021-05-16,865,19
+São Jorge do Ivaí,2021-05-16,505,9
+São Jorge do Patrocínio,2021-05-16,785,4
+São José da Boa Vista,2021-05-16,528,19
+São José das Palmeiras,2021-05-16,270,10
+São José dos Pinhais,2021-05-16,21460,650
+São Manoel do Paraná,2021-05-16,167,1
+São Mateus do Sul,2021-05-16,2120,51
+São Miguel do Iguaçu,2021-05-16,2667,48
+São Pedro do Iguaçu,2021-05-16,488,11
+São Pedro do Ivaí,2021-05-16,801,29
+São Pedro do Paraná,2021-05-16,154,1
+São Sebastião da Amoreira,2021-05-16,700,25
+São Tomé,2021-05-16,369,2
+Sapopema,2021-05-16,647,14
+Sarandi,2021-05-16,7679,190
+Saudade do Iguaçu,2021-05-16,627,10
+Sengés,2021-05-16,1369,22
+Serranópolis do Iguaçu,2021-05-16,507,5
+Sertaneja,2021-05-16,468,13
+Sertanópolis,2021-05-16,1989,25
+Siqueira Campos,2021-05-16,2332,44
+Sulina,2021-05-16,344,5
+Tamarana,2021-05-16,767,27
+Tamboara,2021-05-16,353,9
+Tapejara,2021-05-16,1285,23
+Tapira,2021-05-16,368,5
+Teixeira Soares,2021-05-16,466,10
+Telêmaco Borba,2021-05-16,12370,205
+Terra Boa,2021-05-16,1917,26
+Terra Rica,2021-05-16,463,13
+Terra Roxa,2021-05-16,1362,24
+Tibagi,2021-05-16,2086,62
+Tijucas do Sul,2021-05-16,1525,63
+Toledo,2021-05-16,19254,292
+Tomazina,2021-05-16,259,8
+Três Barras do Paraná,2021-05-16,1067,30
+Tunas do Paraná,2021-05-16,531,10
+Tuneiras do Oeste,2021-05-16,533,13
+Tupãssi,2021-05-16,729,23
+Turvo,2021-05-16,1495,10
+Ubiratã,2021-05-16,1076,35
+Umuarama,2021-05-16,11724,186
+União da Vitória,2021-05-16,4875,80
+Uniflor,2021-05-16,79,4
+Uraí,2021-05-16,574,18
+Ventania,2021-05-16,803,26
+Vera Cruz do Oeste,2021-05-16,705,20
+Verê,2021-05-16,924,14
+Virmond,2021-05-16,203,3
+Vitorino,2021-05-16,635,17
+Wenceslau Braz,2021-05-16,1521,66
+Xambrê,2021-05-16,286,5
+,2021-05-16,1023279,24670
+Angra dos Reis,2021-05-16,12642,419
+Aperibé,2021-05-16,504,19
+Araruama,2021-05-16,5100,319
+Areal,2021-05-16,922,37
+Armação dos Búzios,2021-05-16,4071,45
+Arraial do Cabo,2021-05-16,623,27
+Barra do Piraí,2021-05-16,5222,292
+Barra Mansa,2021-05-16,13747,480
+Belford Roxo,2021-05-16,19454,583
+Bom Jardim,2021-05-16,1339,34
+Bom Jesus do Itabapoana,2021-05-16,2768,73
+Cabo Frio,2021-05-16,11055,578
+Cachoeiras de Macacu,2021-05-16,2523,85
+Cambuci,2021-05-16,744,29
+Campos dos Goytacazes,2021-05-16,23262,1183
+Cantagalo,2021-05-16,2229,16
+Carapebus,2021-05-16,1351,11
+Cardoso Moreira,2021-05-16,1094,10
+Carmo,2021-05-16,1873,35
+Casimiro de Abreu,2021-05-16,3767,107
+Comendador Levy Gasparian,2021-05-16,625,22
+Conceição de Macabu,2021-05-16,1886,70
+Cordeiro,2021-05-16,2152,8
+Duas Barras,2021-05-16,182,6
+Duque de Caxias,2021-05-16,20016,1309
+Engenheiro Paulo de Frontin,2021-05-16,1315,53
+Guapimirim,2021-05-16,4568,160
+Iguaba Grande,2021-05-16,3851,95
+Importados/Indefinidos,2021-05-16,0,0
+Itaboraí,2021-05-16,8911,616
+Itaguaí,2021-05-16,4822,301
+Italva,2021-05-16,471,21
+Itaocara,2021-05-16,1904,71
+Itaperuna,2021-05-16,6325,173
+Itatiaia,2021-05-16,1296,53
+Japeri,2021-05-16,980,69
+Laje do Muriaé,2021-05-16,494,6
+Macaé,2021-05-16,23270,590
+Macuco,2021-05-16,834,7
+Magé,2021-05-16,10622,462
+Mangaratiba,2021-05-16,2432,109
+Maricá,2021-05-16,8264,406
+Mendes,2021-05-16,1722,40
+Mesquita,2021-05-16,3010,358
+Miguel Pereira,2021-05-16,2119,51
+Miracema,2021-05-16,2121,26
+Natividade,2021-05-16,1045,18
+Nilópolis,2021-05-16,3110,398
+Niterói,2021-05-16,35644,1634
+Nova Friburgo,2021-05-16,16833,555
+Nova Iguaçu,2021-05-16,15820,1415
+Paracambi,2021-05-16,2346,100
+Paraíba do Sul,2021-05-16,4146,132
+Paraty,2021-05-16,2201,64
+Paty do Alferes,2021-05-16,1969,44
+Petrópolis,2021-05-16,9246,1048
+Pinheiral,2021-05-16,2510,60
+Piraí,2021-05-16,3331,60
+Porciúncula,2021-05-16,1931,62
+Porto Real,2021-05-16,1511,32
+Quatis,2021-05-16,673,25
+Queimados,2021-05-16,5174,150
+Quissamã,2021-05-16,2346,65
+Resende,2021-05-16,11155,388
+Rio Bonito,2021-05-16,4927,176
+Rio Claro,2021-05-16,1277,44
+Rio das Flores,2021-05-16,163,13
+Rio das Ostras,2021-05-16,10132,376
+Rio de Janeiro,2021-05-16,303490,25289
+Santa Maria Madalena,2021-05-16,224,9
+Santo Antônio de Pádua,2021-05-16,3952,118
+São Fidélis,2021-05-16,520,78
+São Francisco de Itabapoana,2021-05-16,1406,67
+São Gonçalo,2021-05-16,43373,2218
+São João da Barra,2021-05-16,3684,18
+São João de Meriti,2021-05-16,8372,919
+São José de Ubá,2021-05-16,309,5
+São José do Vale do Rio Preto,2021-05-16,1627,52
+São Pedro da Aldeia,2021-05-16,4241,220
+São Sebastião do Alto,2021-05-16,425,17
+Sapucaia,2021-05-16,2586,98
+Saquarema,2021-05-16,2249,213
+Seropédica,2021-05-16,1967,162
+Silva Jardim,2021-05-16,1214,19
+Sumidouro,2021-05-16,987,47
+Tanguá,2021-05-16,2713,94
+Teresópolis,2021-05-16,23283,697
+Trajano de Moraes,2021-05-16,476,3
+Três Rios,2021-05-16,8792,233
+Valença,2021-05-16,2766,142
+Varre-Sai,2021-05-16,1874,5
+Vassouras,2021-05-16,2011,104
+Volta Redonda,2021-05-16,27502,856
+,2021-05-16,816015,48006
+,2021-05-16,253364,5882
+Alta Floresta D'Oeste,2021-05-16,3584,59
+Alto Alegre dos Parecis,2021-05-16,1341,35
+Alto Paraíso,2021-05-16,1648,39
+Alvorada D'Oeste,2021-05-16,891,25
+Ariquemes,2021-05-16,19078,413
+Buritis,2021-05-16,4261,62
+Cabixi,2021-05-16,663,18
+Cacaulândia,2021-05-16,768,9
+Cacoal,2021-05-16,11618,224
+Campo Novo de Rondônia,2021-05-16,1083,22
+Candeias do Jamari,2021-05-16,3488,68
+Castanheiras,2021-05-16,242,6
+Cerejeiras,2021-05-16,2148,54
+Chupinguaia,2021-05-16,1296,16
+Colorado do Oeste,2021-05-16,1702,29
+Corumbiara,2021-05-16,621,16
+Costa Marques,2021-05-16,1254,26
+Cujubim,2021-05-16,1700,36
+Espigão D'Oeste,2021-05-16,2624,56
+Governador Jorge Teixeira,2021-05-16,570,16
+Guajará-Mirim,2021-05-16,5285,208
+Importados/Indefinidos,2021-05-16,0,0
+Itapuã do Oeste,2021-05-16,1285,18
+Jaru,2021-05-16,6873,156
+Ji-Paraná,2021-05-16,16302,451
+Machadinho D'Oeste,2021-05-16,5736,76
+Ministro Andreazza,2021-05-16,466,14
+Mirante da Serra,2021-05-16,931,10
+Monte Negro,2021-05-16,1410,27
+Nova Brasilândia D'Oeste,2021-05-16,1608,25
+Nova Mamoré,2021-05-16,3021,60
+Nova União,2021-05-16,763,14
+Novo Horizonte do Oeste,2021-05-16,546,21
+Ouro Preto do Oeste,2021-05-16,4234,121
+Parecis,2021-05-16,257,7
+Pimenta Bueno,2021-05-16,4858,68
+Pimenteiras do Oeste,2021-05-16,398,15
+Porto Velho,2021-05-16,75722,2312
+Presidente Médici,2021-05-16,3005,63
+Primavera de Rondônia,2021-05-16,163,7
+Rio Crespo,2021-05-16,533,9
+Rolim de Moura,2021-05-16,5853,142
+Santa Luzia D'Oeste,2021-05-16,828,12
+São Felipe D'Oeste,2021-05-16,360,8
+São Francisco do Guaporé,2021-05-16,1874,40
+São Miguel do Guaporé,2021-05-16,2044,45
+Seringueiras,2021-05-16,1209,13
+Teixeirópolis,2021-05-16,494,8
+Theobroma,2021-05-16,701,24
+Urupá,2021-05-16,1148,26
+Vale do Anari,2021-05-16,1004,20
+Vale do Paraíso,2021-05-16,700,24
+Vilhena,2021-05-16,11196,215
+,2021-05-16,221387,5488
+,2021-05-16,100084,1571
+,2021-05-16,1031880,26685
+Abdon Batista,2021-05-16,335,2
+Abelardo Luz,2021-05-16,1311,41
+Agrolândia,2021-05-16,1133,17
+Agronômica,2021-05-16,541,9
+Água Doce,2021-05-16,1025,13
+Águas de Chapecó,2021-05-16,383,5
+Águas Frias,2021-05-16,468,2
+Águas Mornas,2021-05-16,696,9
+Alfredo Wagner,2021-05-16,638,7
+Alto Bela Vista,2021-05-16,152,2
+Anchieta,2021-05-16,414,6
+Angelina,2021-05-16,466,1
+Anita Garibaldi,2021-05-16,1034,8
+Anitápolis,2021-05-16,307,1
+Antônio Carlos,2021-05-16,1442,21
+Apiúna,2021-05-16,750,15
+Arabutã,2021-05-16,388,7
+Araquari,2021-05-16,3174,66
+Araranguá,2021-05-16,9006,203
+Armazém,2021-05-16,1334,28
+Arroio Trinta,2021-05-16,484,11
+Arvoredo,2021-05-16,275,4
+Ascurra,2021-05-16,1054,9
+Atalanta,2021-05-16,319,7
+Aurora,2021-05-16,690,14
+Balneário Arroio do Silva,2021-05-16,1821,39
+Balneário Barra do Sul,2021-05-16,1305,30
+Balneário Camboriú,2021-05-16,22399,329
+Balneário Gaivota,2021-05-16,1124,30
+Balneário Piçarras,2021-05-16,4140,42
+Balneário Rincão,2021-05-16,1245,38
+Bandeirante,2021-05-16,241,2
+Barra Bonita,2021-05-16,152,1
+Barra Velha,2021-05-16,3708,81
+Bela Vista do Toldo,2021-05-16,66,2
+Belmonte,2021-05-16,212,4
+Benedito Novo,2021-05-16,919,16
+Biguaçu,2021-05-16,10276,151
+Blumenau,2021-05-16,45240,515
+Bocaina do Sul,2021-05-16,360,3
+Bombinhas,2021-05-16,3307,51
+Bom Jardim da Serra,2021-05-16,558,4
+Bom Jesus,2021-05-16,329,6
+Bom Jesus do Oeste,2021-05-16,155,5
+Bom Retiro,2021-05-16,638,14
+Botuverá,2021-05-16,843,8
+Braço do Norte,2021-05-16,7192,78
+Braço do Trombudo,2021-05-16,571,4
+Brunópolis,2021-05-16,244,6
+Brusque,2021-05-16,23814,239
+Caçador,2021-05-16,5019,191
+Caibi,2021-05-16,554,11
+Calmon,2021-05-16,28,4
+Camboriú,2021-05-16,11215,149
+Campo Alegre,2021-05-16,1079,30
+Campo Belo do Sul,2021-05-16,645,18
+Campo Erê,2021-05-16,822,8
+Campos Novos,2021-05-16,4640,84
+Canelinha,2021-05-16,1181,14
+Canoinhas,2021-05-16,4881,71
+Capão Alto,2021-05-16,142,2
+Capinzal,2021-05-16,4003,32
+Capivari de Baixo,2021-05-16,3856,65
+Catanduvas,2021-05-16,1584,24
+Caxambu do Sul,2021-05-16,465,8
+Celso Ramos,2021-05-16,349,5
+Cerro Negro,2021-05-16,113,4
+Chapadão do Lageado,2021-05-16,264,1
+Chapecó,2021-05-16,33209,602
+Cocal do Sul,2021-05-16,2801,45
+Concórdia,2021-05-16,11706,137
+Cordilheira Alta,2021-05-16,523,8
+Coronel Freitas,2021-05-16,1471,24
+Coronel Martins,2021-05-16,140,3
+Correia Pinto,2021-05-16,1040,40
+Corupá,2021-05-16,1560,32
+Criciúma,2021-05-16,31746,468
+Cunha Porã,2021-05-16,736,21
+Cunhataí,2021-05-16,186,1
+Curitibanos,2021-05-16,3420,113
+Descanso,2021-05-16,700,10
+Dionísio Cerqueira,2021-05-16,1410,34
+Dona Emma,2021-05-16,420,2
+Doutor Pedrinho,2021-05-16,386,4
+Entre Rios,2021-05-16,585,8
+Ermo,2021-05-16,313,3
+Erval Velho,2021-05-16,608,7
+Faxinal dos Guedes,2021-05-16,1489,23
+Flor do Sertão,2021-05-16,97,0
+Florianópolis,2021-05-16,73981,960
+Formosa do Sul,2021-05-16,321,5
+Forquilhinha,2021-05-16,4232,35
+Fraiburgo,2021-05-16,3897,77
+Frei Rogério,2021-05-16,255,6
+Galvão,2021-05-16,284,6
+Garopaba,2021-05-16,2942,35
+Garuva,2021-05-16,1775,27
+Gaspar,2021-05-16,7167,139
+Governador Celso Ramos,2021-05-16,2358,23
+Grão Pará,2021-05-16,1045,8
+Gravatal,2021-05-16,2024,43
+Guabiruba,2021-05-16,3245,37
+Guaraciaba,2021-05-16,1308,15
+Guaramirim,2021-05-16,6067,69
+Guarujá do Sul,2021-05-16,378,7
+Guatambú,2021-05-16,738,15
+Herval d'Oeste,2021-05-16,3415,47
+Ibiam,2021-05-16,163,4
+Ibicaré,2021-05-16,447,7
+Ibirama,2021-05-16,1376,25
+Içara,2021-05-16,6059,87
+Ilhota,2021-05-16,1629,25
+Imaruí,2021-05-16,997,17
+Imbituba,2021-05-16,6374,100
+Imbuia,2021-05-16,514,9
+Importados/Indefinidos,2021-05-16,0,0
+Indaial,2021-05-16,8563,107
+Iomerê,2021-05-16,230,7
+Ipira,2021-05-16,344,5
+Iporã do Oeste,2021-05-16,489,8
+Ipuaçu,2021-05-16,930,11
+Ipumirim,2021-05-16,569,8
+Iraceminha,2021-05-16,307,1
+Irani,2021-05-16,1353,13
+Irati,2021-05-16,263,7
+Irineópolis,2021-05-16,464,8
+Itá,2021-05-16,855,14
+Itaiópolis,2021-05-16,2158,38
+Itajaí,2021-05-16,25848,587
+Itapema,2021-05-16,11410,216
+Itapiranga,2021-05-16,1761,14
+Itapoá,2021-05-16,2637,56
+Ituporanga,2021-05-16,2767,52
+Jaborá,2021-05-16,696,7
+Jacinto Machado,2021-05-16,1181,28
+Jaguaruna,2021-05-16,2922,50
+Jaraguá do Sul,2021-05-16,25129,287
+Jardinópolis,2021-05-16,340,4
+Joaçaba,2021-05-16,5075,51
+Joinville,2021-05-16,88266,1375
+José Boiteux,2021-05-16,565,5
+Jupiá,2021-05-16,170,4
+Lacerdópolis,2021-05-16,397,4
+Lages,2021-05-16,22242,416
+Laguna,2021-05-16,4623,127
+Lajeado Grande,2021-05-16,186,5
+Laurentino,2021-05-16,960,5
+Lauro Müller,2021-05-16,2047,34
+Lebon Régis,2021-05-16,905,44
+Leoberto Leal,2021-05-16,234,2
+Lindóia do Sul,2021-05-16,777,11
