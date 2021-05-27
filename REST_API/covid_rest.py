@@ -9,7 +9,7 @@ import requests
 import csv
 
 # 1º REQUISITION PARAMETERS
-header = {"Authorization": "Token 4402c5e819658e2be8c0eec5a75ce187efd96936"}
+header = {"Authorization": "Your token here"}
 url = "https://api.brasil.io/v1/dataset/covid19/caso/data/"
 
 # 2º NOME DO ARQUIVO CSV
