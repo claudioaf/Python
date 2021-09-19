@@ -12,7 +12,7 @@ import csv
 header = {"Authorization": "Your token here"}
 url = "https://api.brasil.io/v1/dataset/covid19/caso/data/"
 
-# 2º NOME DO ARQUIVO CSV
+# 2º NAME OF THE CSV FILE
 fname = "covid.csv"
 
 # 3º REQUEST THE API
@@ -24,7 +24,7 @@ dados = request.json()
 # Counter to show the page (We will not use it here)
 #i = 1
 
-# 4º CREATING THE FIRST FILE
+# 4º CREATING THE FIRST FILE 
 with open(fname, "w") as file:
     csv_file = csv.writer(file)
     csv_file.writerow(["city", "date", "confirmed", "deaths"])
@@ -41,7 +41,7 @@ dados = request.json()
 # 6º GETTING DATA FROM THE NEXT PAGES
 while url_2 != "null":
 
-    # ADICIONANDO DADOS DAS PÁGINAS SEGUINTES
+    # ADDING DATA FROM THE FOLLOWING PAGES
     with open(fname, "a") as file:
         csv_file = csv.writer(file)
         for item in dados["results"]:
